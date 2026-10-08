@@ -7601,5 +7601,581 @@
       "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
     ],
     "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/9"
+  },
+  {
+    "id": "re6-helena-hd",
+    "g": "re6",
+    "n": "Helena Harper HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Helena لتحسين تفاصيل الشخصية.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/237"
+  },
+  {
+    "id": "mhw-better-focus",
+    "g": "mhw",
+    "n": "Better Focus Mode",
+    "cat": "🎯 Gameplay",
+    "desc": "يحسن تصحيح اتجاه الهجمات مع الإبقاء على التحكم الطبيعي بالحركة.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/8551"
+  },
+  {
+    "id": "mhw-lower-render-res",
+    "g": "mhw",
+    "n": "Lower Render Resolution",
+    "cat": "⚡ أداء",
+    "desc": "يسمح بخفض دقة التصيير أكثر من الخيارات الافتراضية مع الحفاظ على وضوح النصوص.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/7085"
+  },
+  {
+    "id": "mhw-ls-qol",
+    "g": "mhw",
+    "n": "Slightly Overtuned LS Changes And Quality of Life",
+    "cat": "⚔️ Gameplay",
+    "desc": "تعديلات توازن وجودة حياة لسلاح Long Sword.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/3929"
+  },
+  {
+    "id": "mhw-true-hunter-balance",
+    "g": "mhw",
+    "n": "True Hunter Balance",
+    "cat": "⚖️ Overhaul",
+    "desc": "Vanilla+ يعيد توازن التقدم والبناء وجودة الحياة.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/8601"
+  },
+  {
+    "id": "mhw-carry-limit",
+    "g": "mhw",
+    "n": "Quality of Life - Increase Carry Limit",
+    "cat": "🎒 QoL",
+    "desc": "يرفع حد حمل مجموعة من العناصر لتقليل العودة المتكررة للمخزون.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/6700"
+  },
+  {
+    "id": "mhw-pips-qol",
+    "g": "mhw",
+    "n": "Pips Quality of Life Pack",
+    "cat": "🎮 QoL",
+    "desc": "حزمة تعديلات توازن وجودة حياة للأسلحة والمهارات والعناصر.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/4005"
+  },
+  {
+    "id": "mhw-fast-result",
+    "g": "mhw",
+    "n": "FastResult",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز مدة انتظار العودة بعد انتهاء المهمة.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/8587"
+  },
+  {
+    "id": "mhw-endemic-quality",
+    "g": "mhw",
+    "n": "Endemic Quality (Iceborne Edition)",
+    "cat": "🐾 QoL",
+    "desc": "يرفع معدل ظهور الكائنات النادرة مع بقاء شروط الطقس والوقت.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/2137"
+  },
+  {
+    "id": "mhw-yasr",
+    "g": "mhw",
+    "n": "YASR - Yet Another Skill Revamp",
+    "cat": "⚙️ Gameplay",
+    "desc": "يحسن المهارات الأقل استخدامًا ويزيد تنوع أساليب البناء.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/2399"
+  },
+  {
+    "id": "mhr-village-reminders",
+    "g": "mhr",
+    "n": "Village Reminders",
+    "cat": "🖥️ QoL",
+    "desc": "Overlay يذكرك بأنشطة ومرافق القرية الجاهزة أو المعلقة.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/396"
+  },
+  {
+    "id": "dying1-immersive-survival",
+    "g": "dying1",
+    "n": "Immersive Survival Modpack",
+    "cat": "🔥 Overhaul",
+    "desc": "حزمة انغماس وتحدٍ تجمع تحسينات Gameplay وأعداء وطقس وتجربة بقاء.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/1715"
+  },
+  {
+    "id": "dying1-better-dl",
+    "g": "dying1",
+    "n": "Better Dying Light",
+    "cat": "🎮 QoL",
+    "desc": "مجموعة تحسينات جودة حياة ورسومات واستعادة خصائص Gameplay.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/1640"
+  },
+  {
+    "id": "dying1-photorealistic",
+    "g": "dying1",
+    "n": "DL - Definitive Photorealistic",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري يحسن التباين والإضاءة وعمق المشاهد.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/891"
+  },
+  {
+    "id": "dying1-gameplay-enhanced",
+    "g": "dying1",
+    "n": "Gameplay Enhanced",
+    "cat": "🎮 Gameplay",
+    "desc": "حزمة خفيفة تجمع عدة تحسينات جودة حياة في ملف واحد.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/1536"
+  },
+  {
+    "id": "dying1-crafting-overhaul",
+    "g": "dying1",
+    "n": "Crafting Overhaul",
+    "cat": "🛠️ Crafting",
+    "desc": "يوسع نظام التصنيع ويضيف Blueprints وخيارات جديدة.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/106"
+  },
+  {
+    "id": "dying1-survival-overhaul",
+    "g": "dying1",
+    "n": "Dying Light Survival Overhaul",
+    "cat": "🔥 Overhaul",
+    "desc": "يعيد ضبط الصعوبة والتصنيع والتدرج وعدة أنظمة لعب.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/243"
+  },
+  {
+    "id": "dying1-weapon-restoration",
+    "g": "dying1",
+    "n": "Weapon Restoration Project",
+    "cat": "🔫 أسلحة",
+    "desc": "يعيد ويوسع توفر مجموعة من الأسلحة في المتاجر والتقدم.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/66"
+  },
+  {
+    "id": "dying1-legion-harran",
+    "g": "dying1",
+    "n": "I Am Legion - Return to Harran",
+    "cat": "🔥 Overhaul",
+    "desc": "Overhaul لتجربة البقاء والقتال والأعداء.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/128"
+  },
+  {
+    "id": "dying1-e3-animations",
+    "g": "dying1",
+    "n": "E3 Animations Overhaul",
+    "cat": "🎞️ حركات",
+    "desc": "يعيد ويعدل حركات مستوحاة من عروض E3.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/1323"
+  },
+  {
+    "id": "dying1-re-shade",
+    "g": "dying1",
+    "n": "Re-Shade (Reality Shade)",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade لتحسين الألوان والإضاءة والمظهر العام.",
+    "compat": "Dying Light PC.",
+    "req": "ReShade.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/880"
+  },
+  {
+    "id": "dying2-immersive-gameplay",
+    "g": "dying2",
+    "n": "DL2 Immersive Gameplay Improvements",
+    "cat": "🎮 Gameplay",
+    "desc": "تعديلات على UV Flashlight والتجدد وعدة جوانب لتحسين الانغماس.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1420"
+  },
+  {
+    "id": "dying2-immersion-overhaul",
+    "g": "dying2",
+    "n": "Immersion Overhaul",
+    "cat": "🔥 Overhaul",
+    "desc": "Overhaul يركز على الانغماس مع الحفاظ على هوية اللعبة.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1817"
+  },
+  {
+    "id": "dying2-real-experience",
+    "g": "dying2",
+    "n": "Real Experience - Real Dying Real Raid",
+    "cat": "🎨 انغماس",
+    "desc": "حزمة بصرية وتجريبية تركز على الواقعية والانغماس.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1481"
+  },
+  {
+    "id": "dying2-graphic-essentials",
+    "g": "dying2",
+    "n": "Immersive Experience - Graphic Essentials Mod",
+    "cat": "🎨 رسومات",
+    "desc": "حزمة إعدادات بصرية مع Presets متعددة للصورة.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/670"
+  },
+  {
+    "id": "dying2-real-time",
+    "g": "dying2",
+    "n": "Real Time",
+    "cat": "🕒 انغماس",
+    "desc": "يعدل طول دورة الوقت لمنح النهار والليل إيقاعًا مختلفًا.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/32"
+  },
+  {
+    "id": "dying2-revitalized",
+    "g": "dying2",
+    "n": "Dying Light 2 - Revitalized",
+    "cat": "🔥 Overhaul",
+    "desc": "يعيد ضبط عوامل Gameplay لتجديد تجربة اللعب.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1202"
+  },
+  {
+    "id": "dying2-fours-qol",
+    "g": "dying2",
+    "n": "Four's Balancing and QoL Tweaks",
+    "cat": "⚖️ QoL",
+    "desc": "مجموعة موازنة وجودة حياة لتقليل الطحن وتحسين التقدم.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/229"
+  },
+  {
+    "id": "dying2-no-post",
+    "g": "dying2",
+    "n": "No Post Processing Effects",
+    "cat": "🎨 رسومات",
+    "desc": "يعطل مجموعة من Post Processing Effects لصورة أنظف وخيارات أداء أفضل.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/31"
+  },
+  {
+    "id": "dying2-nohud-effects",
+    "g": "dying2",
+    "n": "No-HUD-No-Effects",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تبديل HUD والمؤثرات عبر ShaderToggler.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "ShaderToggler حسب صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1894"
+  },
+  {
+    "id": "dying2-ultrawide-hud",
+    "g": "dying2",
+    "n": "21-9 Ultrawidescreen HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يعيد ترتيب معظم عناصر HUD لتناسب شاشات 21:9.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1895"
+  },
+  {
+    "id": "dying2-ammo999",
+    "g": "dying2",
+    "n": "999 Ammo and Arrow and Bolts Stacks",
+    "cat": "🔫 QoL",
+    "desc": "يرفع حد تكديس الذخيرة والسهام والـBolts إلى 999.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1639"
+  },
+  {
+    "id": "dying2-flashlight-inertia",
+    "g": "dying2",
+    "n": "Flashlight with inertia and working Aiden's shadow",
+    "cat": "🔦 انغماس",
+    "desc": "يضيف قصورًا لحركة المصباح ويعدل اللون والحجم مع الحفاظ على ظل Aiden.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1384"
+  },
+  {
+    "id": "mafia3-new-game-plus",
+    "g": "mafia3",
+    "n": "Mafia III New Game Plus",
+    "cat": "🎮 Gameplay",
+    "desc": "حفظ/إعداد بداية محسنة مع فتح تخصيصات المركبات والملابس حسب نسخة المود.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/62"
+  },
+  {
+    "id": "mafia3-nohud-effects",
+    "g": "mafia3",
+    "n": "No-HUD-No-Effects",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تبديل HUD ومؤثرات مثل Lens Flares وTracers.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "ShaderToggler حسب صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/51"
+  },
+  {
+    "id": "mafia3-scripthook",
+    "g": "mafia3",
+    "n": "Mafia III Definitive Edition Script Hook",
+    "cat": "🧰 أدوات",
+    "desc": "Port ذاتي الحقن من Script Hook للنسخة Definitive Edition.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع متطلبات وإصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "راجع قسم Requirements وتعليمات الإصدار قبل التثبيت.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/22"
   }
 ]
