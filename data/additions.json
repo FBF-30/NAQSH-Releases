@@ -8177,5 +8177,84 @@
       "ثبّت المود حسب المسار المذكور في الصفحة واختبره منفردًا قبل دمجه مع مودات مشابهة."
     ],
     "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/22"
+  },
+  {
+    "id": "re6-chris-hd",
+    "g": "re6",
+    "n": "Chris Redfield HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Chris Redfield لتحسين تفاصيل الشخصية.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع إصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من الملفات المتأثرة.",
+      "استخرج الملفات حسب تعليمات الصفحة.",
+      "شغّل حملة Chris وتحقق من الخامات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/239"
+  },
+  {
+    "id": "re6-piers-hd",
+    "g": "re6",
+    "n": "Piers Nivans HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Piers Nivans لتحسين التفاصيل.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع إصدار اللعبة المدعوم في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية.",
+      "استخرج الملفات حسب تعليمات الصفحة.",
+      "اختبر Piers داخل الحملة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/240"
+  },
+  {
+    "id": "re6-sherry-skirt",
+    "g": "re6",
+    "n": "Sherry Cute Skirt and Sweater",
+    "cat": "👗 ملابس",
+    "desc": "يضيف مظهرًا بديلًا لـSherry في أجزاء Europe وAsia من الحملة.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع تعليمات التثبيت وFluffy Manager عند الحاجة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات بالطريقة الموضحة في الصفحة.",
+      "شغّل حملة Jake وتحقق من مظهر Sherry في الفصول المناسبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/261"
+  },
+  {
+    "id": "mafia3-cheat-table",
+    "g": "mafia3",
+    "n": "Mafia III Definitive Edition Cheat Engine Table",
+    "cat": "🧰 أدوات",
+    "desc": "جدول أدوات للاستخدام الفردي يتضمن ذخيرة وقنابل وBullet Time وAdrenaline وصحة المركبات.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "Cheat Engine؛ راجع نسخة اللعبة المدعومة في الصفحة.",
+    "install": [
+      "حمّل الجدول من Nexus.",
+      "ثبّت Cheat Engine من مصدره الرسمي.",
+      "افتح اللعبة ثم الجدول.",
+      "فعّل الخيارات المطلوبة للاستخدام الفردي فقط."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/55"
+  },
+  {
+    "id": "mafia3-lincoln-barbro",
+    "g": "mafia3",
+    "n": "Lincoln Barbro Clay",
+    "cat": "👤 شخصيات",
+    "desc": "تعديل مظهر لـLincoln Clay بقصة شعر وملابس مستوحاة من Joe Barbaro.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع تعليمات صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من ملفات الشخصية.",
+      "ثبّت الملفات حسب المسار المذكور.",
+      "شغّل اللعبة وتحقق من مظهر Lincoln."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/65"
   }
 ]
