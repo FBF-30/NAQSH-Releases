@@ -6121,5 +6121,20 @@
       "افتح الخريطة وتحقق من العلامات."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1904"
+  },
+  {
+    "id": "kcd-helmet-off-dialog",
+    "g": "kcd",
+    "n": "Helmet-Off Dialog",
+    "cat": "🎭 QoL",
+    "desc": "ينزع الخوذة وغطاء الرأس تلقائيًا عند بدء الحوارات ثم يعيد تجهيزها بعد انتهاء الحوار.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "راجع الملاحظات الخاصة بالأنشطة التي تتطلب بقاء الخوذة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "شغّل اللعبة وابدأ حوارًا مع NPC للتأكد من نزع وإعادة تجهيز العتاد."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1909"
   }
 ]
