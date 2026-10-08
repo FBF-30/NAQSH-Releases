@@ -5063,5 +5063,37 @@
       "Follow the Nexus page."
     ],
     "url": "https://www.nexusmods.com/monsterhunterworld/mods/4191"
+  },
+  {
+    "id": "mafia1-enemies-city-freeride",
+    "g": "mafia1",
+    "n": "Enemies in the City - Freeride",
+    "cat": "🚨 Gameplay",
+    "desc": "يضيف مواجهات عشوائية ومناطق يسيطر عليها الأعداء وسيناريوهات NPC داخل Free Ride.",
+    "compat": "Mafia: Definitive Edition - Free Ride.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات المؤلف.",
+      "ادخل Free Ride وجرّب عدة مناطق.",
+      "لا تجمعه مع Overhaul آخر يغيّر Free Ride قبل اختبار التوافق."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/108"
+  },
+  {
+    "id": "mafia1-remove-taa-fog-color",
+    "g": "mafia1",
+    "n": "Remove TAA Blur - Fog - Color Correction",
+    "cat": "🎨 بصري",
+    "desc": "يزيل ضبابية TAA والضباب وتصحيح الألوان للحصول على صورة أوضح بدون ReShade.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا يحتاج ReShade.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "خذ نسخة احتياطية من الملفات التي سيستبدلها.",
+      "ثبّت حسب تعليمات الصفحة.",
+      "اختبر الصورة نهارًا وليلًا قبل دمجه مع Preset بصري آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/129"
   }
 ]
