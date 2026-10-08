@@ -6628,5 +6628,130 @@
       "فعّل الـPreset واختبر الأداء داخل منطقة مفتوحة."
     ],
     "url": "https://www.nexusmods.com/monsterhunterrise/mods/3471"
+  },
+  {
+    "id": "re5-increased-fov",
+    "g": "re5",
+    "n": "Increased FOV for all characters",
+    "cat": "🎥 كاميرا",
+    "desc": "يوسع مجال الرؤية لجميع الشخصيات عبر ملفات كاميرا معدلة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من ملفات الكاميرا.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر عدة شخصيات للتأكد من مجال الرؤية."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1066"
+  },
+  {
+    "id": "re5-sheva-left-camera",
+    "g": "re5",
+    "n": "Sheva Left Side Camera",
+    "cat": "🎥 كاميرا",
+    "desc": "ينقل Sheva إلى الجهة اليسرى من الكاميرا مع نسخ عادية وHigh FOV.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر نسخة FOV المناسبة.",
+    "install": [
+      "حمّل الملف المطلوب.",
+      "ثبّت ملفات الكاميرا حسب الصفحة.",
+      "شغّل اللعبة بشخصية Sheva واختبر الزوايا."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/71"
+  },
+  {
+    "id": "re5-custom-weapons-pack",
+    "g": "re5",
+    "n": "CUSTOM WEAPONS PACK by Nutelcio",
+    "cat": "🔫 أسلحة",
+    "desc": "حزمة أسلحة متعددة بتصاميم وأصوات مخصصة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر البدائل التي تحتاجها فقط.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "خذ نسخة احتياطية من ملفات الأسلحة.",
+      "ثبّت البدائل المطلوبة فقط.",
+      "لا تفعّل بديلين لنفس السلاح."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/770"
+  },
+  {
+    "id": "re5-re4vr-weapons",
+    "g": "re5",
+    "n": "RE4 VR Weapon Pack",
+    "cat": "🔫 أسلحة",
+    "desc": "حزمة أسلحة كاملة من Resident Evil 4 VR مع عناصر HUD ورسوم متحركة للأسلحة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع تعارضات بدائل الأسلحة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الملفات حسب بنية الأرشيف.",
+      "عطّل أي Weapon Replacer يتعارض معها.",
+      "اختبر الأسلحة داخل القصة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/196"
+  },
+  {
+    "id": "re5-re1hd-weapons",
+    "g": "re5",
+    "n": "RE1HD Weapon Pack",
+    "cat": "🔫 أسلحة",
+    "desc": "يضيف أسلحة وعناصر فرعية مستوحاة من Resident Evil HD Remaster.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الأسلحة حسب الصفحة.",
+      "اختبر كل سلاح بعد التركيب."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1137"
+  },
+  {
+    "id": "re5-advanced-ui",
+    "g": "re5",
+    "n": "Advanced UI Theme Resident Evil 5",
+    "cat": "🖥️ واجهة",
+    "desc": "يغيّر HUD والخطوط وعناصر الواجهة برسوم وهوية بصرية مختلفة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر لغة متوافقة من الملفات المتاحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات UI حسب التعليمات.",
+      "شغّل اللعبة وتحقق من الخطوط والقوائم وHUD."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/152"
+  },
+  {
+    "id": "re5-care-package",
+    "g": "re5",
+    "n": "RE5 GE Care Package",
+    "cat": "🧰 تجميعة",
+    "desc": "حزمة تحسينات متنوعة تتضمن خيارات بصرية وواجهة وتعديلات جودة حياة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع الخيارات داخل الحزمة قبل التثبيت.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "اقرأ وصف كل خيار قبل نسخه.",
+      "ثبّت فقط العناصر التي تحتاجها.",
+      "اختبر اللعبة بعد كل مجموعة تغييرات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/8"
+  },
+  {
+    "id": "re5-realistic-visual",
+    "g": "re5",
+    "n": "Realistic Visual RE5",
+    "cat": "🎨 رسومات",
+    "desc": "يحسن الإضاءة والظلال والألوان والانعكاسات لمظهر أكثر واقعية.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع تعليمات ReShade أو الملفات المرفقة في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة في الصفحة.",
+      "طبّق ملفات الإعداد البصري.",
+      "اختبر مشاهد النهار والليل."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/269"
   }
 ]
