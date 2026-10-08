@@ -150,7 +150,7 @@ try{const ix:any=await DATA_S3.file("index.json").json(),k="mods/revillage-batch
 
 try{const extra=JSON.parse(Bun.env.EXTRA_MODS_JSON||"[]");if(Array.isArray(extra))MODS.push(...extra.filter((x:Mod)=>x&&x.id&&x.g&&!MODS.some(m=>m.id===x.id||m.url===x.url)))}catch{}
 
-try{const LOCAL_MODS:Mod[]=await Bun.file("./data/additions.json").json();const ids=new Set(MODS.map(x=>x.id)),urls=new Set(MODS.map(x=>x.url));MODS.push(...LOCAL_MODS.filter(x=>!ids.has(x.id)&&!urls.has(x.url)));console.log("N7RModsBot local additions",LOCAL_MODS.length)}catch(e){console.error("local additions load error",String(e))}
+try{const LOCAL_MODS:Mod[]=await Bun.file("./data/additions.json").json();const ids=new Set(MODS.map(x=>x.id)),urls=new Set(MODS.map(x=>x.url));const ACCEPTED_LOCAL=LOCAL_MODS.filter(x=>!ids.has(x.id)&&!urls.has(x.url));MODS.push(...ACCEPTED_LOCAL);console.log("N7RModsBot local additions",LOCAL_MODS.length,"accepted",ACCEPTED_LOCAL.length);console.log("N7RModsBot final library",MODS.length,SAVES.length,JSON.stringify(Object.fromEntries(G.map(g=>[g.id,MODS.filter(m=>m.g===g.id).length]))))}catch(e){console.error("local additions load error",String(e))}
 const MM=Object.fromEntries(MODS.map(x=>[x.id,x]));
 const SFM=Object.fromEntries(SAVES.map(x=>[x.id,x]));
 const searching=new Set<number>();
