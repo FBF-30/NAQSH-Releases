@@ -5782,5 +5782,174 @@
       "اختبر الأداء وعدّل القيم حسب جهازك."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2187"
+  },
+  {
+    "id": "kcd-smaller-map-icons",
+    "g": "kcd",
+    "n": "Smaller Map Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يصغر أيقونات الخريطة بما فيها DLC لتقليل التداخل بينها.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "اختر نسبة الحجم المناسبة.",
+    "install": [
+      "حمّل النسخة المطلوبة من Nexus.",
+      "استخرج المجلد داخل Mods.",
+      "أضف smaller_map_icons إلى mod_order.txt إذا كان مستخدمًا."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2150"
+  },
+  {
+    "id": "kcd-spearmans-delight",
+    "g": "kcd",
+    "n": "Spearmans Delight",
+    "cat": "⚔️ Gameplay",
+    "desc": "يجعل Polearms قابلة للشراء والتجهيز والتخزين بشكل كامل بدون التأثير السلبي على استخدام NPC.",
+    "compat": "KCD 1.9.3.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات إلى Mods.",
+      "شغّل اللعبة واختبر شراء وتجهيز Polearm."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/404"
+  },
+  {
+    "id": "kcd-better-combat-easy",
+    "g": "kcd",
+    "n": "Better Combat - Easy Edition",
+    "cat": "⚔️ Combat",
+    "desc": "نسخة أكثر سهولة من Better Combat تقلل Dodges وParries وMasterstrikes للأعداء.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا تستخدمه مع Better Combat الأصلي في الوقت نفسه.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج Kingdom Come Deliverance إلى مجلد اللعبة حسب الصفحة.",
+      "استخدم نسخة واحدة فقط من Better Combat.",
+      "تحقق من تحميل المود عبر Console."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1533"
+  },
+  {
+    "id": "kcd-clean-minimal-hud",
+    "g": "kcd",
+    "n": "Clean and Minimal HUD and Map",
+    "cat": "🖥️ واجهة",
+    "desc": "يصغر ويشفف HUD والخريطة لعناصر أقل إزعاجًا وتجربة أكثر انغماسًا.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "يتعارض مع مودات تعدل نفس HUD/Map elements.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المجلد داخل Mods.",
+      "ضعه متأخرًا في Load Order إذا أردت أن يتغلب على تعديلات واجهة أخرى."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2030"
+  },
+  {
+    "id": "kcd-modified-combat-overhaul",
+    "g": "kcd",
+    "n": "Modified Combat Overhaul - Directional Combat and Smarter AI",
+    "cat": "⚔️ Combat",
+    "desc": "يعزز أهمية اتجاه الضرب والدفاع ويجعل القتال أكثر اعتمادًا على المهارة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "Better Combat and Immersion Compilation Lite.",
+    "install": [
+      "ثبّت Better Combat Lite أولًا.",
+      "حمّل هذا المود من Nexus.",
+      "استبدل BetterCombatLite.pak بالملف المرفق حسب الصفحة.",
+      "اختبر القتال في حفظ احتياطي."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1384"
+  },
+  {
+    "id": "kcd-less-intrusive-map-icons",
+    "g": "kcd",
+    "n": "Less Intrusive Map Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يقلل حجم كثير من أيقونات الخريطة إلى نصف الحجم تقريبًا.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "بديل لـSmaller Map Icons؛ لا تحتاج تفعيل الاثنين معًا.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المجلد داخل Mods.",
+      "اختره كبديل إذا فضلت أيقونات أصغر جدًا."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/566"
+  },
+  {
+    "id": "kcd-smaller-player-dlc-markers",
+    "g": "kcd",
+    "n": "Smaller Player Markers and DLC Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يصغر مؤشرات Henry وTheresa والكلب وDLC والعلامات الإضافية على الخريطة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "يمكن استخدامه منفردًا أو مع Less Intrusive Map Icons.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات داخل Mods.",
+      "شغّل الخريطة وتحقق من أحجام العلامات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1749"
+  },
+  {
+    "id": "kcd-realistic-repairs",
+    "g": "kcd",
+    "n": "Realistic Repairs",
+    "cat": "🔧 Gameplay",
+    "desc": "يوسع قدرة Henry على إصلاح المعدات تدريجيًا مع مهارة Maintenance حتى حدود أكثر واقعية.",
+    "compat": "Kingdom Come: Deliverance؛ توجد نسخة تعمل على الصعوبات المختلفة.",
+    "req": "PTF؛ لا تجمعه مع مود يغير حدود Repair Kits.",
+    "install": [
+      "حمّل الملف المناسب من Nexus.",
+      "استخرج Realistic_Repairs داخل Mods.",
+      "اختبر إصلاح قطعة منخفضة Durability حسب مستوى Maintenance."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1842"
+  },
+  {
+    "id": "kcd-adjusted-ultra-config",
+    "g": "kcd",
+    "n": "Adjusted Ultra Graphics Config",
+    "cat": "⚡ أداء",
+    "desc": "يضبط Texture Streaming وLOD والإضاءة والظلال لرفع الأداء على إعداد Ultra.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "موجه أساسًا لمستخدمي Ultra.",
+    "install": [
+      "اضبط الرسومات على Ultra أولًا.",
+      "حمّل autoexec.cfg المناسب لجهازك.",
+      "ضعه في مجلد KingdomComeDeliverance الرئيسي.",
+      "أعد تشغيل اللعبة بعد أي تغيير رسومي."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1342"
+  },
+  {
+    "id": "kcd-hoods-scarfs-up",
+    "g": "kcd",
+    "n": "Hoods and Scarfs UP - PTF Dynamic",
+    "cat": "👕 ملابس",
+    "desc": "يجعل عشرات Hoods وScarfs قابلة للظهور مرفوعة ومنخفضة مع Meshes مصححة.",
+    "compat": "Kingdom Come: Deliverance + DLCs المذكورة في الصفحة.",
+    "req": "PTF؛ راجع متطلبات DLC.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "تأكد من توفر DLCs المطلوبة.",
+      "اختبر Hoods وScarfs داخل الجرد."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1423"
+  },
+  {
+    "id": "kcd-realistic-horses",
+    "g": "kcd",
+    "n": "Realistic Horses",
+    "cat": "🐎 Gameplay",
+    "desc": "يعيد موازنة Carry Capacity للخيول واللاعب بشكل أكثر واقعية.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "PTF؛ قد يتعارض مع مودات Horse Capacity أو Racehorse perk.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج Realistic_Horses داخل Mods.",
+      "اختبر Carry Capacity على أكثر من حصان."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1839"
   }
 ]
