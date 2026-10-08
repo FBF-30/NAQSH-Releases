@@ -5236,5 +5236,21 @@
       "شغّل اللعبة واختبر عدة أسلحة."
     ],
     "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/33"
+  },
+  {
+    "id": "mafia2-international-kb6",
+    "g": "mafia2",
+    "n": "International KB-6",
+    "cat": "🚚 سيارات",
+    "desc": "يضيف شاحنة International KB-6 موديل 1946 كبديل لـShubert Truck Flatbed.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "Mafia II Definitive Edition Wheel Pack.",
+    "install": [
+      "ثبّت Wheel Pack المطلوب أولًا.",
+      "حمّل International KB-6 من Nexus.",
+      "انسخ الملفات إلى مجلد اللعبة ووافق على الاستبدال.",
+      "ادخل اللعبة واختبر الشاحنة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/39"
   }
 ]
