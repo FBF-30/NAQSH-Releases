@@ -6440,5 +6440,65 @@
       "اختبر S75 مع شخصية نسائية في Mercenaries."
     ],
     "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1116"
+  },
+  {
+    "id": "re5-sound-mod-2026",
+    "g": "re5",
+    "n": "RE5 Sound Mod",
+    "cat": "🔊 صوت",
+    "desc": "يستبدل موسيقى مواجهتين رئيسيتين: Executioner في Chapter 1 ومعركة Chris ضد Wesker/Jill.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الأرشيف من Nexus.",
+      "استخرج مجلد nativePC داخل مجلد اللعبة الرئيسي.",
+      "شغّل Chapter 1 ومعركة Wesker/Jill لاختبار المسارات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1131"
+  },
+  {
+    "id": "re5-mutated-krauser",
+    "g": "re5",
+    "n": "Mutated Krauser Reimagined",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Wesker Midnight بـMutated Krauser مع Boss Animations مستوحاة من RE4.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختر Wesker Midnight واختبر الحركات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1124"
+  },
+  {
+    "id": "re5-josh-hd",
+    "g": "re5",
+    "n": "Josh Stone HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Josh Stone لتحسين تفاصيل الشخصية.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات داخل مجلد اللعبة حسب بنية الأرشيف.",
+      "اختبر Josh في المشاهد والأطوار التي يظهر فيها."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/309"
+  },
+  {
+    "id": "re5-excella-hd",
+    "g": "re5",
+    "n": "Excella Gionne HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Excella Gionne لتحسين التفاصيل في المشاهد.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات حسب بنية الأرشيف.",
+      "اختبر Excella في المشاهد للتأكد من الخامات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/304"
   }
 ]
