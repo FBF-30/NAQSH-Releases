@@ -5612,5 +5612,81 @@
       "اختبر انخفاض Stamina وHealth."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/864"
+  },
+  {
+    "id": "kcd2-black-bear",
+    "g": "kcd2",
+    "n": "Black Bear",
+    "cat": "🐻 Gameplay",
+    "desc": "يضيف دببة سوداء كمواجهات نادرة في برية Bohemia مع قتال صعب وفراء ذي قيمة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة مذكورة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "شغّل اللعبة واستكشف البرية حتى تظهر مواجهة عشوائية."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3674"
+  },
+  {
+    "id": "kcd2-riddler-charly",
+    "g": "kcd2",
+    "n": "Riddler Charly - New Random Encounter",
+    "cat": "🧩 محتوى",
+    "desc": "يضيف مواجهة عشوائية جديدة بصوت كامل مع أربعة ألغاز على طرق Bohemia.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود إلى KingdomComeDeliverance2/Mods.",
+      "شغّل اللعبة وتنقل على الطرق للعثور على Charly."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2985"
+  },
+  {
+    "id": "kcd2-theresa-companion",
+    "g": "kcd2",
+    "n": "Theresa - Settle and Companion",
+    "cat": "🤝 رفاق",
+    "desc": "يضيف Theresa كرفيقة قابلة للاستقرار والمتابعة والركوب والعلاج وتغيير الملابس والشعر.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "راجع متطلبات الإصدار الحالي في صفحة Nexus.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات داخل Mods حسب الصفحة.",
+      "ابدأ اللعبة وتحدث مع Theresa لتفعيل خيارات الرفيق.",
+      "اختبره على حفظ احتياطي."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3361"
+  },
+  {
+    "id": "kcd2-thieving-contract-fix",
+    "g": "kcd2",
+    "n": "Thieving Contract Quest Fix",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يصلح خطأ يمنع Henry من محادثة NPC Spots ويعيد إتاحة Sculptor without a Future وسلسلة Sinners of Kuttenberg.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المود داخل Mods.",
+      "شغّل اللعبة وعد إلى NPC المتأثر للتحقق من الحوار."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2736"
+  },
+  {
+    "id": "kcd2-magdalena-fix",
+    "g": "kcd2",
+    "n": "Naked Magdalena Fix",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يصلح مشكلة ظهور Magdalena بدون ملابس في منطقة Forge الناتجة عن تعارض معروف.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "مفيد خصوصًا عند وجود المود المسبب للمشكلة المذكور في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت مجلد المود داخل Mods.",
+      "شغّل اللعبة وافحص Magdalena في الـForge."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3315"
   }
 ]
