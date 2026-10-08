@@ -6303,5 +6303,142 @@
       "اختر Sheva Clubbin' داخل اللعبة."
     ],
     "url": "https://www.nexusmods.com/residentevil5goldedition/mods/453"
+  },
+  {
+    "id": "re5-chris-battlesuit",
+    "g": "re5",
+    "n": "Chris Battlesuit",
+    "cat": "👕 ملابس",
+    "desc": "يضع Chris في Jill Battlesuit مع عدة ملفات اختيارية للمظهر.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل الملف المطلوب من Nexus.",
+      "ثبّت ملفات الزي حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختر Chris للتحقق من الزي."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/564"
+  },
+  {
+    "id": "re5-re4-wesker-boss",
+    "g": "re5",
+    "n": "RE4 Wesker Replaces Wesker Boss",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل نموذج Wesker Boss بنموذجه من Resident Evil 4 مع نسخة كاملة للمشاهد وخيار Gameplay فقط.",
+    "compat": "Resident Evil 5 Gold Edition Story Mode.",
+    "req": "اختر ملف Gameplay فقط أو النسخة الكاملة حسب رغبتك.",
+    "install": [
+      "حمّل أحد الملفات من Nexus.",
+      "اختر نسخة Gameplay only إذا لا تحتاج تعديل المشاهد.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر قتال Wesker والمشاهد المرتبطة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/832"
+  },
+  {
+    "id": "re5-re0-weapon-pack",
+    "g": "re5",
+    "n": "RE0 Weapon Pack",
+    "cat": "🔫 أسلحة",
+    "desc": "يضيف أسلحة وMolotov مستوحاة من Resident Evil 0 كبدائل لأسلحة RE5.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر الملفات المطلوبة فقط من صفحة المود.",
+    "install": [
+      "حمّل ملفات الأسلحة التي تريدها من Nexus.",
+      "ثبّت كل بديل حسب تعليمات الصفحة.",
+      "لا تفعّل بديلين لنفس السلاح في الوقت نفسه."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1130"
+  },
+  {
+    "id": "re5-real-color-fix",
+    "g": "re5",
+    "n": "RE5 Real Color Fix",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade يزيل الفلتر الأخضر بدون DLL fix ويقدم ألوانًا أنظف.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على اللعبة.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملف حسب تعليمات الصفحة.",
+      "فعّل الـPreset واختبر الألوان."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/784"
+  },
+  {
+    "id": "re5-krauser-wesker-pack",
+    "g": "re5",
+    "n": "Krauser over Wesker Pack",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Wesker STARS وMidnight بنسخ Krauser مع Melee وSFX وVoice Lines مخصصة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر Wesker STARS وMidnight داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1126"
+  },
+  {
+    "id": "re5-sheva-throws-jill",
+    "g": "re5",
+    "n": "Sheva THROWS Jill",
+    "cat": "🥊 Gameplay",
+    "desc": "يستبدل Skullcrusher الخاص بـSheva ضد Jill بحركة رمي Majini في المرحلة الثانية من القتال.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Mod Manager متوافق.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّته عبر Fluffy Mod Manager أو بالطريقة اليدوية.",
+      "اختبر قتال Jill في المرحلة الثانية."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/609"
+  },
+  {
+    "id": "re5-hud-leon-chris-names",
+    "g": "re5",
+    "n": "Leon and Chris HUD Names",
+    "cat": "🖥️ واجهة",
+    "desc": "يغيّر أسماء HUD من Chris وSheva إلى Leon وChris لمن يستخدم Character Replacers المناسبة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "مفيد خصوصًا مع مودات Leon/Chris replacer.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات HUD حسب الصفحة.",
+      "شغّل اللعبة وتحقق من أسماء الشخصيات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/600"
+  },
+  {
+    "id": "re5-sheva-punches-jill",
+    "g": "re5",
+    "n": "Sheva PUNCHES Jill",
+    "cat": "🥊 Gameplay",
+    "desc": "يغيّر حركة Sheva ضد Jill إلى ضربة مختلفة بطابع فكاهي أثناء القتال.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر قتال Jill للتأكد من الحركة الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1109"
+  },
+  {
+    "id": "re5-s75-fast",
+    "g": "re5",
+    "n": "S75 Faster Running - Instant Aiming - Quick Reload",
+    "cat": "🔫 Gameplay",
+    "desc": "يحسن استخدام S75 للشخصيات النسائية عبر تصويب فوري وإعادة تلقيم أسرع وحركة أسرع وتقليل تأخير الإطلاق.",
+    "compat": "Resident Evil 5 Gold Edition؛ موجه خصوصًا لشخصيات Mercenaries النسائية.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر S75 مع شخصية نسائية في Mercenaries."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1116"
   }
 ]
