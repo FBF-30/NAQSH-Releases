@@ -6136,5 +6136,172 @@
       "شغّل اللعبة وابدأ حوارًا مع NPC للتأكد من نزع وإعادة تجهيز العتاد."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1909"
+  },
+  {
+    "id": "re5-restored-beta-animations",
+    "g": "re5",
+    "n": "RE5 Restored Unused Beta Animations",
+    "cat": "🎞️ Gameplay",
+    "desc": "يعيد تفعيل عدة حركات Beta غير مستخدمة موجودة أصلًا داخل ملفات Majini.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع الملفات الاختيارية في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر الحركات الجديدة داخل القتال."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1110"
+  },
+  {
+    "id": "re5-nohud-effects",
+    "g": "re5",
+    "n": "No-HUD-No-Effects - Toggle Post FX - Bloom and MORE",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تبديل HUD وPost FX وBloom ومؤثرات أخرى لتحسين الانغماس والتصوير.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "ShaderToggler حسب صفحة المود.",
+    "install": [
+      "حمّل المود والمتطلب من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "استخدم الاختصارات لتبديل HUD والمؤثرات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/689"
+  },
+  {
+    "id": "re5-re4-castle",
+    "g": "re5",
+    "n": "RE4 Castle - Mercenaries",
+    "cat": "🏰 خرائط",
+    "desc": "يستبدل Experimental Facility في Mercenaries بقلعة Resident Evil 4.",
+    "compat": "Resident Evil 5 Gold Edition - Mercenaries.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع الملفات داخل Resident Evil 5/nativePC_MT/Image/Archive.",
+      "ادخل Mercenaries واختر المرحلة المستبدلة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/1105"
+  },
+  {
+    "id": "re5-realistic-reshade",
+    "g": "re5",
+    "n": "RE5 Realistic Reshade Preset",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري يرفع الوضوح والألوان ويزيل جزءًا من الطابع الأخضر مع مؤثرات مثل HDR وDOF.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "RE5 Fix + ReShade with addon support.",
+    "install": [
+      "ثبّت RE5 Fix.",
+      "ثبّت ReShade with addon support.",
+      "ضع ملف الـPreset والشيدرز حسب الصفحة.",
+      "فعّل الـPreset داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/202"
+  },
+  {
+    "id": "re5-character-fixes",
+    "g": "re5",
+    "n": "Gold Edition Character Fixes",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يصلح حركات وخطوط صوتية مفقودة ومشاكل شخصيات قابلة للعب في Gold Edition.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Mod Manager؛ Model Swap Patch موصى به.",
+    "install": [
+      "ثبّت المتطلبات الموصى بها.",
+      "ضع أرشيف المود داخل Games/RE5/Mods في Fluffy.",
+      "فعّل المود واختبر الشخصيات."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/76"
+  },
+  {
+    "id": "re5-lin-sheva",
+    "g": "re5",
+    "n": "LiN Sheva",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Jill في Lost in Nightmares بشخصية Sheva.",
+    "compat": "Resident Evil 5 Gold Edition - Lost in Nightmares.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل Lost in Nightmares وتحقق من الاستبدال."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/685"
+  },
+  {
+    "id": "re5-chris-re8",
+    "g": "re5",
+    "n": "Chris Redfield from RE8",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Costume 03 لـChris بنموذجه من Resident Evil Village.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Mod Manager؛ الصفحة تذكر Ultimate Trainer كخيار لتعطيل Head Clipping بالمشاهد.",
+    "install": [
+      "ثبّت Fluffy Mod Manager.",
+      "حمّل المود من Nexus.",
+      "ثبّته عبر مدير المودات.",
+      "اختر Costume 03 لـChris."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/208"
+  },
+  {
+    "id": "re5-chris-wesker-melee",
+    "g": "re5",
+    "n": "Chris Redfield with Wesker Melee and Voices",
+    "cat": "🥊 Gameplay",
+    "desc": "يعطي Chris حركات Wesker القتالية وخطوطه الصوتية.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "ابدأ جولة بشخصية Chris واختبر Melee والـVoice Lines."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/876"
+  },
+  {
+    "id": "re5-jill-boss-chris",
+    "g": "re5",
+    "n": "Jill Boss Replaces Chris BSAA",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Chris BSAA بنموذج Jill Boss.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر الملف المناسب من Nexus.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ثبّت حسب تعليمات الصفحة.",
+      "ابدأ اللعبة بزي Chris BSAA للتحقق من الاستبدال."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/526"
+  },
+  {
+    "id": "re5-jill-bsaa-uniform",
+    "g": "re5",
+    "n": "RE5 GE - Jill BSAA Uniform",
+    "cat": "👗 ملابس",
+    "desc": "يغيّر زي Jill BSAA إلى تصميم بديل.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الزي حسب الصفحة.",
+      "اختبر Jill BSAA داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/21"
+  },
+  {
+    "id": "re5-sheva-battlesuit",
+    "g": "re5",
+    "n": "Sheva BattleSuit",
+    "cat": "👗 ملابس",
+    "desc": "يضع Sheva بزي BattleSuit الخاص بـJill كبديل لزي Clubbin'.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "اختر أحد الملفات المتاحة حسب التصميم المطلوب.",
+    "install": [
+      "حمّل النسخة المطلوبة من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختر Sheva Clubbin' داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/453"
   }
 ]
