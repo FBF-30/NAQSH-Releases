@@ -5951,5 +5951,175 @@
       "اختبر Carry Capacity على أكثر من حصان."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1839"
+  },
+  {
+    "id": "kcd-high-fps-fx",
+    "g": "kcd",
+    "n": "High FPS FX (KCD1)",
+    "cat": "⚡ أداء",
+    "desc": "يرفع معدل تحديث مؤثرات الجسيمات مثل النار والدخان والمطر والماء والدم إلى 60FPS لنعومة أعلى.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "شغّل اللعبة واختبر النار والمطر والمؤثرات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2106"
+  },
+  {
+    "id": "kcd-timed-quest-indicator",
+    "g": "kcd",
+    "n": "Timed Quest Indicator",
+    "cat": "🧭 QoL",
+    "desc": "يضيف إشارة داخل سجل المهام للـQuests الحساسة للوقت.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المجلد داخل Mods.",
+      "افتح Quest Log وتحقق من العلامات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1780"
+  },
+  {
+    "id": "kcd-better-vanilla-hud",
+    "g": "kcd",
+    "n": "Better Vanilla HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يجعل HUD أقل إزعاجًا مع الحفاظ على أسلوب الواجهة الأصلي.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "قد يتعارض مع HUD mods أخرى؛ استخدمه كبديل.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات داخل Mods.",
+      "اختبر HUD أثناء القتال والاستكشاف."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/72"
+  },
+  {
+    "id": "kcd-hardcore-ui-restored",
+    "g": "kcd",
+    "n": "Hardcore - Compass - Full UI Restored",
+    "cat": "🖥️ واجهة",
+    "desc": "يعيد HUD والـCompass ونقاط الاتجاه وعلامة اللاعب على الخريطة في Hardcore Mode.",
+    "compat": "Kingdom Come: Deliverance 1.9.5.",
+    "req": "مخصص لمن يريد واجهة Vanilla داخل Hardcore.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المجلد داخل Mods.",
+      "ابدأ Hardcore وتحقق من Compass وMap Marker."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/576"
+  },
+  {
+    "id": "kcd-hd-clock-updated",
+    "g": "kcd",
+    "n": "HD Clock Retexture - Inventory Clock Updated",
+    "cat": "🕒 واجهة",
+    "desc": "يعيد خامات ساعة الانتظار والجرد والسفر السريع بدقة أعلى.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملف داخل Mods.",
+      "اختبر ساعة الانتظار والجرد والسفر السريع."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1618"
+  },
+  {
+    "id": "kcd-balanced-combat",
+    "g": "kcd",
+    "n": "More Balanced And Reasonable Combat System",
+    "cat": "⚔️ Combat",
+    "desc": "يعيد موازنة سلوك NPC في Master Strikes وPerfect Blocks لتقليل التذبذب بين السهولة والصعوبة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "اختر ملفًا واحدًا فقط من الإصدارات المتاحة.",
+    "install": [
+      "حمّل النسخة المناسبة من Nexus.",
+      "استخرج الملفات داخل مجلد اللعبة وفق الصفحة.",
+      "لا تجمعه مع Combat mod يعدل نفس rpg_param.xml.",
+      "اختبر القتال على حفظ احتياطي."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/621"
+  },
+  {
+    "id": "kcd-optimized-ultra-config",
+    "g": "kcd",
+    "n": "Optimized Ultra Graphics Configuration",
+    "cat": "⚡ أداء",
+    "desc": "Autoexec حديث يهدف لتحسين جودة Ultra واستقرار الأداء مع خيارات قابلة للتخصيص.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "يفضّل قراءة Docs وضبط القيم حسب جهازك.",
+    "install": [
+      "حمّل autoexec.cfg من Nexus.",
+      "ضعه في مجلد اللعبة الرئيسي.",
+      "راجع Docs وعدّل القيم المناسبة لجهازك.",
+      "أعد تشغيل اللعبة بعد تغيير إعدادات الرسومات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1661"
+  },
+  {
+    "id": "kcd-no-popups",
+    "g": "kcd",
+    "n": "No Popups",
+    "cat": "🖥️ واجهة",
+    "desc": "يزيل معظم نوافذ وأيقونات التنبيه الكبيرة مثل YOU ACTIVATED THE PERK لتجربة أنظف.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "اختر الملف المناسب من صفحة المود.",
+    "install": [
+      "حمّل الإصدار المطلوب من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "اختبر Perks والتنبيهات أثناء اللعب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1919"
+  },
+  {
+    "id": "kcd-auto-hide-hud",
+    "g": "kcd",
+    "n": "Mrozak's Auto Hide HUD - Updated",
+    "cat": "🖥️ واجهة",
+    "desc": "يخفي ويظهر Compass وReticle وStatus Bar وBuff Icons تلقائيًا حسب الحالة، مع FOV ديناميكي.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "يتضمن autoexec.cfg؛ ادمج محتواه إذا لديك ملف موجود.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "ادمج autoexec.cfg مع ملفك الحالي بدل استبداله إن كان لديك إعدادات أخرى.",
+      "اضبط الاختصارات والقيم من Readme."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1619"
+  },
+  {
+    "id": "kcd-save-everywhere",
+    "g": "kcd",
+    "n": "NEXT LEVEL MAIN MENU 3.5 - Ultimate Saving Everywhere",
+    "cat": "💾 QoL",
+    "desc": "يسمح بالحفظ في أي مكان ويضيف خيارات حفظ وAuto-Save من القائمة.",
+    "compat": "Kingdom Come: Deliverance 1.9.6.",
+    "req": "ينصح بأخذ نسخة احتياطية من Saves قبل التثبيت.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من مجلد Saves.",
+      "استخرج المود داخل Mods حسب التعليمات.",
+      "اختبر الحفظ والتحميل قبل الاعتماد عليه."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/380"
+  },
+  {
+    "id": "kcd-better-map-icons",
+    "g": "kcd",
+    "n": "Better Map Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يصغر ويعيد تحسين أيقونات الخريطة لتقليل التداخل وتحسين القراءة.",
+    "compat": "Kingdom Come: Deliverance مع DLCs.",
+    "req": "بديل لمودات Map Icons الأخرى.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع Bettermapicons داخل Mods.",
+      "لا تفعّل عدة حزم Map Icons في الوقت نفسه.",
+      "افتح الخريطة وتحقق من العلامات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1904"
   }
 ]
