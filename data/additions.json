@@ -5421,5 +5421,85 @@
       "حافظ على 60FPS ثابت قدر الإمكان لتفادي عدم تزامن بعض المقاطع."
     ],
     "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/66"
+  },
+  {
+    "id": "kcd2-horse-follow-toggle",
+    "g": "kcd2",
+    "n": "Horse Follow Toggle",
+    "cat": "🐎 QoL",
+    "desc": "يضيف زرًا لتفعيل تتبع الحصان لك تلقائيًا بدل الصفير المتكرر.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "يتطلب إعداد اختصار في user.cfg حسب صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد horse_follow_toggle داخل Mods.",
+      "أضف bind f6 horse_follow إلى user.cfg.",
+      "أضف +exec user.cfg إلى Launch Options إذا لم يكن مستخدمًا من قبل."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3663"
+  },
+  {
+    "id": "kcd2-barber-appearance",
+    "g": "kcd2",
+    "n": "Barber - Appearance Customization",
+    "cat": "👤 شخصيات",
+    "desc": "يوسع الحلاق لتغيير الشعر واللحية والوجه ولون العين وخيارات مظهر كثيرة.",
+    "compat": "Kingdom Come: Deliverance II؛ يعمل مع الحفظ الحالي.",
+    "req": "يجب إضافة mod id إلى Mods/mod_order.txt.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "فك المجلد إلى KingdomComeDeliverance2/Mods/zzappearance.",
+      "أضف zzappearance إلى Mods/mod_order.txt.",
+      "قبل إزالة المود استخدم Restore my original look من الحلاق ثم احفظ."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3670"
+  },
+  {
+    "id": "kcd2-spliced-chess",
+    "g": "kcd2",
+    "n": "Spliced Chess (Real Chess)",
+    "cat": "♟️ Gameplay",
+    "desc": "يضيف شطرنجًا فعليًا قابلًا للعب داخل العالم مع مستويات خصوم ورهانات وأصوات أصلية مركبة من تسجيلات اللعبة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "قد يتعارض مع مودات تعدّل نفس ملفات محادثات NPC.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت مجلد المود داخل Mods وفق تعليمات الصفحة.",
+      "أضف mod id إلى mod_order.txt إذا تطلبت الصفحة ذلك.",
+      "اختبر الدعوة للعب مع NPC في بلدة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3672"
+  },
+  {
+    "id": "kcd2-spliced-voices",
+    "g": "kcd2",
+    "n": "Spliced Voices (Real Voices)",
+    "cat": "🔊 صوت",
+    "desc": "يضيف حوارات جديدة باستخدام التسجيلات الأصلية للممثلين بدون أصوات AI.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "راجع تعارضات ملفات المحادثات في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات داخل Mods حسب تعليمات الصفحة.",
+      "أضف المود إلى mod_order.txt عند الحاجة.",
+      "اختبر حوارات البلدات والحراس."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3673"
+  },
+  {
+    "id": "kcd2-alchemy-steps-optional",
+    "g": "kcd2",
+    "n": "Alchemy - Steps Optional",
+    "cat": "⚗️ QoL",
+    "desc": "يجعل خطوات الطحن والغلي والتقطير اختيارية مع احتساب عملية التحضير دائمًا بأفضل تقييم للعملية.",
+    "compat": "Kingdom Come: Deliverance II + DLC recipes.",
+    "req": "لا يعيد كتابة الوصفات ويعمل عبر Game Parameter واحد.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المود إلى مجلد Mods.",
+      "أضفه إلى mod_order.txt إذا كانت بيئتك تعتمد الملف.",
+      "جرّب وصفة معروفة للتأكد من عمل التغيير."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3669"
   }
 ]
