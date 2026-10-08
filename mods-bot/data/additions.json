@@ -1,0 +1,5067 @@
+[
+  {
+    "id": "re5-beauty-aesthetics",
+    "g": "re5",
+    "n": "Resident Evil 5 Remastered - Beauty And Aesthetics",
+    "cat": "🎨 رسومات",
+    "desc": "حزمة رسومية شاملة لتحسين الخامات والإضاءة في القصة والـDLC.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "مساحة تخزين كبيرة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "خذ نسخة احتياطية من ملفات اللعبة.",
+      "ثبّت الملفات حسب تعليمات الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/70"
+  },
+  {
+    "id": "re5-4k-ai-texture-pack",
+    "g": "re5",
+    "n": "4K Texture Pack AI-Enhanced",
+    "cat": "🖼️ خامات",
+    "desc": "حزمة 4K محسنة لرفع دقة خامات اللعبة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "VRAM ومساحة تخزين مناسبة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "استخرج الملفات حسب بنية الأرشيف.",
+      "اختبر استهلاك VRAM بعد التثبيت."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/737"
+  },
+  {
+    "id": "re5-weapons-hd",
+    "g": "re5",
+    "n": "Weapons HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن دقة خامات الأسلحة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "انسخ الملفات حسب بنية الأرشيف.",
+      "اختبر الأسلحة داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/321"
+  },
+  {
+    "id": "re5-enemies-hd",
+    "g": "re5",
+    "n": "Enemies HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن دقة خامات الأعداء في Resident Evil 5.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "مساحة وVRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "استخرج الملفات حسب بنية الأرشيف.",
+      "اختبر عدة أنواع من الأعداء."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/327"
+  },
+  {
+    "id": "re5-hd-misc",
+    "g": "re5",
+    "n": "HD Miscellaneous Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن خامات القوائم والمجوهرات وشاشات النهاية والكؤوس وعناصر أخرى.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ثبت الملفات حسب بنية الأرشيف.",
+      "اختبر القوائم والعناصر المختلفة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/339"
+  },
+  {
+    "id": "re5-remove-green-filter",
+    "g": "re5",
+    "n": "Remove Green Filter without Re-shade",
+    "cat": "🎨 بصري",
+    "desc": "يزيل الفلتر الأخضر بدون الحاجة إلى ReShade.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Mod Manager اختياري.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ثبّته عبر Fluffy Mod Manager أو بالطريقة اليدوية الموضحة في الصفحة.",
+      "شغّل اللعبة وقارن الألوان."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/563"
+  },
+  {
+    "id": "re6-4k-ai-texture-pack",
+    "g": "re6",
+    "n": "4K Texture Pack AI-Enhanced",
+    "cat": "🖼️ خامات",
+    "desc": "حزمة 4K تعيد تحسين أكثر من 90% من خامات Resident Evil 6.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "مساحة تخزين كبيرة؛ راجع متطلبات الصفحة قبل التثبيت.",
+    "install": [
+      "حمّل ملفات الحزمة من Nexus.",
+      "استخرج محتويات الأرشيفات داخل مجلد تثبيت اللعبة.",
+      "وافق على الاستبدال بعد أخذ نسخة احتياطية.",
+      "يمكن استخدام Fluffy Mod Manager اختياريًا."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/396"
+  },
+  {
+    "id": "re6-requiem-leon",
+    "g": "re6",
+    "n": "Resident Evil Requiem - Leon S. Kennedy",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل نماذج Leon في USA وAsia بأزياء مستوحاة من Resident Evil Requiem.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "مود مظهر فقط.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات صفحة المود.",
+      "شغّل حملات Leon وتحقق من نماذج USA وAsia.",
+      "عطّل أي مود آخر يستبدل نفس نماذج Leon عند التعارض."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/628"
+  },
+  {
+    "id": "kcd2-unlimited-saving",
+    "g": "kcd2",
+    "n": "Unlimited Saving II",
+    "cat": "💾 QoL",
+    "desc": "يسمح بالحفظ السريع بدون استهلاك Saviour Schnapps متى كان الحفظ مسموحًا أصلًا.",
+    "compat": "Kingdom Come: Deliverance II؛ مختبر على 1.5.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر Quick Save في مكان مسموح.",
+      "احتفظ بنسخة من ملفات الحفظ قبل التجربة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/14"
+  },
+  {
+    "id": "arkham-community-patch",
+    "g": "arkham",
+    "n": "Arkham Knight Community Patch",
+    "cat": "🛠️ إصلاحات",
+    "desc": "باتش مجتمعي غير رسمي يضيف إصلاحات وتحسينات جودة حياة للعبة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "TFC Installer (Latest).",
+    "install": [
+      "ثبّت أحدث TFC Installer أولًا.",
+      "حمّل Community Patch من Nexus.",
+      "اتبع خطوات التثبيت المذكورة في الصفحة.",
+      "شغّل اللعبة وتحقق من الاستقرار قبل إضافة مودات أخرى."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/5"
+  },
+  {
+    "id": "arkham-hd-texture-pack",
+    "g": "arkham",
+    "n": "HD Texture Pack",
+    "cat": "🖼️ خامات",
+    "desc": "حزمة HD لتحسين خامات Batman: Arkham Knight.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "راجع تعليمات صفحة المود.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "خذ نسخة احتياطية من الملفات المطلوبة.",
+      "ثبّت حسب المسارات المحددة في الصفحة.",
+      "اختبر الأداء واستهلاك VRAM بعد التثبيت."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/2671"
+  },
+  {
+    "id": "dying1-night-runner-mode",
+    "g": "dying1",
+    "n": "Night Runner Mode",
+    "cat": "🔥 Overhaul",
+    "desc": "Overhaul شامل يعيد موازنة Dying Light ويغيّر الأعداء والطقس والإضاءة والـQoL ويزيد التحدي والاستكشاف.",
+    "compat": "Dying Light - أحدث إصدار مدعوم حسب صفحة المود.",
+    "req": "ينصح ببدء حفظ جديد للإصدارات الحديثة.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "اقرأ Readme المرفق.",
+      "ابدأ بحفظ جديد إذا أوصت الصفحة بذلك.",
+      "اختبر المود قبل تركيب Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/743"
+  },
+  {
+    "id": "gow-skip-ps-intro",
+    "g": "gow",
+    "n": "Skip Playstation Intro Video on Startup",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديو PlayStation عند تشغيل اللعبة لتسريع الدخول إلى God of War.",
+    "compat": "God of War PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ثبّت الملف حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز فيديو البداية."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/21"
+  },
+  {
+    "id": "hogwarts-ascendio",
+    "g": "hogwarts",
+    "n": "Ascendio III",
+    "cat": "⚡ أداء",
+    "desc": "تحسينات أداء وتقليل التقطيع في Hogwarts Legacy.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اتبع الإصدار الحالي من صفحة Nexus.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "شغّل اللعبة واختبر مناطق Hogwarts وHogsmeade.",
+      "احذف المود إذا ظهر تعارض بعد تحديث اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/69"
+  },
+  {
+    "id": "wukong-ultra-plus",
+    "g": "wukong",
+    "n": "Ultra Plus Visuals and Performance",
+    "cat": "🎨 أداء",
+    "desc": "إعدادات محسنة توازن بين جودة الصورة والأداء في Black Myth: Wukong.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "اختر الملف المطابق لإعداداتك.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "خذ نسخة احتياطية من ملفات الإعدادات.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الأداء ثم عدّل الإعدادات حسب جهازك."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/99"
+  },
+  {
+    "id": "kcd-better-combat",
+    "g": "kcd",
+    "n": "Better Combat and Immersion Compilation",
+    "cat": "⚔️ Gameplay",
+    "desc": "تجميعة تعديلات لتحسين القتال والانغماس في Kingdom Come: Deliverance.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "راجع نسخة اللعبة والمتطلبات في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "ابدأ اختبارًا في حفظ منفصل.",
+      "تجنب الجمع مع Overhaul قتالي آخر قبل التأكد من التوافق."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/651"
+  },
+  {
+    "id": "acu-fixes-plugin-loader",
+    "g": "acu",
+    "n": "ACUFixes and Plugin Loader",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يصلح أخطاء مزعجة ويضيف تحسينات QoL مثل Removable Hood وAutowalk وQuickshot محسّن وخيارات FOV.",
+    "compat": "Assassin's Creed Unity 1.5.0؛ Steam وUbisoft Connect.",
+    "req": "نسخة اللعبة 1.5.0.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ضع الملفات داخل مجلد Assassin's Creed Unity بجانب ACU.exe.",
+      "شغّل اللعبة وتأكد من ظهور إشعار التحميل.",
+      "افتح قائمة المود بزر INSERT واضبط الخيارات المطلوبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/131"
+  },
+  {
+    "id": "acu-physics-patch",
+    "g": "acu",
+    "n": "Physics Patch and Other Improvements",
+    "cat": "⚙️ إصلاحات",
+    "desc": "يصلح عدة مشاكل فيزياء ويضيف خيار 60FPS.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "راجع إصدار اللعبة المدعوم في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبت الملفات حسب تعليمات الصفحة.",
+      "اختبر الفيزياء و60FPS داخل اللعبة.",
+      "عطّل أي تعديل فيزياء آخر عند التعارض."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/125"
+  },
+  {
+    "id": "acu-no-intro",
+    "g": "acu",
+    "n": "No-Intro",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشاشات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز Splash Videos."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/128"
+  },
+  {
+    "id": "acu-toggle-hud",
+    "g": "acu",
+    "n": "Toggle HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح إخفاء وإظهار كامل HUD وعلامات الأهداف وبعض المؤثرات.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "لا توجد متطلبات خاصة مذكورة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واستخدم مفتاح التبديل المحدد.",
+      "اختبر إخفاء HUD وعلامات الأهداف."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/2"
+  },
+  {
+    "id": "acu-better-lod-popin",
+    "g": "acu",
+    "n": "Better LOD and Texture Pop-in Fix",
+    "cat": "🎨 رسومات",
+    "desc": "يحسن LOD ويقلل مشاكل ظهور الخامات المتأخر خصوصًا على جوانب المباني المظللة.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات بالطريقة المحددة.",
+      "اختبر مناطق باريس الكثيفة.",
+      "راقب الأداء واستهلاك الذاكرة بعد التفعيل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/401"
+  },
+  {
+    "id": "mafia1-first-person",
+    "g": "mafia1",
+    "n": "MAFIA First Person",
+    "cat": "🎥 كاميرا",
+    "desc": "يضيف منظور أول للمشي والمركبات مع أوضاع كاميرا إضافية.",
+    "compat": "Mafia: Definitive Edition Story وFree Ride.",
+    "req": "Nomad ScriptHook.",
+    "install": [
+      "ثبّت المتطلب المذكور في صفحة المود.",
+      "حمّل MAFIA First Person من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "استخدم زر الكاميرا للتبديل بين الأوضاع."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/66"
+  },
+  {
+    "id": "mafia1-true-vision",
+    "g": "mafia1",
+    "n": "True Vision",
+    "cat": "🎨 رسومات",
+    "desc": "يعيد ضبط الألوان والتباين لتحسين المظهر البصري.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل الـPreset من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر المشاهد النهارية والليلية.",
+      "عدّل إعداداتك إذا أصبح التباين قويًا."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/3"
+  },
+  {
+    "id": "mafia1-free-ride-deluxe",
+    "g": "mafia1",
+    "n": "Free Ride Deluxe",
+    "cat": "🎮 Gameplay",
+    "desc": "Overhaul كامل لـFree Ride يضيف مواقع من القصة وداخلات مأهولة وSafehouses ومناطق عصابات ومزايا إضافية.",
+    "compat": "Mafia: Definitive Edition Free Ride.",
+    "req": "راجع المتطلبات في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "ادخل Free Ride لاختبار المحتوى الجديد.",
+      "لا تجمعه مع Overhaul آخر لنفس الوضع قبل اختبار التوافق."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/51"
+  },
+  {
+    "id": "mafia1-no-intro",
+    "g": "mafia1",
+    "n": "No intro mod",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات 2K وHangar 13 غير القابلة للتخطي.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبت الملف حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/1"
+  },
+  {
+    "id": "mafia1-ps-icons",
+    "g": "mafia1",
+    "n": "PlayStation Icons",
+    "cat": "🎮 واجهة",
+    "desc": "يستبدل أيقونات Xbox بأيقونات PlayStation.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتحقق من أزرار الواجهة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/23"
+  },
+  {
+    "id": "mafia1-no-camera-shake",
+    "g": "mafia1",
+    "n": "No Vehicle Camera Shake",
+    "cat": "🎥 كاميرا",
+    "desc": "يزيل اهتزاز كاميرا المركبات لتجربة قيادة أهدأ وتقليل دوار الحركة.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر القيادة بسرعات مختلفة.",
+      "احذف المود إذا تعارض مع تعديل كاميرا آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/84"
+  },
+  {
+    "id": "dd2-unofficial-patch",
+    "g": "dd2",
+    "n": "Unofficial Dragon's Dogma 2 Patch - UDD2P",
+    "cat": "🛠️ إصلاحات",
+    "desc": "حزمة إصلاحات شاملة وتحسينات QoL للعبة Dragon's Dogma 2.",
+    "compat": "Dragon's Dogma 2 PC؛ محدث حتى سبتمبر 2026.",
+    "req": "Fluffy Mod Manager + REFramework + _NickCore.",
+    "install": [
+      "ثبّت المتطلبات المذكورة في صفحة المود.",
+      "حمّل UDD2P من Nexus.",
+      "ثبّت الملف عبر Fluffy Mod Manager.",
+      "شغّل اللعبة واختبر الاستقرار قبل إضافة Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1147"
+  },
+  {
+    "id": "dd2-bestiary",
+    "g": "dd2",
+    "n": "Bestiary - Aggressive Enemies and Variants",
+    "cat": "🧟 Gameplay",
+    "desc": "يعيد تصميم سلوك وحركات عدد كبير من الأعداء ويضيف أكثر من 30 Variant جديد.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المطلوبة.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر القتال في مناطق متعددة قبل الجمع مع Enemy Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1196"
+  },
+  {
+    "id": "dd2-durnehviir",
+    "g": "dd2",
+    "n": "Durnehviir - Dynamic Enemy Encounters",
+    "cat": "⚔️ Gameplay",
+    "desc": "يغيّر Monster Culling Quests ويضيف مواجهات ديناميكية وزعماء ومجموعات أعداء متنوعة حتى ليلًا.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المطلوبة.",
+      "انسخ الملفات حسب تعليمات المصدر.",
+      "اختبر Monster Culling Quests ومواجهات الليل."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/883"
+  },
+  {
+    "id": "dd2-lenient-stagger",
+    "g": "dd2",
+    "n": "Lenient Stagger and Exhaustion",
+    "cat": "🎮 QoL",
+    "desc": "يقلل قسوة Stagger وExhaustion ويقلل الوقت الذي تفقد فيه التحكم بالشخصية.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية في Nexus.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات.",
+      "ثبت الملف بالطريقة المذكورة في الصفحة.",
+      "اختبر القتال وعدّل الإعدادات إن كانت متاحة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/807"
+  },
+  {
+    "id": "dd2-affinity-bar",
+    "g": "dd2",
+    "n": "Affinity Bar",
+    "cat": "🖥️ واجهة",
+    "desc": "يعرض مستوى Affinity للشخصيات والـMain Pawn ويضيف معلومات إضافية مرتبطة بالعلاقات.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب التعليمات.",
+      "شغّل اللعبة وتأكد من ظهور شريط Affinity."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/349"
+  },
+  {
+    "id": "ac4-caribbean-reshade",
+    "g": "ac4",
+    "n": "Caribbean 2021 ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري يحسن الألوان والحدة والطابع الاستوائي.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على اللعبة.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملفات في مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/93"
+  },
+  {
+    "id": "ac4-frame-drops-fix",
+    "g": "ac4",
+    "n": "Frame Drops FIX",
+    "cat": "⚡ أداء",
+    "desc": "إعدادات وتحسينات تهدف لتقليل هبوط الإطارات في نسخة PC.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "راجع تعليمات صفحة المود.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "طبّق الخطوات المذكورة في الصفحة.",
+      "اختبر المدن والمناطق البحرية المزدحمة.",
+      "أزل التعديل إذا لم يتحسن الأداء."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/298"
+  },
+  {
+    "id": "acv-remove-startup-logos",
+    "g": "acv",
+    "n": "Remove Startup Logos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز شعارات Ubisoft وAnvil وRyzen وفيديو الحفظ التلقائي لتسريع بداية اللعبة.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من ملفات الفيديو الأصلية.",
+      "انسخ مجلد videos داخل مجلد اللعبة.",
+      "استبدل الملفات عند الطلب."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/6"
+  },
+  {
+    "id": "acv-eivor-customizer-2",
+    "g": "acv",
+    "n": "Eivor Customizer 2",
+    "cat": "👤 شخصيات",
+    "desc": "يتيح تخصيص جوانب متعددة من مظهر Eivor.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "راجع المتطلبات الحالية في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة وعدّل المظهر من خيارات المود."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/159"
+  },
+  {
+    "id": "aco-dlss-reflex",
+    "g": "aco",
+    "n": "DLSS and Reflex for Assassin's Creed Odyssey",
+    "cat": "⚡ رسومات",
+    "desc": "يضيف NVIDIA DLSS وReflex عبر ReShade مخصص لتحسين الأداء وجودة الصورة على البطاقات المتوافقة.",
+    "compat": "Assassin's Creed Odyssey PC؛ يحتاج NVIDIA داعمة لـDLSS.",
+    "req": "راجع متطلبات صفحة المود وإصدار ReShade المرفق.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "اتبع خطوات تثبيت نسخة ReShade المرفقة.",
+      "اختر إعداد DLSS المناسب لدقتك.",
+      "اختبر الأداء والاستجابة داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/466"
+  },
+  {
+    "id": "aco-optipath-reshade",
+    "g": "aco",
+    "n": "Optipath ReShade Preset Clear Graphics",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بسيط يركز على وضوح الصورة مع توازن بين الجودة والأداء.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملف في مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/443"
+  },
+  {
+    "id": "aco-upscaled-videos",
+    "g": "aco",
+    "n": "Assassin's Creed Odyssey - Upscaled Videos",
+    "cat": "🎬 فيديو",
+    "desc": "يرفع دقة فيديوهات اللعبة بما فيها فيديوهات المهارات لتحسين جودتها.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "حوالي 1.5GB مساحة إضافية.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "خذ نسخة احتياطية من الفيديوهات الأصلية.",
+      "استبدل الملفات حسب تعليمات الصفحة.",
+      "شغّل بعض المقاطع للتأكد من عمل النسخ المحسنة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/464"
+  },
+  {
+    "id": "mafia2de-enhanced-edition",
+    "g": "mafia2",
+    "n": "Mafia 2 DE - Enhanced Edition",
+    "cat": "🔥 Overhaul",
+    "desc": "حزمة شاملة تصلح أخطاء Definitive Edition وتعيد محتوى مقطوعًا مثل حوارات وموسيقى ومشاهد، وتحسن الرسومات واللعب مع الحفاظ على طابع اللعبة الأصلي.",
+    "compat": "Mafia II: Definitive Edition. الإصدار 1.5 محدث في سبتمبر 2026.",
+    "req": "راجع ملفات الإصدار الحالي في Nexus.",
+    "install": [
+      "حمّل Enhanced Edition 1.5 من Nexus.",
+      "خذ نسخة احتياطية من ملفات اللعبة.",
+      "استخرج الملفات حسب تعليمات صفحة المود.",
+      "ابدأ اللعبة واختبر القصة قبل تركيب Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/96"
+  },
+  {
+    "id": "mafia3de-redone",
+    "g": "mafia3",
+    "n": "MAFIA 3 Redone (2026 Update)",
+    "cat": "🔥 Overhaul",
+    "desc": "حزمة شاملة تجمع تحسينات رسومية ولعب وصوت وخامات وQoL مع الحفاظ على هوية Mafia III.",
+    "compat": "Mafia III: Definitive Edition. الإصدار 5.4 محدث في يونيو 2026.",
+    "req": "مساحة تخزين كبيرة ونسخة احتياطية قبل التثبيت.",
+    "install": [
+      "حمّل الإصدار 5.4 من Nexus.",
+      "اقرأ ملف IMPORTANT INFO المرفق.",
+      "خذ نسخة احتياطية من ملفات اللعبة.",
+      "ثبّت الحزمة حسب التعليمات ولا تخلطها مع Overhaul شامل آخر قبل الاختبار."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/8"
+  },
+  {
+    "id": "mhw-useful-argosy",
+    "g": "mhw",
+    "n": "Slightly More Useful Argosy",
+    "cat": "🎒 QoL",
+    "desc": "يجعل شحنات Argosy أكثر فائدة مع مواد واختيارات أفضل بدون تحويلها إلى مود مبالغ فيه.",
+    "compat": "Monster Hunter: World + Iceborne.",
+    "req": "لا توجد متطلبات خاصة مذكورة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ضع محتويات المود داخل مجلد Monster Hunter World الرئيسي.",
+      "شغّل اللعبة وافحص قائمة Argosy.",
+      "إذا كنت تستخدم مودًا آخر يعدّل Argosy اختبر التعارض."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/8771"
+  },
+  {
+    "id": "mhw-shiny-drops-autoloot",
+    "g": "mhw",
+    "n": "MHW Shiny Drops AutoLoot",
+    "cat": "🎒 QoL",
+    "desc": "يجذب Shiny Drops القريبة نحو الصياد لتقليل التوقف أثناء القتال، مع خيار Pickup بدون Animation.",
+    "compat": "Monster Hunter World: Iceborne 15.21.00 بحسب صفحة المود.",
+    "req": "راجع المتطلبات الحالية في صفحة Nexus.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر Shiny Drops بعد قتال وحش كبير.",
+      "استخدم الإعداد الافتراضي أولًا قبل تفعيل No-Animation Pickup."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/8774"
+  },
+  {
+    "id": "mhr-classic-hunting-horn",
+    "g": "mhr",
+    "n": "Classic Hunting Horn",
+    "cat": "🎵 Gameplay",
+    "desc": "يعيد نظام ألحان Hunting Horn الكلاسيكي من ألعاب Monster Hunter السابقة.",
+    "compat": "Monster Hunter Rise / Sunbreak.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework أولًا.",
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "ادخل التدريب واختبر تسلسل النغمات وPerform قبل بدء مهمة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/3942"
+  },
+  {
+    "id": "acs-no-intro",
+    "g": "acs",
+    "n": "No-Intro (Skip Startup - Splash Videos)",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشعارات البداية لتسريع دخول Assassin's Creed Syndicate.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد الـZIP داخل مجلد تثبيت اللعبة.",
+      "وافق على استبدال الملفات المطلوبة.",
+      "شغّل اللعبة وتأكد من تجاوز فيديوهات البداية."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/176"
+  },
+  {
+    "id": "dying2-skip-intros",
+    "g": "dying2",
+    "n": "Skip All Intros",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز جميع فيديوهات المقدمة للوصول للقائمة الرئيسية بشكل أسرع.",
+    "compat": "Dying Light 2 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/6"
+  },
+  {
+    "id": "dying2-ialr",
+    "g": "dying2",
+    "n": "I Am Legion Reborn - DL2 Overhaul",
+    "cat": "🔥 Overhaul",
+    "desc": "Overhaul ضخم يضيف مئات الأعداء والأسلحة والدروع والرفاق ويعيد تصميم الذكاء الاصطناعي والـLoot والـQoL.",
+    "compat": "Dying Light 2؛ الإصدار 1.6j9 محدث في فبراير 2026.",
+    "req": "استخدم أحدث إصدار متوافق مع نسخة اللعبة.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "اقرأ دليل المود الرسمي قبل التثبيت.",
+      "اختر الإعدادات المناسبة من الحزمة.",
+      "ابدأ بحفظ احتياطي واختبر المود قبل الجمع مع Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/46"
+  },
+  {
+    "id": "gow-passive-health-regen",
+    "g": "gow",
+    "n": "Passive Health Regeneration",
+    "cat": "🛡️ Gameplay",
+    "desc": "يضيف تجددًا تلقائيًا لصحة Kratos مع عدة خيارات لمعدل التجدد.",
+    "compat": "God of War PC.",
+    "req": "Script Loader and Gameplay Tweaks.",
+    "install": [
+      "ثبّت المتطلب المذكور في صفحة Nexus.",
+      "حمّل المود.",
+      "ضع الملفات في المسار المحدد داخل مجلد اللعبة.",
+      "اختر نسخة التجدد المناسبة ثم اختبرها في القتال."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/337"
+  },
+  {
+    "id": "gow-less-annoying-item-cards",
+    "g": "gow",
+    "n": "Less Annoying Item Cards",
+    "cat": "⚡ QoL",
+    "desc": "يسرّع إشعارات بطاقات العناصر ويقلل الوقت الذي تمنع فيه الحركة أو التفاعل.",
+    "compat": "God of War PC.",
+    "req": "Script Loader and Gameplay Tweaks.",
+    "install": [
+      "ثبّت Script Loader أولًا.",
+      "فعّل LoadScripts من ملف إعداداته.",
+      "حمّل المود من Nexus.",
+      "اختر 2x أو 4x أو Insta Skip وثبّت الملفات في مجلد اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/108"
+  },
+  {
+    "id": "arkham-overhaul-project",
+    "g": "arkham",
+    "n": "Batman Arkham Knight Overhaul Project",
+    "cat": "🔥 Overhaul",
+    "desc": "يحسن التنقل والأدوات وسرعة Batmobile ويضيف شخصيات قابلة للعب في Free Roam وخيارات صعوبة ومزايا أخرى.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "Arkham Knight Community Patch.",
+    "install": [
+      "ثبّت Community Patch أولًا.",
+      "حمّل Overhaul Project من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر Free Roam والتنقل قبل تركيب Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/3210"
+  },
+  {
+    "id": "mafia1-disable-vignette",
+    "g": "mafia1",
+    "n": "Disable Vignette",
+    "cat": "🎨 بصري",
+    "desc": "يزيل تأثير التعتيم حول حواف الشاشة.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب الصفحة.",
+      "اختبر الصورة داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/31"
+  },
+  {
+    "id": "mafia1-realistic-driving",
+    "g": "mafia1",
+    "n": "Realistic Driving",
+    "cat": "🚗 Gameplay",
+    "desc": "يعدل فيزياء القيادة لتكون أثقل وأكثر واقعية.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "راجع التوافق في الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر أكثر من سيارة قبل اعتماد التعديل."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/90"
+  },
+  {
+    "id": "mafia1-immersion-overhaul",
+    "g": "mafia1",
+    "n": "Immersion Overhaul",
+    "cat": "🔥 Overhaul",
+    "desc": "يحسن الإحساس العام والقيادة والجو في Mafia Definitive Edition.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية.",
+      "ثبّت الملفات حسب التعليمات."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/85"
+  },
+  {
+    "id": "mafia1-minimal-hud",
+    "g": "mafia1",
+    "n": "Minimal HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يقلل عناصر HUD للحصول على تجربة أكثر سينمائية.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف.",
+      "ثبّت حسب التعليمات.",
+      "اختبر القوائم والقيادة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/79"
+  },
+  {
+    "id": "mafia2de-intro-skip",
+    "g": "mafia2",
+    "n": "Mafia II DE - Intro Skip",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات البداية في كل تشغيل ويدعم جميع لغات اللعبة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل ملف اللغة المناسب من Nexus.",
+      "ضع ملفات الواجهة في مجلد اللغة داخل pc/sds.",
+      "غيّر أسماء ملفات فيديو البداية حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/132"
+  },
+  {
+    "id": "mafia2de-vinci-veil",
+    "g": "mafia2",
+    "n": "The Vinci Veil ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset Vanilla+ لتحسين اللون والتباين والحدة بدون تغيير هوية اللعبة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضع ملف الـPreset في مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/122"
+  },
+  {
+    "id": "mafia2de-pink-light-fix",
+    "g": "mafia2",
+    "n": "Remove Pink Light and Post-Effects Fixes",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يزيل الإضاءة الوردية المعيبة ويعيد بعض تأثيرات الإضاءة والمعالجة اللاحقة إلى مظهر أقرب للنسخة الأصلية.",
+    "compat": "Mafia II: Definitive Edition + DLCs.",
+    "req": "نسخة احتياطية من ingame.sds موصى بها.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من ingame.sds.",
+      "انسخ مجلد pc إلى مجلد اللعبة ووافق على الاستبدال.",
+      "شغّل اللعبة واختبر القصة والـDLC."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/143"
+  },
+  {
+    "id": "mafia3-remove-camera-auto",
+    "g": "mafia3",
+    "n": "Remove Camera Auto Adjustments",
+    "cat": "🎥 كاميرا",
+    "desc": "يزيل التعديل التلقائي للكاميرا أثناء قيادة السيارات والقوارب.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "اسحب مجلد sds_retail إلى مجلد Mafia III الرئيسي.",
+      "شغّل اللعبة واختبر قيادة سيارة وقارب."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/23"
+  },
+  {
+    "id": "acs-toggle-hud",
+    "g": "acs",
+    "n": "Toggle HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح إخفاء وإظهار HUD بالكامل بما في ذلك علامات الأهداف، مع خيار إخفاء Last Known Position.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع الملفات في مجلد اللعبة الرئيسي بجانب ACS.exe.",
+      "استخدم Caps Lock لإخفاء وإظهار HUD.",
+      "استخدم H لإخفاء Last Known Position."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/1"
+  },
+  {
+    "id": "acs-gameplay-tweaks",
+    "g": "acs",
+    "n": "Gameplay Tweaks - 3 Options",
+    "cat": "🎮 Gameplay",
+    "desc": "يضيف ثلاثة خيارات خفيفة: Toggle HUD، إزالة بعض النوافذ، وتعديل Chameleon لتصبح Evie غير مرئية فعليًا أثناء الثبات.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "انسخ محتويات ZIP إلى مجلد اللعبة الرئيسي.",
+      "استخدم مفاتيح NUM المذكورة في الصفحة لتبديل الخيارات.",
+      "اختبر الخيارات واحدًا واحدًا."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/162"
+  },
+  {
+    "id": "acs-photorealistic-reshade",
+    "g": "acs",
+    "n": "Assassin's Creed Syndicate Photorealistic ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري حديث لتحسين الإضاءة والحدة والألوان مع ملف إعداد اختياري لتقليل الضباب وتحسين LOD وفيزياء الملابس على 60FPS.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على ACS.exe.",
+      "ضع ملف الـPreset داخل مجلد اللعبة.",
+      "اختر الـPreset من قائمة ReShade.",
+      "اختياريًا استخدم AC.ini المرفق حسب تعليمات الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/205"
+  },
+  {
+    "id": "mafia2de-no-police",
+    "g": "mafia2",
+    "n": "No Police",
+    "cat": "🎮 Gameplay",
+    "desc": "يزيل دوريات الشرطة الحرة من الشوارع مع بقاء ظهورها في بعض المواقف المرتبطة بالمهمات.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "نسخة احتياطية من ملفات الشرطة والجداول موصى بها.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "انسخ مجلد pc إلى مجلد اللعبة الرئيسي ووافق على الاستبدال.",
+      "احتفظ بنسخة من police_char وtables.sds للرجوع للوضع الأصلي."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/142"
+  },
+  {
+    "id": "mafia3-hdr-realism",
+    "g": "mafia3",
+    "n": "Mafia 3 Definitive Edition HDR Realism",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade يحسن الألوان والحدة والإضاءة ويقلل الضباب الزائد.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على Mafia3DefinitiveEdition.exe.",
+      "اختر Direct3D 10+ وثبّت المؤثرات المطلوبة.",
+      "ضع ReShadePreset.ini في مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/10"
+  },
+  {
+    "id": "mafia3-hud-toggle",
+    "g": "mafia3",
+    "n": "Hud Toggle",
+    "cat": "🖥️ واجهة",
+    "desc": "يضيف خيارًا سريعًا لإخفاء وإظهار HUD.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر مفتاح تبديل HUD."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/58"
+  },
+  {
+    "id": "mafia3-lincoln-4k",
+    "g": "mafia3",
+    "n": "Lincoln Clay 4K Face and Body Retexture",
+    "cat": "👤 شخصيات",
+    "desc": "يرفع دقة خامات وجه وجسم Lincoln إلى 4K ويضيف تعديلات تجميلية خفيفة.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الخامات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر Lincoln في الإضاءة النهارية والليلية."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/57"
+  },
+  {
+    "id": "acs-nohud-effects",
+    "g": "acs",
+    "n": "No-HUD-No-Effects - Toggle Fog - Outlines and MORE",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تبديل HUD والضباب والـOutlines ومؤثرات أخرى لتحسين الانغماس والتصوير.",
+    "compat": "Assassin's Creed Syndicate PC. الإصدار 0.5 محدث في أبريل 2026.",
+    "req": "راجع ملف النسخة الحالية في Nexus.",
+    "install": [
+      "حمّل الإصدار الأحدث من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر تبديل HUD والضباب أولًا.",
+      "فعّل الخيارات الأخرى تدريجيًا لتجنب التعارض."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/177"
+  },
+  {
+    "id": "acs-original-mod-collection",
+    "g": "acs",
+    "n": "ACS Original MOD Collection",
+    "cat": "👗 ملابس",
+    "desc": "مجموعة كبيرة لأزياء Jacob وEvie تشمل تصاميم مستوحاة من أبطال Assassin's Creed السابقين وخيارات Hood متعددة.",
+    "compat": "Assassin's Creed Syndicate PC. محدث في أكتوبر 2026.",
+    "req": "مساحة تخزين كبيرة نسبيًا.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "اختر ملفات الأزياء التي تريدها فقط.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "لا تفعّل بدائل متعددة لنفس الزي في الوقت نفسه."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/126"
+  },
+  {
+    "id": "mafia1-nohud-effects",
+    "g": "mafia1",
+    "n": "No-HUD-No-Effects - Toggle Lens Flares - Screen Effects and MORE",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تبديل HUD وبعض المؤثرات مثل Lens Flares وScreen Effects لتحسين الانغماس والتصوير.",
+    "compat": "Mafia: Definitive Edition. الإصدار 0.4 محدث في مارس 2026.",
+    "req": "راجع تعليمات ShaderToggler في صفحة المود.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر تبديل HUD أولًا.",
+      "فعّل المؤثرات الأخرى تدريجيًا."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/266"
+  },
+  {
+    "id": "mafia1-toggle-hud",
+    "g": "mafia1",
+    "n": "Toggle On-Off HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يضيف خيارًا مباشرًا لإخفاء وإظهار HUD.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة مذكورة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر تبديل HUD."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/250"
+  },
+  {
+    "id": "mafia2-longer-timers",
+    "g": "mafia2",
+    "n": "Ridiculously Longer Timers",
+    "cat": "⚡ QoL",
+    "desc": "يمدد مهلات المهمات ذات المؤقت إلى حوالي ساعتين لتخفيف ضغط الوقت.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "نسخة احتياطية من tables.sds موصى بها.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من tables.sds.",
+      "استبدل الملف في pc/sds/tables.",
+      "شغّل مهمة مؤقتة للتأكد من التعديل."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/136"
+  },
+  {
+    "id": "mafia2-all-cars-garage",
+    "g": "mafia2",
+    "n": "All Cars in Garage",
+    "cat": "🚗 Gameplay",
+    "desc": "يفتح جميع السيارات وسيارات الـDLC في المرآب من البداية.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "فك الملفات داخل pc/dlcs.",
+      "شغّل اللعبة وافتح المرآب للتأكد من ظهور السيارات."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/118"
+  },
+  {
+    "id": "mafia2-small-dot-crosshair",
+    "g": "mafia2",
+    "n": "Small Static Dot Crosshair",
+    "cat": "🎯 واجهة",
+    "desc": "يستبدل مؤشر التصويب الكبير بنقطة صغيرة ثابتة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "انسخ مجلد pc إلى مجلد اللعبة الرئيسي.",
+      "استخدم مجلد Backup المرفق إذا أردت استعادة المؤشر الأصلي."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/115"
+  },
+  {
+    "id": "mafia3-punisher-shirt",
+    "g": "mafia3",
+    "n": "The Punisher Black T-Shirt for Lincoln",
+    "cat": "👕 مظهر",
+    "desc": "يستبدل قميص Lincoln الأصلي بقميص أسود يحمل شعار Punisher.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الخامات حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتأكد من ظهور القميص الجديد."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/67"
+  },
+  {
+    "id": "mafia1-no-vehicle-camera-centering",
+    "g": "mafia1",
+    "n": "No Vehicle Camera Centering",
+    "cat": "🎥 كاميرا",
+    "desc": "يوقف إعادة تمركز كاميرا المركبات تلقائيًا، مع خيار مؤقت 8 ثوانٍ أو تعطيل شبه دائم.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة مذكورة.",
+    "install": [
+      "حمّل أحد الملفين من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر القيادة واختر نسخة 8s أو Infinite حسب تفضيلك."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/267"
+  },
+  {
+    "id": "mafia1-lost-heaven-cinematic",
+    "g": "mafia1",
+    "n": "Lost Heaven Cinematic ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset سينمائي خفيف يزيل الصبغة الخضراء ويضيف دفئًا طبيعيًا ويحسن الوضوح مع الحفاظ على الشكل الأصلي.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملفات في مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/268"
+  },
+  {
+    "id": "mafia1-project-realism",
+    "g": "mafia1",
+    "n": "Project Realism - Lost Heaven",
+    "cat": "🎮 Gameplay",
+    "desc": "يزيد الواقعية والانغماس عبر تقليل HUD وجعل المواجهات المسلحة أكثر فتكًا.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "Combat Gameplay Overhaul.",
+    "install": [
+      "ثبّت المتطلب المذكور في صفحة Nexus.",
+      "حمّل Project Realism.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر القتال قبل دمجه مع Gameplay Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/5"
+  },
+  {
+    "id": "mafia2-remove-blue-filter",
+    "g": "mafia2",
+    "n": "Mafia 2 Remove Blue Filter ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "يقلل الفلتر الأزرق ويجعل الألوان أكثر طبيعية مع وضوح أعلى.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل ملف MafiaReshade.ini.",
+      "ضعه داخل مجلد pc.",
+      "اختر الـPreset من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/104"
+  },
+  {
+    "id": "mafia2-refresh",
+    "g": "mafia2",
+    "n": "Mafia II Refresh",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري ينعش مظهر Mafia II Definitive Edition ويحسن الألوان والإضاءة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "ضع الـPreset داخل مجلد اللعبة.",
+      "انسخ الملفات الإضافية المرفقة حسب الصفحة.",
+      "فعّل الـPreset من داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/107"
+  },
+  {
+    "id": "mafia2-playstation-icons",
+    "g": "mafia2",
+    "n": "PlayStation Icons for Mafia 2",
+    "cat": "🎮 واجهة",
+    "desc": "يستبدل أيقونات الأزرار بأيقونات PlayStation.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب بنية الأرشيف.",
+      "شغّل اللعبة وتحقق من أيقونات الأزرار."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/12"
+  },
+  {
+    "id": "mafia2-full-throttle",
+    "g": "mafia2",
+    "n": "Tommys Full Throttle Classics",
+    "cat": "🚗 سيارات",
+    "desc": "يزيد قوة وتسارع وأداء عدد من السيارات مع الحفاظ على طابعها الكلاسيكي.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف المناسب من Nexus.",
+      "ثبّت ملفات السيارات حسب الصفحة.",
+      "اختبر السيارات بعد التفعيل.",
+      "لا تخلط ملفات أداء مختلفة لنفس السيارة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/125"
+  },
+  {
+    "id": "mafia2-auto-center-camera-fix",
+    "g": "mafia2",
+    "n": "Auto Center Car Camera Fix",
+    "cat": "🎥 كاميرا",
+    "desc": "يخفف إعادة تمركز كاميرا السيارة تلقائيًا لقيادة أكثر راحة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع الملف داخل bin حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر القيادة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/128"
+  },
+  {
+    "id": "mafia2-real-remaster-reshade",
+    "g": "mafia2",
+    "n": "Real Remaster ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade لتحسين مظهر النسخة Definitive Edition.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضعه داخل مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/40"
+  },
+  {
+    "id": "mafia2-kph-speedometer",
+    "g": "mafia2",
+    "n": "KPH Speedometer with Fuel Gauge",
+    "cat": "🖥️ واجهة",
+    "desc": "يضيف عداد سرعة KPH مع مؤشر وقود.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر العداد أثناء القيادة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/124"
+  },
+  {
+    "id": "mafia3-less-grind",
+    "g": "mafia3",
+    "n": "Less Grind",
+    "cat": "⚙️ QoL",
+    "desc": "يقلل مقدار Damage المطلوب في المناطق بنسبة 40% لتخفيف التكرار.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "ثبّته خارج مهمة Damage جارية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّته قبل بدء Arc جديد أو بعد إنهاء المهمة الحالية.",
+      "اختبر التقدم في منطقة جديدة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/24"
+  },
+  {
+    "id": "mafia3-no-intro",
+    "g": "mafia3",
+    "n": "No-Intro (Skip Startup - Splash Videos)",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشعارات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "انسخ الملفات إلى مجلد تثبيت اللعبة مع الاستبدال.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/50"
+  },
+  {
+    "id": "mafia3-4k-speedometer",
+    "g": "mafia3",
+    "n": "4K Speedometer",
+    "cat": "🖥️ واجهة",
+    "desc": "يرفع دقة عداد السرعة إلى 4K مع الحفاظ على التصميم الأصلي.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر العداد أثناء القيادة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/71"
+  },
+  {
+    "id": "mafia3-remove-gold-guns",
+    "g": "mafia3",
+    "n": "Remove Ugly Golden DLC Gun Skins",
+    "cat": "🔫 مظهر",
+    "desc": "يزيل الخامات الذهبية المحفورة لأسلحة DLC ويضيف مظهرًا رماديًا أنظف لبعض الأسلحة.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "انقل الملفات إلى sds_retail/weapons.",
+      "شغّل اللعبة وافحص أسلحة DLC."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/59"
+  },
+  {
+    "id": "mafia3-colorful-60s",
+    "g": "mafia3",
+    "n": "Colorful 60s",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade يضيف دفئًا وحيوية خفيفة للألوان بدل المظهر الباهت.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset.",
+      "ضعه في مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/19"
+  },
+  {
+    "id": "mafia3-immersion-realism",
+    "g": "mafia3",
+    "n": "Immersion and Realism",
+    "cat": "🎨 انغماس",
+    "desc": "تعديل بصري يركز على الانغماس والواقعية في نسخة Definitive Edition.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات المؤلف.",
+      "اختبر الإضاءة والمشاهد الخارجية."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/56"
+  },
+  {
+    "id": "mafia3-potomac-ascent",
+    "g": "mafia3",
+    "n": "Potomac Ascent",
+    "cat": "🚗 سيارات",
+    "desc": "يضيف/يستبدل سيارة Potomac Ascent ضمن سيارات الاستدعاء.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "استبدل ملفات السيارة حسب تعليمات الصفحة.",
+      "اختبر السيارة عبر Vehicle Delivery."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/29"
+  },
+  {
+    "id": "mafia3-potomac-independent",
+    "g": "mafia3",
+    "n": "Potomac Independent",
+    "cat": "🚗 سيارات",
+    "desc": "يضيف Potomac Independent كسيارة Sport قابلة للاستدعاء.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات السيارة في المسار المحدد.",
+      "اختبرها من قائمة Vehicle Delivery."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/35"
+  },
+  {
+    "id": "mafia3-original-artwork-lincoln",
+    "g": "mafia3",
+    "n": "Original Artwork Lincoln Clay",
+    "cat": "👤 شخصيات",
+    "desc": "يعيد مظهر Lincoln Clay المستوحى من الـArtwork الأصلي للعبة.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الشخصية حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر المظهر في عدة أزياء."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/64"
+  },
+  {
+    "id": "acs-syndicate-gameplay-tweaks",
+    "g": "acs",
+    "n": "Syndicate Gameplay Tweaks",
+    "cat": "🎮 Gameplay",
+    "desc": "يضيف تحسينات مثل تسريع Loot وتجاوز Big Ben Time Lapse وتقليل تكرار Crowd Events.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود من Nexus.",
+      "طبّق الملفات حسب تعليمات الصفحة.",
+      "اختبر التعديلات واحدة واحدة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/208"
+  },
+  {
+    "id": "acs-no-capes-evie",
+    "g": "acs",
+    "n": "No Capes For Evie",
+    "cat": "👗 ملابس",
+    "desc": "يخفي جميع Capes الخاصة بـEvie مع بقاء Buffs مفعلة.",
+    "compat": "Assassin's Creed Syndicate 1.53.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "فك DataPC_14_dlc.forge.",
+      "استبدل الملفات المذكورة في الصفحة.",
+      "أعد Pack للملف ثم شغّل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/207"
+  },
+  {
+    "id": "acs-victory-reshade",
+    "g": "acs",
+    "n": "Assassin's Creed Victory ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset داكن وجوي مستوحى من الطابع الفيكتوري للندن.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "ReShade + Bleak Weather موصى به.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضعه داخل مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/168"
+  },
+  {
+    "id": "acs-hood-up-freeroam",
+    "g": "acs",
+    "n": "Hood Up Free Roam For All Outfits",
+    "cat": "👤 شخصيات",
+    "desc": "يبقي Hood مرفوعًا على جميع الأزياء أثناء Free Roam.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "انسخ الملف إلى مجلد اللعبة مع الاستبدال.",
+      "استخدم Sneak داخل Free Roam لتفعيل Hood."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/57"
+  },
+  {
+    "id": "acs-fast-launch",
+    "g": "acs",
+    "n": "Fast Launch - Skip Startup Intro Videos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشعارات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/36"
+  },
+  {
+    "id": "acs-new-colors-jacob",
+    "g": "acs",
+    "n": "New Colors of Clothes - Jacob",
+    "cat": "👕 ملابس",
+    "desc": "يضيف ألوانًا وأنماطًا جديدة لملابس وقفازات Jacob.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "فك DataPC_14_dlc.forge.",
+      "انسخ ملفات المود داخل المجلد المفكوك.",
+      "أعد Pack وشغّل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/95"
+  },
+  {
+    "id": "acs-ezio-outfits",
+    "g": "acs",
+    "n": "ACS EZIO Outfits Pack",
+    "cat": "👗 ملابس",
+    "desc": "يستبدل عدة أزياء بأزياء مستوحاة من Ezio.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "راجع تعليمات الملفات في Nexus.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "اختر الملفات المطلوبة.",
+      "ثبّت حسب تعليمات الصفحة.",
+      "اختبر الأزياء داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/71"
+  },
+  {
+    "id": "acs-hide-grappling-hook",
+    "g": "acs",
+    "n": "Hide the Grappling Hook and Dart Launcher",
+    "cat": "👤 مظهر",
+    "desc": "يخفي Grappling Hook وDart Launcher من الـHidden Blade لمظهر أنظف.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "طبّق الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتحقق من إخفاء الملحقات."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/87"
+  },
+  {
+    "id": "gow-clean-invisible-armor",
+    "g": "gow",
+    "n": "Clean Invisible Armor and Wrist Armor",
+    "cat": "👕 مظهر",
+    "desc": "يخفي بعض قطع الدرع والمعصم للحصول على مظهر أنظف لـKratos مع بقاء الإحصائيات.",
+    "compat": "God of War PC.",
+    "req": "راجع الملفات المتاحة في صفحة Nexus.",
+    "install": [
+      "حمّل الملف المناسب من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتحقق من اختفاء القطع المطلوبة."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/49"
+  },
+  {
+    "id": "gow-script-loader-tweaks",
+    "g": "gow",
+    "n": "Script Loader and Gameplay Tweaks",
+    "cat": "🛠️ أداة",
+    "desc": "إطار أساسي لعدد من سكربتات God of War ويضيف خيارات Gameplay قابلة للتخصيص.",
+    "compat": "God of War PC.",
+    "req": "استخدم الإصدار المطابق لنسخة اللعبة.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "ثبّت الملفات في مجلد اللعبة حسب الصفحة.",
+      "شغّل اللعبة مرة للتأكد من تحميل السكربتات.",
+      "فعّل الخيارات المطلوبة فقط."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/89"
+  },
+  {
+    "id": "gow-blade-of-olympus",
+    "g": "gow",
+    "n": "Blade of Olympus - Ragnarok Valhalla",
+    "cat": "⚔️ مظهر",
+    "desc": "يستبدل أحد نماذج الأسلحة بمظهر Blade of Olympus المستوحى من God of War Ragnarok Valhalla.",
+    "compat": "God of War PC.",
+    "req": "راجع خيار الاستبدال في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "اختر نسخة الاستبدال المطلوبة.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختبر السلاح داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/220"
+  },
+  {
+    "id": "gow-renodx-hdr",
+    "g": "gow",
+    "n": "RenoDX - HDR Fix - Tonemap - Color Grade",
+    "cat": "🎨 رسومات",
+    "desc": "يحسن HDR وTonemapping وColor Grading لمظهر أكثر توازنًا على شاشات HDR.",
+    "compat": "God of War PC. محدث في سبتمبر 2026.",
+    "req": "شاشة HDR للاستفادة الكاملة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "فعّل HDR في Windows واللعبة.",
+      "اضبط السطوع وPeak Nits حسب شاشتك."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/272"
+  },
+  {
+    "id": "gow-dxvk-vulkan",
+    "g": "gow",
+    "n": "DXVK Vulkan",
+    "cat": "⚡ أداء",
+    "desc": "يشغّل DirectX عبر Vulkan وقد يحسن الأداء أو الثبات على بعض الأجهزة؛ النتيجة تختلف حسب العتاد.",
+    "compat": "God of War PC.",
+    "req": "تعريف GPU حديث.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "خذ نسخة احتياطية من ملفات DLL الأصلية.",
+      "ثبّت ملفات DXVK حسب الصفحة.",
+      "اختبر الأداء والثبات ثم احذفها إذا لم تستفد."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/37"
+  },
+  {
+    "id": "gow-paths-reshade",
+    "g": "gow",
+    "n": "PATHS ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري يحسن الألوان والحدة والتباين مع الحفاظ على الطابع السينمائي.",
+    "compat": "God of War PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على ملف اللعبة.",
+      "حمّل PATHS من Nexus.",
+      "ضع الـPreset في مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/62"
+  },
+  {
+    "id": "gow-infinite-arrows",
+    "g": "gow",
+    "n": "Infinite Arrows for Atreus",
+    "cat": "🏹 QoL",
+    "desc": "يلغي انتظار إعادة شحن سهام Atreus لتجربة قتال أسرع في الطور الفردي.",
+    "compat": "God of War PC.",
+    "req": "Script Loader and Gameplay Tweaks.",
+    "install": [
+      "ثبّت Script Loader أولًا.",
+      "حمّل المود من Nexus.",
+      "ضع ملفات السكربت في المسار المحدد بالصفحة.",
+      "اختبر سهام Atreus أثناء القتال."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/332"
+  },
+  {
+    "id": "gow-companion-ai-tweaks",
+    "g": "gow",
+    "n": "Companion AI Tweaks",
+    "cat": "🤖 Gameplay",
+    "desc": "يجعل Atreus أكثر نشاطًا واستجابة أثناء القتال ويعدل بعض سلوكيات الرفيق.",
+    "compat": "God of War PC. محدث في أكتوبر 2026.",
+    "req": "راجع متطلبات الإصدار الحالي.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة في الصفحة.",
+      "انسخ الملفات حسب التعليمات.",
+      "اختبر سلوك Atreus في عدة مواجهات."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/400"
+  },
+  {
+    "id": "gow-dlss5-reshade",
+    "g": "gow",
+    "n": "DLSS5 and ReShade Neural Rendering",
+    "cat": "⚡ رسومات",
+    "desc": "إعدادات حديثة تجمع تحسينات DLSS وReShade لتحسين جودة الصورة والأداء على بطاقات NVIDIA المتوافقة.",
+    "compat": "God of War PC + NVIDIA داعمة للتقنية.",
+    "req": "راجع متطلبات DLSS وReShade في صفحة المود.",
+    "install": [
+      "حمّل الإصدار المناسب من Nexus.",
+      "ثبّت المتطلبات بالإصدارات المذكورة.",
+      "طبّق ملفات الـPreset.",
+      "اختبر الأداء وجودة الصورة قبل اعتماد الإعداد."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/399"
+  },
+  {
+    "id": "gow-unlock-everything",
+    "g": "gow",
+    "n": "Unlock Everything",
+    "cat": "🎮 QoL",
+    "desc": "يفتح محتوى ومزايا إضافية للاستخدام في التجارب الفردية وإعادة اللعب.",
+    "compat": "God of War PC.",
+    "req": "Script Loader and Gameplay Tweaks.",
+    "install": [
+      "ثبّت Script Loader أولًا.",
+      "حمّل المود من Nexus.",
+      "ضع ملفات السكربت في المسار المحدد.",
+      "استخدمه على حفظ احتياطي لتجنب التأثير على تقدمك الأساسي."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/340"
+  },
+  {
+    "id": "gow-cinematic-reshade",
+    "g": "gow",
+    "n": "Cinematic ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يركز على مظهر سينمائي مع تحسين التباين والألوان.",
+    "compat": "God of War PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملف في مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/162"
+  },
+  {
+    "id": "gow-god-mode-rage",
+    "g": "gow",
+    "n": "Infinite Rage - Single Player",
+    "cat": "🎮 Gameplay",
+    "desc": "خيار فردي للتجارب وإعادة اللعب يجعل Rage متاحًا باستمرار.",
+    "compat": "God of War PC - طور فردي.",
+    "req": "Script Loader and Gameplay Tweaks.",
+    "install": [
+      "ثبّت Script Loader.",
+      "حمّل المود من Nexus.",
+      "ضع السكربت في المسار المحدد.",
+      "استخدمه في حفظ منفصل إذا أردت الحفاظ على توازن الحفظ الأساسي."
+    ],
+    "url": "https://www.nexusmods.com/godofwar/mods/331"
+  },
+  {
+    "id": "kcd-unlimited-saving",
+    "g": "kcd",
+    "n": "Unlimited Saving",
+    "cat": "💾 QoL",
+    "desc": "يسمح بالحفظ متى كان الحفظ مسموحًا بدون استهلاك Saviour Schnapps.",
+    "compat": "Kingdom Come: Deliverance 1.9.6.404.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر الحفظ في مكان مسموح."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1"
+  },
+  {
+    "id": "kcd-bow-dot",
+    "g": "kcd",
+    "n": "Bow Dot Reticle",
+    "cat": "🎯 واجهة",
+    "desc": "يبقي نقطة التصويب ظاهرة أثناء استخدام القوس.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملف حسب الصفحة.",
+      "اختبر القوس داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/13"
+  },
+  {
+    "id": "kcd-instant-herb",
+    "g": "kcd",
+    "n": "Instant Herb Picking",
+    "cat": "🌿 QoL",
+    "desc": "يلغي حركة قطف الأعشاب الطويلة ويجعل العملية فورية.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر قطف عدة أعشاب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/367"
+  },
+  {
+    "id": "kcd-stay-clean",
+    "g": "kcd",
+    "n": "Stay Clean Longer - Get Dirty Gradually",
+    "cat": "🧼 Gameplay",
+    "desc": "يجعل الملابس تتسخ تدريجيًا وببطء أكبر بدل الاتساخ السريع.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر السفر والقتال قبل غسل الملابس."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/390"
+  },
+  {
+    "id": "kcd-bush-collision",
+    "g": "kcd",
+    "n": "Bushes - Collision Remover",
+    "cat": "🌳 QoL",
+    "desc": "يزيل صناديق التصادم من الشجيرات لتسهيل الحركة والاستكشاف.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الحركة عبر الشجيرات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/591"
+  },
+  {
+    "id": "kcd-no-helmet-vision",
+    "g": "kcd",
+    "n": "No Helmet Vision",
+    "cat": "👁️ واجهة",
+    "desc": "يزيل تأثير الرؤية الضيق الناتج عن بعض الخوذ.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "ارتدِ خوذة مغلقة وتأكد من اتساع الرؤية."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/28"
+  },
+  {
+    "id": "kcd-perkaholic",
+    "g": "kcd",
+    "n": "Perkaholic - PTF Updated",
+    "cat": "⭐ Gameplay",
+    "desc": "يضيف 56 Perk جديدة إلى مهارات متعددة مثل القوس والـPolearm والقتال غير المسلح.",
+    "compat": "KCD 1.9.4-1.9.8؛ محدث في 2026.",
+    "req": "راجع ملف PTF المناسب.",
+    "install": [
+      "حمّل الإصدار الحالي.",
+      "ثبّت الملفات حسب الصفحة.",
+      "ابدأ اللعبة وتحقق من قوائم Perks الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1009"
+  },
+  {
+    "id": "kcd-sorted-inventory",
+    "g": "kcd",
+    "n": "A Sorted Inventory",
+    "cat": "🎒 واجهة",
+    "desc": "يعيد تسمية معظم العناصر بنظام تصنيف يجعل الجرد أسهل في القراءة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "راجع توافق اللغة المستخدمة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "افتح الجرد وتأكد من التصنيفات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/290"
+  },
+  {
+    "id": "kcd-easy-herbs",
+    "g": "kcd",
+    "n": "Easy To See Herbs",
+    "cat": "🌿 بصري",
+    "desc": "يجعل الأعشاب الصعبة مثل Belladonna أوضح وأسهل في الرؤية.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الخامات حسب الصفحة.",
+      "اختبر الأعشاب في المناطق الطبيعية."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/213"
+  },
+  {
+    "id": "kcd-sectorial-lockpicking",
+    "g": "kcd",
+    "n": "Sectorial Lockpicking",
+    "cat": "🔐 QoL",
+    "desc": "يجعل Lockpicking أسهل بدون إلغاء الميكانيكية الأساسية.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر قفلًا سهلًا ثم متوسطًا."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/32"
+  },
+  {
+    "id": "kcd-richer-merchants",
+    "g": "kcd",
+    "n": "Richer Merchants",
+    "cat": "💰 Gameplay",
+    "desc": "يزيد الأموال المتاحة لدى التجار لتسهيل بيع الغنائم.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "اختر مستوى الزيادة المناسب.",
+    "install": [
+      "حمّل نسخة الرصيد المناسبة.",
+      "ثبّت الملفات.",
+      "اختبر عدة تجار بعد مرور وقت داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/40"
+  },
+  {
+    "id": "kcd-responsive-targeting",
+    "g": "kcd",
+    "n": "More Responsive Targeting",
+    "cat": "⚔️ قتال",
+    "desc": "يخفف قيود نظام الاستهداف ويسهل التحرك ومواجهة أكثر من خصم.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر قتال مجموعة صغيرة قبل اعتماده."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/83"
+  },
+  {
+    "id": "kcd-easy-sharpening",
+    "g": "kcd",
+    "n": "Easy Sharpening",
+    "cat": "⚔️ QoL",
+    "desc": "يوسع الزاوية المثالية لشحذ الأسلحة لتصبح العملية أسهل.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Grindstone على سلاح متضرر."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1002"
+  },
+  {
+    "id": "kcd2-npc-overhaul",
+    "g": "kcd2",
+    "n": "NPC Overhaul",
+    "cat": "👤 NPC",
+    "desc": "يحسن مظهر الشخصيات النسائية ويصلح بعض مشاكل seams.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "راجع التوافق في صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الشخصيات الرئيسية والجانبية."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/1106"
+  },
+  {
+    "id": "kcd2-instant-herbs",
+    "g": "kcd2",
+    "n": "Instant Herb Picking II",
+    "cat": "🌿 QoL",
+    "desc": "يلغي حركة قطف الأعشاب ويجعل العملية فورية.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر قطف عدة أعشاب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/32"
+  },
+  {
+    "id": "kcd2-more-carry",
+    "g": "kcd2",
+    "n": "More Carry Weight - PTF",
+    "cat": "🎒 Gameplay",
+    "desc": "يزيد سعة الحمل بخيارات متعددة من 2x حتى قيم أعلى.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "اختر النسخة المناسبة.",
+    "install": [
+      "حمّل نسخة الوزن المطلوبة.",
+      "ثبّت الملفات.",
+      "تحقق من Carry Weight داخل الجرد."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/63"
+  },
+  {
+    "id": "kcd2-easy-smithing",
+    "g": "kcd2",
+    "n": "Easy Smithing",
+    "cat": "🔨 QoL",
+    "desc": "يبسط عملية الحدادة ويقلل عدد الضربات المطلوبة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر صناعة سلاح في Forge."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/83"
+  },
+  {
+    "id": "kcd2-richer-merchants",
+    "g": "kcd2",
+    "n": "Richer Merchants",
+    "cat": "💰 Gameplay",
+    "desc": "يزيد Groschen لدى التجار مع الحفاظ على اختلاف ثرواتهم.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر عدة تجار بعد مرور وقت في اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/73"
+  },
+  {
+    "id": "kcd2-easy-herbs",
+    "g": "kcd2",
+    "n": "Easy To See Herbs II",
+    "cat": "🌿 بصري",
+    "desc": "يجعل الأعشاب النادرة مثل Belladonna أسهل في الرؤية.",
+    "compat": "Kingdom Come: Deliverance II. محدث في 2026.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الخامات.",
+      "اختبر الأعشاب في الطبيعة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/457"
+  },
+  {
+    "id": "kcd2-master-lockpicker",
+    "g": "kcd2",
+    "n": "The Master Lockpicker",
+    "cat": "🔐 QoL",
+    "desc": "يتيح ضبط صعوبة Lockpicking وتوسيع Hotspot وتقليل اهتزاز اليد.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "اختر مستوى الصعوبة المناسب.",
+    "install": [
+      "حمّل النسخة المطلوبة.",
+      "ثبّت الملفات.",
+      "اختبر أقفالًا بدرجات مختلفة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/157"
+  },
+  {
+    "id": "kcd2-stay-clean",
+    "g": "kcd2",
+    "n": "Stay Clean for Longer - PTF",
+    "cat": "🧼 QoL",
+    "desc": "يطيل الوقت قبل اتساخ الملابس.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر السفر والقتال قبل الغسيل."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/59"
+  },
+  {
+    "id": "kcd2-no-helmet",
+    "g": "kcd2",
+    "n": "No Helmet Vision",
+    "cat": "👁️ واجهة",
+    "desc": "يزيل أو يخفف تأثير الرؤية الضيقة للخوذ المغلقة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "اختر النسخة المناسبة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "ارتدِ خوذة مغلقة واختبر الرؤية."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/93"
+  },
+  {
+    "id": "kcd2-dice-unveiled",
+    "g": "kcd2",
+    "n": "Luck Laid Bare - Dice Unveiled",
+    "cat": "🎲 واجهة",
+    "desc": "يعرض الأوزان والاحتمالات المخفية لكل نرد.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "افتح واجهة لعبة النرد وتحقق من المعلومات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/492"
+  },
+  {
+    "id": "kcd2-easy-alchemy",
+    "g": "kcd2",
+    "n": "Easy Alchemy",
+    "cat": "⚗️ QoL",
+    "desc": "يسرع صناعة الجرعات ويلغي بعض الخطوات المتكررة مثل الطحن والغلي.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر وصفة Alchemy بسيطة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/283"
+  },
+  {
+    "id": "kcd2-timed-quests",
+    "g": "kcd2",
+    "n": "Timed Quest Markers",
+    "cat": "🗺️ واجهة",
+    "desc": "يضيف علامة للمهمات التي تحتوي على أجزاء محددة بوقت.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "افتح سجل المهام وتحقق من العلامات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579"
+  },
+  {
+    "id": "kcd2-faster-bow",
+    "g": "kcd2",
+    "n": "Faster Bow Charge Duration - PTF",
+    "cat": "🏹 Gameplay",
+    "desc": "يسرع شحن القوس بخيارات 1.25x و1.5x و2x.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "اختر النسخة المناسبة.",
+    "install": [
+      "حمّل نسخة السرعة المطلوبة.",
+      "ثبّت الملفات.",
+      "اختبر القوس في التدريب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/103"
+  },
+  {
+    "id": "kcd2-bow-reticle",
+    "g": "kcd2",
+    "n": "Reticle for Bows and Crossbows",
+    "cat": "🎯 واجهة",
+    "desc": "يبقي Reticle ظاهرًا عند استخدام الأقواس والنشاب.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر القوس والنشاب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/12"
+  },
+  {
+    "id": "re6-firearms-damage",
+    "g": "re6",
+    "n": "Firearms Damage Upgrade",
+    "cat": "🔫 Gameplay",
+    "desc": "يرفع ضرر مجموعة من الأسلحة لتقليل إحساس Bullet Sponge.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع الملفات المتاحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الضرر على أعداء عاديين أولًا."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/99"
+  },
+  {
+    "id": "re6-jake-turtleneck",
+    "g": "re6",
+    "n": "Turtleneck for Jake Muller's Asia Outfit",
+    "cat": "👕 مظهر",
+    "desc": "يعدل زي Jake في فصل Asia بإضافة Turtleneck.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر زي Jake في Asia."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/97"
+  },
+  {
+    "id": "re6-wesker-jake",
+    "g": "re6",
+    "n": "Wesker Uniform for Jake",
+    "cat": "👕 مظهر",
+    "desc": "يستبدل زي Jake Asia بزي Albert Wesker مستوحى من RE1.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "ابدأ فصل Jake Asia للتحقق من الزي."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/722"
+  },
+  {
+    "id": "re6-modern-rendering",
+    "g": "re6",
+    "n": "DX11 DX12 DXVK Vulkan and Uncap-FPS Support",
+    "cat": "⚡ أداء",
+    "desc": "يضيف خيارات Rendering حديثة ودعم DX11/DX12/DXVK وUncap FPS لتحسين التوافق والأداء على الأنظمة الحديثة.",
+    "compat": "Resident Evil 6 PC / Steam Deck-Proton.",
+    "req": "تعريف GPU حديث.",
+    "install": [
+      "حمّل النسخة المناسبة من Nexus.",
+      "خذ نسخة احتياطية من ملفات DLL الأصلية.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الثبات والأداء قبل اعتماد الإعداد."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/504"
+  },
+  {
+    "id": "re6-2b",
+    "g": "re6",
+    "n": "2B from NieR Automata",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل إحدى الشخصيات بنموذج 2B من NieR Automata.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "Sectus Mod Manager اختياري.",
+    "install": [
+      "حمّل المود.",
+      "ثبّته عبر Mod Manager أو فك الملفات داخل مجلد RE6.",
+      "اختبر الشخصية داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/70"
+  },
+  {
+    "id": "re6-piers-bar",
+    "g": "re6",
+    "n": "Piers Bar Outfit",
+    "cat": "👕 مظهر",
+    "desc": "حزمة أزياء لـPiers تشمل Asia وEurope وخيارات متعددة.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الحزمة.",
+      "اختر نسخة واحدة فقط لكل منطقة.",
+      "ثبّت الملفات حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/684"
+  },
+  {
+    "id": "re6-leon-hd",
+    "g": "re6",
+    "n": "Leon S. Kennedy HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Leon لمظهر أوضح.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الخامات حسب المسارات.",
+      "اختبر Leon في المشاهد واللعب."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/236"
+  },
+  {
+    "id": "re6-jake-hd",
+    "g": "re6",
+    "n": "Jake Muller HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن خامات Jake Muller بدقة أعلى.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الخامات.",
+      "اختبر Jake في أكثر من فصل."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/242"
+  },
+  {
+    "id": "re6-sherry-hd",
+    "g": "re6",
+    "n": "Sherry Birkin HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع جودة خامات Sherry Birkin.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الخامات حسب الصفحة.",
+      "اختبر Sherry في Asia وEurope."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/243"
+  },
+  {
+    "id": "re6-less-intrusive-camera",
+    "g": "re6",
+    "n": "Less Intrusive Cameras and Restrictive Movement",
+    "cat": "🎥 كاميرا",
+    "desc": "يزيل معظم زوايا الكاميرا القسرية وأجزاء الحركة المقيدة عبر الحملات.",
+    "compat": "Resident Evil 6 PC. محدث في أغسطس 2026.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر المقاطع التي كانت تفرض الكاميرا والحركة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/317"
+  },
+  {
+    "id": "re6-chris-bar",
+    "g": "re6",
+    "n": "Chris Bar Outfit",
+    "cat": "👕 مظهر",
+    "desc": "يضيف أزياء Bar لـChris في Asia وEurope.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "اختر نسخة واحدة لكل منطقة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الملفات.",
+      "اختبر Chris في الحملتين."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/699"
+  },
+  {
+    "id": "re6-ada-hd",
+    "g": "re6",
+    "n": "Ada Wong HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Ada Wong.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الخامات.",
+      "اختبر حملة Ada."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/241"
+  },
+  {
+    "id": "re6-marksman1a",
+    "g": "re6",
+    "n": "Marksman1A",
+    "cat": "🔫 أسلحة",
+    "desc": "يستبدل Semi-Auto Sniper Rifle بسلاح Marksman1A المستوحى من RE9.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات السلاح حسب الصفحة.",
+      "اختبر القناص داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/695"
+  },
+  {
+    "id": "wukong-ue4ss",
+    "g": "wukong",
+    "n": "RE-UE4SS",
+    "cat": "🛠️ أداة",
+    "desc": "إطار أساسي مطلوب لتشغيل عدد كبير من مودات Black Myth: Wukong.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "استخدم إصدار Wukong المتوافق.",
+    "install": [
+      "حمّل النسخة من Nexus.",
+      "استخرج الملفات إلى b1/Binaries/Win64 حسب الصفحة.",
+      "شغّل اللعبة مرة للتأكد من عمل الإطار."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/19"
+  },
+  {
+    "id": "wukong-spf-redux",
+    "g": "wukong",
+    "n": "SPF Redux - Better Performance and Visuals",
+    "cat": "⚡ أداء",
+    "desc": "حزمة إعدادات لتحسين الأداء والتقطيع والـUpscaling والـLatency مع الحفاظ على جودة الصورة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع خيارات الملف الحالية.",
+    "install": [
+      "حمّل الملف المناسب.",
+      "خذ نسخة احتياطية من الإعدادات.",
+      "طبّق الملفات حسب الصفحة.",
+      "اختبر الأداء في منطقة ثقيلة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/13"
+  },
+  {
+    "id": "wukong-simple-map",
+    "g": "wukong",
+    "n": "Simple Map",
+    "cat": "🗺️ واجهة",
+    "desc": "يضيف خريطة مبسطة تساعد على التنقل.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع تعليمات النسخة الحالية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "افتح الخريطة داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/60"
+  },
+  {
+    "id": "wukong-drop-rates",
+    "g": "wukong",
+    "n": "Increased Rare Item Drop Rates",
+    "cat": "🎁 QoL",
+    "desc": "يرفع فرص سقوط العناصر النادرة لتقليل وقت الـFarming.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Drop Rate على أعداء معروفين بإسقاطات نادرة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/405"
+  },
+  {
+    "id": "wukong-cloud-anywhere",
+    "g": "wukong",
+    "n": "Somersault Cloud Anywhere",
+    "cat": "☁️ Gameplay",
+    "desc": "يتيح استخدام Somersault Cloud في خرائط أكثر بدل تقييده بمناطق محددة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر Cloud في أكثر من منطقة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/92"
+  },
+  {
+    "id": "wukong-great-sage-body",
+    "g": "wukong",
+    "n": "Great Sage Remnant Body Technique",
+    "cat": "🥋 Gameplay",
+    "desc": "يستبدل حركات Great Sage Mode بحركات مستوحاة من Great Sage Remnant مع موازنة للقيم.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "لا يحتاج مكونات مسبقة حسب صفحة المود.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "فعّل Great Sage Mode واختبر الحركات."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/1397"
+  },
+  {
+    "id": "wukong-better-dodge",
+    "g": "wukong",
+    "n": "Better Dodge",
+    "cat": "🌀 Gameplay",
+    "desc": "يوسع نافذة الـDodge ويحسن إمكانية إلغاء بعض الحركات والـCombos.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع التوازن قبل الاستخدام.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر Dodge في مواجهة عادية ثم Boss."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/55"
+  },
+  {
+    "id": "wukong-minimap",
+    "g": "wukong",
+    "n": "Wukong Minimap",
+    "cat": "🗺️ واجهة",
+    "desc": "يضيف Minimap مع تتبع الموقع والملاحة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع المتطلبات في Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "شغّل اللعبة وتأكد من ظهور الخريطة المصغرة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/1172"
+  },
+  {
+    "id": "wukong-bossrush-v3",
+    "g": "wukong",
+    "n": "BossRushV3",
+    "cat": "🔥 Gameplay",
+    "desc": "يتيح اختيار الزعماء وإعادة مواجهاتهم عبر قائمة مخصصة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "افتح قائمة Boss Rush واختبر مواجهة واحدة أولًا."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/668"
+  },
+  {
+    "id": "wukong-lightsaber",
+    "g": "wukong",
+    "n": "Double Bladed Lightsaber",
+    "cat": "⚔️ أسلحة",
+    "desc": "يستبدل الأسلحة بمظهر Double Bladed Lightsaber مع أصوات مناسبة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات السلاح والصوت.",
+      "اختبر السلاح داخل القتال."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/42"
+  },
+  {
+    "id": "wukong-nezha",
+    "g": "wukong",
+    "n": "Nezha with Voice and Character",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل البطل بشخصية Nezha مع نموذج وصوت مخصصين.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع الملفات الحالية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات الشخصية والصوت.",
+      "ابدأ اللعبة واختبر الحركات والمشاهد."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/1151"
+  },
+  {
+    "id": "wukong-bossrush",
+    "g": "wukong",
+    "n": "BossRush",
+    "cat": "🔥 Gameplay",
+    "desc": "مود Boss Rush مخصص لإعادة قتال الزعماء وتجربة تحديات متتابعة.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع متطلبات Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختبر Boss واحد قبل بدء سلسلة طويلة."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/147"
+  },
+  {
+    "id": "wukong-world-map-2026",
+    "g": "wukong",
+    "n": "Wukong Minimap and World Map",
+    "cat": "🗺️ واجهة",
+    "desc": "خريطة عالم تفاعلية + Minimap مع علامات للزعماء والصناديق والأضرحة والأعشاب، محدثة في 2026.",
+    "compat": "Black Myth: Wukong PC.",
+    "req": "راجع ملفات الإصدار 1.3.",
+    "install": [
+      "حمّل الإصدار الحالي من Nexus.",
+      "ثبّت الملفات بالسحب والإفلات حسب الصفحة.",
+      "استخدم F2 لفتح الإعدادات."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/1434"
+  },
+  {
+    "id": "wukong-great-sages-inheritance",
+    "g": "wukong",
+    "n": "The Great Sages Inheritance",
+    "cat": "🔥 Overhaul",
+    "desc": "يعيد تصميم نمطي البطل ليقتربا أكثر من أسلوب Great Sage الحقيقي.",
+    "compat": "Black Myth: Wukong PC. محدث في أكتوبر 2026.",
+    "req": "راجع ملفات المود الحالية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر النمطين في منطقة آمنة قبل Boss."
+    ],
+    "url": "https://www.nexusmods.com/blackmythwukong/mods/1487"
+  },
+  {
+    "id": "ac4-anvil-toolkit",
+    "g": "ac4",
+    "n": "AnvilToolkit",
+    "cat": "🛠️ أداة",
+    "desc": "أداة أساسية لفك وإعادة حزم ملفات Anvil وتشغيل عدد كبير من مودات Black Flag.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "استخدم الإصدار الحالي المتوافق.",
+    "install": [
+      "حمّل AnvilToolkit من Nexus.",
+      "ثبّت الأداة حسب الصفحة.",
+      "احتفظ بنسخة من ملفات Forge قبل أي تعديل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/222"
+  },
+  {
+    "id": "ac4-processor-optimizer",
+    "g": "ac4",
+    "n": "Processor Optimizer",
+    "cat": "⚡ أداء",
+    "desc": "يحسن استخدام المعالج في نسخة Black Flag ذات 32-bit على الأنظمة متعددة الأنوية.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "dinput8 Win32 حسب صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع مجلد scripts في مجلد اللعبة.",
+      "ثبّت dinput8 Win32 المذكور في الصفحة.",
+      "اختبر الأداء والثبات."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/887"
+  },
+  {
+    "id": "ac4-resynced-weapons",
+    "g": "ac4",
+    "n": "Lightserver's Blades and Darkworker's Pistols",
+    "cat": "⚔️ أسلحة",
+    "desc": "يستبدل سيوف Edward الفريدة وSpanish Officer Pistols بنماذج جديدة.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "طبّق ملفات الأسلحة حسب تعليمات الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/893"
+  },
+  {
+    "id": "ac4-blackbeard-crimson",
+    "g": "ac4",
+    "n": "Blackbeard's Crimson Inspired Costume",
+    "cat": "👕 مظهر",
+    "desc": "يستبدل Pirate Captain Outfit بزي مستوحى من Blackbeard.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "استبدل ملفات الزي حسب الصفحة.",
+      "اختبر Pirate Captain Outfit."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/918"
+  },
+  {
+    "id": "ac4-skip-intro",
+    "g": "ac4",
+    "n": "Skip Intro Videos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/216"
+  },
+  {
+    "id": "ac4-jack-sparrow",
+    "g": "ac4",
+    "n": "The Captain Jack Sparrow",
+    "cat": "👤 شخصيات",
+    "desc": "يتيح اللعب بمظهر Captain Jack Sparrow.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "راجع تعليمات صفحة المود.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات الشخصية.",
+      "شغّل اللعبة واختبر المظهر."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/513"
+  },
+  {
+    "id": "ac4-community-rewards",
+    "g": "ac4",
+    "n": "Community Rewards Items Unlocked",
+    "cat": "🎁 محتوى",
+    "desc": "يفتح Community Rewards القديمة التي لم تعد قابلة للحصول عليها من تحديات Ubisoft Connect.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب التعليمات.",
+      "افتح قائمة المعدات وتحقق من العناصر."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/655"
+  },
+  {
+    "id": "ac4-edward-new-hood",
+    "g": "ac4",
+    "n": "Edward's New Hood",
+    "cat": "👤 مظهر",
+    "desc": "يستبدل نموذج Hood الخاص بـEdward بتصميم جديد.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "استبدل ملفات Hood حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/892"
+  },
+  {
+    "id": "ac4-master-assassin-robe",
+    "g": "ac4",
+    "n": "Master Assassin's Inspired Robe",
+    "cat": "👕 مظهر",
+    "desc": "يستبدل Privateer Outfit بزي مستوحى من Master Assassin.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "طبّق ملفات الزي.",
+      "اختبر Privateer Outfit."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/898"
+  },
+  {
+    "id": "ac4-edward-resinked",
+    "g": "ac4",
+    "n": "Edward Kenway Resinked",
+    "cat": "👤 مظهر",
+    "desc": "إعادة تصميم لمظهر Edward مع Hood وخيارات محسنة.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل الإصدار الحالي.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Hood والحركات."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/845"
+  },
+  {
+    "id": "ac4-jackdaw-concept",
+    "g": "ac4",
+    "n": "Jackdaw Concept Look",
+    "cat": "⛵ سفن",
+    "desc": "يبقي مظهر Jackdaw المطور قريبًا من تصميم المستوى الأول مع بقاء الترقيات.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "فك ملف Forge المحدد.",
+      "استبدل الملفات ثم أعد الحزم حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/869"
+  },
+  {
+    "id": "ac4-replayable-legendary-ships",
+    "g": "ac4",
+    "n": "Replayable Legendary Ships",
+    "cat": "⛵ Gameplay",
+    "desc": "يسمح بإعادة مهمات Legendary Ships بلا حد على نفس الحفظ.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "طبّق الملفات حسب الصفحة.",
+      "اختبر إعادة إحدى Legendary Ships."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/630"
+  },
+  {
+    "id": "ac4-refined-reshade",
+    "g": "ac4",
+    "n": "Black Flag Refined ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset سينمائي يحسن الألوان والحدة والظلال مع أداء خفيف.",
+    "compat": "Assassin's Creed IV: Black Flag PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset.",
+      "ضعه في مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedivblackflag/mods/860"
+  },
+  {
+    "id": "aco-cutscene-headgear",
+    "g": "aco",
+    "n": "Cutscene Headgear (Updated)",
+    "cat": "👕 مظهر",
+    "desc": "يبقي الخوذة المجهزة ظاهرة أثناء المقاطع السينمائية.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "راجع تعليمات الملف الحالي.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب الصفحة.",
+      "اختبر مقطعًا سينمائيًا مع خوذة مجهزة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/302"
+  },
+  {
+    "id": "aco-finishers-combat",
+    "g": "aco",
+    "n": "Finishers During Combat",
+    "cat": "⚔️ Gameplay",
+    "desc": "يتيح تشغيل حركات الـFinisher أثناء القتال بدل اقتصارها على حالات محددة.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "راجع المتطلبات في الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Finisher أثناء مواجهة عادية."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/387"
+  },
+  {
+    "id": "aco-athena-shoulderpad",
+    "g": "aco",
+    "n": "Athena Shoulderpad Removal",
+    "cat": "👗 مظهر",
+    "desc": "يزيل Shoulderpad من Athena Set لمظهر أبسط.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملف حسب الصفحة.",
+      "ارتدِ Athena Set وتحقق من التعديل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/396"
+  },
+  {
+    "id": "aco-gameplay-redux",
+    "g": "aco",
+    "n": "Gameplay Redux",
+    "cat": "🔥 Overhaul",
+    "desc": "يعيد موازنة جوانب من القتال ونظام العتاد ليقترب أكثر من إحساس ألعاب Assassin's Creed القديمة.",
+    "compat": "الإصدارات 1.5.3 و1.5.6.",
+    "req": "يفضل حفظ احتياطي أو جولة جديدة.",
+    "install": [
+      "خذ نسخة احتياطية من الحفظ.",
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبره في جولة منفصلة قبل الاعتماد النهائي."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/478"
+  },
+  {
+    "id": "aco-autoloot",
+    "g": "aco",
+    "n": "AutoLoot - Automatic Resource and Loot Pickup",
+    "cat": "🎒 QoL",
+    "desc": "يجمع الموارد والعملات والأسلحة والسهام تلقائيًا عند الاقتراب منها.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "راجع المتطلبات الحالية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر التقاط الموارد والغنائم تلقائيًا."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/480"
+  },
+  {
+    "id": "aco-shield-combos",
+    "g": "aco",
+    "n": "Shield Blocks Do Not Break Combos",
+    "cat": "⚔️ Gameplay",
+    "desc": "يبقي صد الدرع فعالًا لكن يمنع كسر سلسلة الضربات العادية عند الاصطدام به.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "Forger 2.10.",
+    "install": [
+      "ثبّت Forger2.",
+      "ضع Patch داخل ForgerPatches.",
+      "اعمل Rescan وفعّل المود.",
+      "اختبر سلسلة ضربات ضد عدو يحمل درعًا."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/475"
+  },
+  {
+    "id": "aco-backstep",
+    "g": "aco",
+    "n": "Kassandra Unstoppable Backstep",
+    "cat": "🌀 Gameplay",
+    "desc": "يستبدل Spartan Kick بحركة Backstep دفاعية سريعة مع حماية مؤقتة.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "Forger2.",
+    "install": [
+      "ثبّت Forger2.",
+      "ضع ملف المود في ForgerPatches.",
+      "فعّله من Forger2.",
+      "اختبره بعد فتح Spartan Kick Level 1."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/454"
+  },
+  {
+    "id": "aco-fast-launch",
+    "g": "aco",
+    "n": "Fast Launch - Skip Startup Intro Videos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشعارات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/181"
+  },
+  {
+    "id": "aco-reshade-pro",
+    "g": "aco",
+    "n": "Reshade Pro Assassin's Creed Odyssey",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يحسن الألوان والتباين والإضاءة مع الحفاظ على هوية اليونان.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "اختر ملف 1080p أو 2K-4K.",
+      "ضع الـPreset في مجلد اللعبة.",
+      "فعّله من واجهة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/415"
+  },
+  {
+    "id": "aco-aegean-light",
+    "g": "aco",
+    "n": "Aegean Light",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يعيد عمق الظلال ويقلل احتراق السماء ويضيف Eye Adaptation وDebanding.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل Aegean Light.",
+      "ضع الـPreset وملفاته في المسار المطلوب.",
+      "اختبر النهار والليل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/470"
+  },
+  {
+    "id": "aco-vibrant",
+    "g": "aco",
+    "n": "Vibrant Assassin's Creed Odyssey",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade يعطي ألوانًا أكثر حيوية وصورة محسنة.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل المود.",
+      "ضع الـPreset في مجلد اللعبة.",
+      "فعّله من واجهة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/390"
+  },
+  {
+    "id": "aco-super-eagle-eyes",
+    "g": "aco",
+    "n": "Super Eagle Eyes",
+    "cat": "🦅 Gameplay",
+    "desc": "يوسع مسافة Eagle Eye بشكل كبير لتسهيل الاستكشاف والرصد.",
+    "compat": "Assassin's Creed Odyssey PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختبر مدى Eagle Eye في منطقة مفتوحة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedodyssey/mods/406"
+  },
+  {
+    "id": "acv-crash-fix-settings",
+    "g": "acv",
+    "n": "Crash Fix and Semi Maxed-out Settings",
+    "cat": "⚡ أداء",
+    "desc": "ملف إعدادات يهدف لتحسين الثبات مع إعدادات مرتفعة متوازنة.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "خذ نسخة من إعداداتك الحالية.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "خذ نسخة احتياطية من ملف الإعدادات.",
+      "طبّق الملف حسب الصفحة.",
+      "اختبر اللعبة في منطقة ثقيلة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/135"
+  },
+  {
+    "id": "acv-hide-this",
+    "g": "acv",
+    "n": "Hide this ...",
+    "cat": "👤 مظهر",
+    "desc": "خيارات لإخفاء Sheathes وFace Masks وHidden Blade وعناصر بصرية أخرى.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "راجع خيار الملف المطلوب.",
+    "install": [
+      "حمّل الخيار المناسب.",
+      "ثبّت الملفات حسب الصفحة.",
+      "فعّل عنصر إخفاء واحدًا في كل مرة للاختبار."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/74"
+  },
+  {
+    "id": "acv-fast-launch",
+    "g": "acv",
+    "n": "Fast Launch - Skip Startup Intro Videos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز فيديوهات وشعارات البداية لتسريع تشغيل اللعبة.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تجاوز المقدمة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/372"
+  },
+  {
+    "id": "acv-better-valhalla",
+    "g": "acv",
+    "n": "Better Assassin's Creed Valhalla",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade لتحسين الألوان والإضاءة وجودة الصورة.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset.",
+      "ضعه في مجلد اللعبة.",
+      "فعّله من واجهة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/385"
+  },
+  {
+    "id": "acv-valhalla-reshade",
+    "g": "acv",
+    "n": "A Valhalla ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يقلل التشبع ويعطي الصورة طابعًا أكثر هدوءًا وطبيعية.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset.",
+      "ضعه في مجلد اللعبة.",
+      "فعّله من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/380"
+  },
+  {
+    "id": "acv-photorealistic",
+    "g": "acv",
+    "n": "Assassin's Creed Valhalla Photorealistic ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset واقعي متوفر بإعدادات 1080p و2K-4K.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "اختر نسخة دقتك.",
+      "ضع الـPreset في مجلد اللعبة.",
+      "فعّله واختبر الأداء."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/402"
+  },
+  {
+    "id": "acv-parkour-overhauled",
+    "g": "acv",
+    "n": "Parkour Overhauled Valhalla",
+    "cat": "🏃 Gameplay",
+    "desc": "يعيد ضبط Parkour في Valhalla بدون الحاجة إلى Cheat Engine.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر التسلق والقفز في منطقة حضرية."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/398"
+  },
+  {
+    "id": "acv-classic-movement",
+    "g": "acv",
+    "n": "Classic Movement - Walk By Default and Seamless Sprint",
+    "cat": "🏃 Gameplay",
+    "desc": "يجعل المشي هو الحركة الافتراضية مع Sprint سلس قابل للتخصيص.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "لا توجد Dependencies.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "عطّل Photo Mode إذا استخدمت اختصار L3+R3.",
+      "اضبط سرعة المشي من INI."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/413"
+  },
+  {
+    "id": "acv-kassandra",
+    "g": "acv",
+    "n": "Play as Kassandra",
+    "cat": "👤 شخصيات",
+    "desc": "يتيح اللعب بمظهر Kassandra بدل Eivor.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "Eivor Customizer 2 + المتطلبات المذكورة.",
+    "install": [
+      "ثبّت المتطلبات.",
+      "حمّل المود.",
+      "طبّق Preset والملفات حسب الصفحة.",
+      "اختبر المظهر داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/405"
+  },
+  {
+    "id": "acv-brutus-outfit",
+    "g": "acv",
+    "n": "Brutus's Outfit",
+    "cat": "👕 مظهر",
+    "desc": "يستبدل Young Ezio Outfit بزي Brutus.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "راجع تعليمات الملف.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات الزي حسب الصفحة.",
+      "اختر Young Ezio Outfit داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/400"
+  },
+  {
+    "id": "acv-goated-camera",
+    "g": "acv",
+    "n": "GoatedACValhalla - Camera Speed and FOV Control",
+    "cat": "🎥 كاميرا",
+    "desc": "يضيف تحكمًا كاملًا في FOV وسرعة الحركة والكاميرات وبعض سرعات الحركات.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "راجع صفحة المود.",
+    "install": [
+      "حمّل المود.",
+      "انسخ الملفات إلى مجلد ACValhalla.exe.",
+      "شغّل اللعبة لإنشاء Config.",
+      "عدّل FOV والسرعات تدريجيًا."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/414"
+  },
+  {
+    "id": "acv-no-assassination-sound",
+    "g": "acv",
+    "n": "No Assassination Sound",
+    "cat": "🔊 صوت",
+    "desc": "يزيل صوت الاغتيال المرتفع ويستبدل/يخفف بعض مؤثرات Death From Above.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Stealth Assassination وDeath From Above."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/382"
+  },
+  {
+    "id": "acv-natural-fidelity",
+    "g": "acv",
+    "n": "Natural Fidelity",
+    "cat": "🎨 رسومات",
+    "desc": "ReShade بألوان طبيعية وحدّة أفضل ونباتات وسماء أوضح وليالٍ أغمق بدون مبالغة.",
+    "compat": "Assassin's Creed Valhalla PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل Natural Fidelity.",
+      "ضع الـPreset وملفاته في المسار المحدد.",
+      "اختبر النهار والليل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedvalhalla/mods/394"
+  },
+  {
+    "id": "kcd2-authentic-armors",
+    "g": "kcd2",
+    "n": "Authentic Armors and Helmets",
+    "cat": "🛡️ مظهر",
+    "desc": "يعيد تشكيل معظم قطع الدروع والملابس الحربية ويضيف تحسينات وتكاملات جديدة.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "راجع ملفات الإصدار الحالي.",
+    "install": [
+      "حمّل النسخة المناسبة من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر عدة أطقم دروع داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3262"
+  },
+  {
+    "id": "kcd2-gather-radius",
+    "g": "kcd2",
+    "n": "More Gather Radius and XP - PTF",
+    "cat": "🌿 QoL",
+    "desc": "يوسع نطاق جمع الأعشاب مع خيارات لزيادة XP.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف المطلوب.",
+      "استخرج المود إلى مجلد Mods.",
+      "اختبر جمع الأعشاب في منطقة كثيفة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/66"
+  },
+  {
+    "id": "kcd2-async-compute",
+    "g": "kcd2",
+    "n": "FPS Boost - Enable Async Compute",
+    "cat": "⚡ أداء",
+    "desc": "يفعّل Async Compute لتحسين الأداء على بعض البطاقات الحديثة بدون تعارضات كبيرة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "النتيجة تختلف حسب GPU.",
+    "install": [
+      "حمّل المود.",
+      "استخرجه إلى مجلد Mods.",
+      "اختبر FPS والثبات قبل وبعد التفعيل."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/440"
+  },
+  {
+    "id": "kcd2-raven-rose",
+    "g": "kcd2",
+    "n": "The Raven and the Rose Armoury",
+    "cat": "🛡️ دروع",
+    "desc": "يضيف مجموعات دروع جديدة متوافقة مع الحفظ.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الدروع الجديدة داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3308"
+  },
+  {
+    "id": "kcd2-barber-options",
+    "g": "kcd2",
+    "n": "More Barber Options - Hair and Beards",
+    "cat": "👤 تخصيص",
+    "desc": "يضيف تسريحات شعر ولحى إضافية إلى الحلاقين.",
+    "compat": "Kingdom Come: Deliverance II 1.4/1.5.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات في Mods.",
+      "زر الحلاق وتحقق من الخيارات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/1364"
+  },
+  {
+    "id": "kcd2-realistic-visual-weather",
+    "g": "kcd2",
+    "n": "ENHANCED Realistic Visual and Weather HD Overhaul",
+    "cat": "🎨 Overhaul",
+    "desc": "Overhaul بصري كبير يعيد تصميم الإضاءة والطقس والنباتات والمؤثرات مع LUTs سينمائية.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "LUA DB حسب صفحة المود.",
+    "install": [
+      "ثبّت المتطلب المذكور أولًا.",
+      "حمّل الـOverhaul من Nexus.",
+      "اتبع التثبيت اليدوي المحدد في الصفحة.",
+      "اختبر الطقس والإضاءة في عدة مناطق."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3299"
+  },
+  {
+    "id": "kcd2-landscape-materials",
+    "g": "kcd2",
+    "n": "Landscape and Materials Overhaul",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن خامات الطرق والجدران والأسطح والطين والمياه والمباني وعناصر البيئة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "مساحة تخزين إضافية.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الخامات في المدن والريف."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/521"
+  },
+  {
+    "id": "kcd2-thorough-maintenance",
+    "g": "kcd2",
+    "n": "Thorough Maintenance - Durable Equipment and Weapons",
+    "cat": "🛠️ QoL",
+    "desc": "يرفع فعالية Perk Thorough Maintenance لتقليل تآكل الأسلحة والدروع.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "اختر نسبة المتانة المناسبة.",
+    "install": [
+      "حمّل الملف المطلوب.",
+      "ثبّت المود في Mods.",
+      "اختبر تآكل العتاد بعد قتال طويل."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/100"
+  },
+  {
+    "id": "kcd2-smooth-cutscenes",
+    "g": "kcd2",
+    "n": "Smooth Cutscene FPS",
+    "cat": "🎬 أداء",
+    "desc": "يزيل حد 30FPS من المشاهد السينمائية داخل اللعبة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملف في Mods.",
+      "شغّل مشهدًا سينمائيًا وتحقق من معدل الإطارات."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/425"
+  },
+  {
+    "id": "kcd2-master-pickpocket",
+    "g": "kcd2",
+    "n": "The Master Pickpocket 2",
+    "cat": "👜 QoL",
+    "desc": "يجعل Pickpocketing أكثر مرونة عبر تسريع التحميل وتقليل العقوبات وزيادة المكافآت.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "PTF.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات في Mods.",
+      "اختبر السرقة على هدف سهل أولًا."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/62"
+  },
+  {
+    "id": "kcd-enhanced-color-grading",
+    "g": "kcd",
+    "n": "Enhanced Color Grading",
+    "cat": "🎨 رسومات",
+    "desc": "يضبط الإضاءة والظلال وColor Grading ليقترب المظهر من KCD2.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "قد يتعارض مع مودات LUT أخرى.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "فك مجلد المود داخل Mods.",
+      "اختبر الإضاءة والـGamma في عدة مناطق."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2175"
+  },
+  {
+    "id": "kcd-third-person-view",
+    "g": "kcd",
+    "n": "Proper Third Person View",
+    "cat": "🎥 كاميرا",
+    "desc": "يضيف كاميرا منظور ثالث مع Collision وتصحيح Frustum وخيار Free-look تجريبي.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "ASI Loader حسب صفحة المود.",
+    "install": [
+      "ثبّت المتطلب المذكور.",
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الكاميرا والمشي والركض."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2261"
+  },
+  {
+    "id": "kcd-lancelot",
+    "g": "kcd",
+    "n": "Lancelot",
+    "cat": "🔥 Overhaul",
+    "desc": "Overhaul يرفع جودة تقدم الشخصية وفتك القتال وتوازن المعدات.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "استخدمه كبديل مستقل عن Overhaul قتالي آخر.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج الملفات إلى Mods.",
+      "لا تجمعه مع Better Combat قبل اختبار التعارض."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2181"
+  },
+  {
+    "id": "kcd-faster-combat",
+    "g": "kcd",
+    "n": "Faster Combat - Directional Master Strikes",
+    "cat": "⚔️ قتال",
+    "desc": "يسرع القتال ويضيف Master Strikes اتجاهية وتحسينات للقتال الجماعي.",
+    "compat": "Kingdom Come: Deliverance Patch 1.9.2 base.",
+    "req": "قد يتعارض مع Overhaul قتالي آخر.",
+    "install": [
+      "حمّل المود.",
+      "اختر Combat Profile واحدًا.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبره منفردًا قبل دمجه مع تعديلات القتال."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2294"
+  },
+  {
+    "id": "kcd-gathering-enhanced",
+    "g": "kcd",
+    "n": "Gathering Enhanced",
+    "cat": "🌿 QoL",
+    "desc": "يزيد كمية وخبرة ونطاق جمع الأعشاب بخيارات متعددة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "اختر Multipliers معتدلة للحفاظ على التوازن.",
+    "install": [
+      "حمّل الملف المناسب.",
+      "ثبّت المود داخل Mods.",
+      "اختبر جمع الأعشاب ونقاط الخبرة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1734"
+  },
+  {
+    "id": "kcd-enhanced-eyes",
+    "g": "kcd",
+    "n": "Enhanced Eyes",
+    "cat": "👤 رسومات",
+    "desc": "يحسن خامات العيون والرموش لكل الشخصيات بما فيها Henry.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل خيار Enhanced Eyes.",
+      "ضع مجلد المود داخل Mods.",
+      "اختبر وجوه الشخصيات في الإضاءة المختلفة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/969"
+  },
+  {
+    "id": "kcd-immersive-archery",
+    "g": "kcd",
+    "n": "Immersive Archery",
+    "cat": "🏹 Gameplay",
+    "desc": "يسرع سحب القوس وسرعة الأسهم لمظهر وإحساس أكثر واقعية.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "قد يتداخل مع تعديلات القوس الأخرى.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات داخل Mods.",
+      "اختبر القوس في التدريب أولًا."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1419"
+  },
+  {
+    "id": "kcd-optimized-cryengine",
+    "g": "kcd",
+    "n": "Optimized CryEngine Simple Tweaks",
+    "cat": "⚡ أداء",
+    "desc": "يضبط Memory Budgets وTexture Streaming لتقليل Stutter وTexture Pop-in.",
+    "compat": "Kingdom Come: Deliverance PC.",
+    "req": "عدّل القيم حسب RAM وVRAM جهازك.",
+    "install": [
+      "حمّل user.cfg من Nexus.",
+      "اضبط قيم الذاكرة حسب جهازك.",
+      "ضع الملف في المسار المذكور في الصفحة.",
+      "اختبر الأداء داخل المدن."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2180"
+  },
+  {
+    "id": "kcd-weightless-items",
+    "g": "kcd",
+    "n": "Weightless Items - PTF",
+    "cat": "🎒 QoL",
+    "desc": "يجعل فئات مختارة من العناصر عديمة الوزن مع خيارات منفصلة أو شاملة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "KCD Mod Manager مقترح فقط.",
+    "install": [
+      "حمّل الفئات التي تريدها.",
+      "ثبّت الملفات داخل Mods.",
+      "تحقق من الوزن داخل الجرد."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2169"
+  },
+  {
+    "id": "kcd-free-combat-target",
+    "g": "kcd",
+    "n": "ENHANCED Easy FREE Combat Target Overhaul v3.0",
+    "cat": "⚔️ قتال",
+    "desc": "يعيد تصميم استهداف القتال والكاميرا لتكون المواجهات أكثر حرية واستجابة.",
+    "compat": "Kingdom Come: Deliverance.",
+    "req": "يُستخدم كبديل لمودات Targeting المتعارضة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "عطّل أي Targeting Overhaul آخر أثناء الاختبار."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/2194"
+  },
+  {
+    "id": "kcd-ultimate-performance",
+    "g": "kcd",
+    "n": "Ultimate Performance Graphics",
+    "cat": "⚡ أداء",
+    "desc": "مجموعة إعدادات أداء ورسومات لتقليل Stutter وتحسين FPS على أجهزة مختلفة.",
+    "compat": "Kingdom Come: Deliverance 1.2+.",
+    "req": "اختر Config مناسب لمواصفات جهازك.",
+    "install": [
+      "حمّل الملف المطابق لجهازك.",
+      "ضع user.cfg حسب الصفحة.",
+      "أضف Launch Option المطلوب إن لزم.",
+      "اختبر الأداء داخل المدينة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/482"
+  },
+  {
+    "id": "re5-sheva-hd-final",
+    "g": "re5",
+    "n": "Sheva Alomar HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Sheva للحصول على تفاصيل أوضح في اللعب والمشاهد.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت ملفات Sheva حسب المسارات داخل الأرشيف.",
+      "اختبر أكثر من زي داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/302"
+  },
+  {
+    "id": "re5-jill-hd-final",
+    "g": "re5",
+    "n": "Jill Valentine HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن خامات Jill Valentine بدقة أعلى.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت الملفات حسب بنية الأرشيف.",
+      "اختبر Jill في الأطوار المتاحة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/318"
+  },
+  {
+    "id": "re5-chris-hd-final",
+    "g": "re5",
+    "n": "Chris Redfield HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع جودة خامات Chris Redfield لمظهر أوضح.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "VRAM مناسبة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت ملفات Chris حسب المسارات.",
+      "اختبر أزياء Chris المختلفة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/303"
+  },
+  {
+    "id": "re5-irving-hd",
+    "g": "re5",
+    "n": "Ricardo Irving HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يحسن خامات Ricardo Irving بدقة أعلى.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الخامات.",
+      "اختبر المشاهد التي يظهر فيها Irving."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/307"
+  },
+  {
+    "id": "re5-wesker-hd",
+    "g": "re5",
+    "n": "Albert Wesker HD Textures",
+    "cat": "🖼️ خامات",
+    "desc": "يرفع دقة خامات Albert Wesker.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت الخامات حسب الصفحة.",
+      "اختبر Wesker في المشاهد والقتال."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/310"
+  },
+  {
+    "id": "re5-ps-buttons",
+    "g": "re5",
+    "n": "PlayStation Button Prompts Mod",
+    "cat": "🎮 واجهة",
+    "desc": "يستبدل أيقونات Xbox 360 بأيقونات DualShock 4 وDualSense لجميع اللغات.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الواجهة حسب الصفحة.",
+      "شغّل اللعبة وتحقق من أيقونات الأزرار."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/323"
+  },
+  {
+    "id": "re5-natural-colors",
+    "g": "re5",
+    "n": "Natural Colors Resident Evil 5",
+    "cat": "🎨 رسومات",
+    "desc": "يزيل الفلتر اللوني ويضيف Preset بصري بألوان أكثر طبيعية.",
+    "compat": "Resident Evil 5 Gold Edition - Last Patch Compatible.",
+    "req": "ReShade بحسب خيار التثبيت.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر الألوان في مناطق داخلية وخارجية."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/431"
+  },
+  {
+    "id": "re5-2b",
+    "g": "re5",
+    "n": "2B From NieR Automata",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل زي Sheva Clubbin' بشخصية 2B من NieR Automata.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Mod Manager مناسب للتثبيت.",
+    "install": [
+      "حمّل المود.",
+      "ثبّته عبر مدير المودات أو يدويًا حسب الصفحة.",
+      "اختر زي Clubbin' لـSheva لاختبار الاستبدال."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/130"
+  },
+  {
+    "id": "re5-hunk",
+    "g": "re5",
+    "n": "HUNK",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل Warrior Chris بشخصية HUNK.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "Fluffy Manager متوافق.",
+    "install": [
+      "حمّل نسخة Fluffy Manager من Nexus.",
+      "فعّل المود عبر المدير.",
+      "اختر Warrior Chris لاختبار الشخصية.",
+      "خذ نسخة احتياطية لأن بعض المشاهد قد لا تكون مثالية."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/3"
+  },
+  {
+    "id": "acu-unity-gameplay-tweaks",
+    "g": "acu",
+    "n": "Unity Gameplay Tweaks",
+    "cat": "🎮 Gameplay",
+    "desc": "يحسن Loot Time ويزيل حد Eagle Vision ويقلل Crowd Events في العوالم.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "ACUFixes + Asset Overrides.",
+    "install": [
+      "ثبّت ACUFixes أولًا.",
+      "حمّل المود من Nexus.",
+      "فعّل الملفات عبر Asset Overrides.",
+      "اختبر Loot وEagle Vision."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/497"
+  },
+  {
+    "id": "acu-master-assassin-skins",
+    "g": "acu",
+    "n": "Master Assassin Custom Skins",
+    "cat": "👕 مظهر",
+    "desc": "يضيف ستة ألوان مخصصة لزي Master Assassin ويمكن تبديلها بسهولة.",
+    "compat": "Assassin's Creed Unity 1.5.0.",
+    "req": "ACUFixes + Asset Overrides.",
+    "install": [
+      "ثبّت المتطلبات.",
+      "حمّل المود.",
+      "فعّل اللون المطلوب عبر Asset Overrides.",
+      "لا تفعّل أكثر من لون لنفس الزي."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/493"
+  },
+  {
+    "id": "acu-startup-skip",
+    "g": "acu",
+    "n": "Unity Startup Skip - Keep Loading Screens",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز شعارات Ubisoft/NVIDIA والتحذيرات مع الإبقاء على القوائم والمشاهد الأصلية.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "لا توجد DLL أو Scripts إضافية.",
+    "install": [
+      "عطّل أي No-Intro قديم أولًا.",
+      "ثبّت المود عبر Vortex أو يدويًا.",
+      "شغّل اللعبة وتأكد من بقاء Loading Screens الأصلية."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/498"
+  },
+  {
+    "id": "acu-outfit-manager",
+    "g": "acu",
+    "n": "Halzoid's Outfit Manager",
+    "cat": "👗 تخصيص",
+    "desc": "أداة لإنشاء Colorways مخصصة لأزياء Assassin's Creed Unity.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل Outfit Manager.",
+      "اتبع تعليمات الصفحة لإنشاء وتطبيق الألوان.",
+      "احتفظ بنسخة من ملفات Forge."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/126"
+  },
+  {
+    "id": "acu-120fps-cloth",
+    "g": "acu",
+    "n": "120 FPS Cloth Patch",
+    "cat": "👕 فيزياء",
+    "desc": "يحسن فيزياء الملابس عند اللعب على 120FPS.",
+    "compat": "Assassin's Creed Unity PC على 120FPS.",
+    "req": "AnvilToolkit أو Asset Overrides.",
+    "install": [
+      "استخدمه فقط إذا كان الإطار قريبًا من 120FPS.",
+      "اختر طريقة AnvilToolkit أو Asset Overrides.",
+      "ثبّت الملفات واختبر الملابس في الهواء والحركة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/436"
+  },
+  {
+    "id": "acu-rare-vault",
+    "g": "acu",
+    "n": "Rare And Unused Vault Animation",
+    "cat": "🏃 Parkour",
+    "desc": "يزيد استخدام Kong Vault وحركة Vault غير مستخدمة سابقًا.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود.",
+      "طبّق ملفات Animation حسب الصفحة.",
+      "اختبر Parkour فوق الحواجز."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/379"
+  },
+  {
+    "id": "acu-realistic-visuals",
+    "g": "acu",
+    "n": "AC Unity Realistic Visuals",
+    "cat": "🎨 رسومات",
+    "desc": "ReShade حديث يحسن الإضاءة والألوان والعمق والظلال مع تأثير أداء بسيط.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset والShaders.",
+      "ضع الملفات داخل مجلد اللعبة.",
+      "فعّل الـPreset داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/495"
+  },
+  {
+    "id": "acu-apex-reshade",
+    "g": "acu",
+    "n": "Apex ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset كلاسيكي يجعل الإضاءة أكثر وضوحًا والظلال أعمق بدون تشبع زائد.",
+    "compat": "Assassin's Creed Unity PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على ACU.exe.",
+      "ضع apex.ini داخل مجلد اللعبة.",
+      "فعّل Apex من واجهة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/3"
+  },
+  {
+    "id": "acu-gear-customization",
+    "g": "acu",
+    "n": "Gear Visual Customization",
+    "cat": "👕 تخصيص",
+    "desc": "Plugin Transmog لتغيير مظهر الأزياء والأسلحة وإخفاء السلاح والـHood وضبط Cloth Physics.",
+    "compat": "Assassin's Creed Unity 1.5.0.",
+    "req": "ACUFixes Plugin Loader 0.9.2+.",
+    "install": [
+      "ثبّت ACUFixes.",
+      "ضع مجلد ACUFixes من المود في جذر اللعبة.",
+      "خذ نسخة احتياطية من الحفظ قبل الاستخدام.",
+      "اضبط Transmog من واجهة Plugin Loader."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/365"
+  },
+  {
+    "id": "acu-asset-overrides",
+    "g": "acu",
+    "n": "Asset Overrides",
+    "cat": "🛠️ أداة",
+    "desc": "Plugin يتيح تحميل مودات AnvilToolkit وقت التشغيل بدون إعادة Pack لملفات Forge الكبيرة.",
+    "compat": "Assassin's Creed Unity؛ توجد نسخة خاصة 1.5.1 أيضًا.",
+    "req": "ACUFixes Plugin Loader.",
+    "install": [
+      "ثبّت ACUFixes.",
+      "ضع AssetOverrides.dll في plugins حسب الصفحة.",
+      "فعّل Enable Asset Overrides وEnable on startup.",
+      "حدّث Load Order وأعد تشغيل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedunity/mods/366"
+  },
+  {
+    "id": "dd2-reframework",
+    "g": "dd2",
+    "n": "REFramework",
+    "cat": "🛠️ أداة",
+    "desc": "إطار أساسي لتشغيل سكربتات ومودات كثيرة في Dragon's Dogma 2 مع FreeCam وFOV وأدوات إضافية.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "استخدم الإصدار المتوافق مع تحديث اللعبة الحالي.",
+    "install": [
+      "حمّل REFramework من Nexus.",
+      "ضع dinput8.dll بجانب ملف اللعبة التنفيذي.",
+      "شغّل اللعبة مرة لإنشاء مجلد reframework."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/8"
+  },
+  {
+    "id": "dd2-nickcore",
+    "g": "dd2",
+    "n": "_NickCore",
+    "cat": "🛠️ مكتبة",
+    "desc": "مكتبة وظائف أساسية مطلوبة لعدد من مودات DD2 الحديثة.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework أولًا.",
+      "حمّل _NickCore من Nexus.",
+      "انسخ الملفات إلى مجلد reframework حسب بنية الأرشيف."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1311"
+  },
+  {
+    "id": "dd2-scriptcore",
+    "g": "dd2",
+    "n": "_ScriptCore",
+    "cat": "🛠️ مكتبة",
+    "desc": "مجموعة وظائف مشتركة مثل إدارة Hotkeys تدعم عدة Script Mods.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل _ScriptCore.",
+      "انسخ الملفات إلى مجلد reframework حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/30"
+  },
+  {
+    "id": "dd2-fluffy",
+    "g": "dd2",
+    "n": "Fluffy Mod Manager",
+    "cat": "🛠️ مدير مودات",
+    "desc": "مدير لتثبيت وتعطيل وإزالة مودات PAK بسهولة.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل Fluffy Mod Manager.",
+      "استخرج البرنامج في مجلد مستقل.",
+      "اختر Dragon's Dogma 2 وحدد مسار اللعبة.",
+      "ضع المودات في مجلد Mods وفعّلها من المدير."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1"
+  },
+  {
+    "id": "dd2-xyzapi",
+    "g": "dd2",
+    "n": "_XYZAPI",
+    "cat": "🛠️ مكتبة",
+    "desc": "UI API تستخدمها مجموعة من مودات DD2.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل _XYZAPI.",
+      "انسخ الملفات إلى reframework حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/234"
+  },
+  {
+    "id": "dd2-diverse-creatures",
+    "g": "dd2",
+    "n": "Diverse Creature Appearance",
+    "cat": "🧟 بصري",
+    "desc": "يضيف اختلافات عشوائية خفيفة في ألوان وأحجام عدد من المخلوقات.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر عدة أنواع من المخلوقات."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1424"
+  },
+  {
+    "id": "dd2-guild-contracts",
+    "g": "dd2",
+    "n": "Guild Contracts - Monster Hunting Quest Framework",
+    "cat": "🏹 محتوى",
+    "desc": "يضيف إطار مهام صيد وحوش متجدد مع أكثر من 270 موقعًا وسيناريوهات دفاع ورتب ومكافآت.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "Bestiary/Apex/Durnehviir حسب صفحة المود.",
+    "install": [
+      "ثبّت المتطلبات المذكورة.",
+      "حمّل Guild Contracts.",
+      "ثبّت الملفات حسب الصفحة.",
+      "ابدأ بعقد واحد للتأكد من التوافق."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1341"
+  },
+  {
+    "id": "dd2-character-manager",
+    "g": "dd2",
+    "n": "CharacterManager",
+    "cat": "👤 شخصيات",
+    "desc": "يحفظ ويحمّل ملفات تصميم الشخصيات لتسهيل تبادل أشكال Arisen/Pawn.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات في Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة واختبر حفظ/تحميل Character Preset."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/584"
+  },
+  {
+    "id": "dd2-stamina-out-combat",
+    "g": "dd2",
+    "n": "Infinite Stamina Out of Combat",
+    "cat": "🏃 QoL",
+    "desc": "يلغي استهلاك Stamina خارج القتال أثناء الاستكشاف والجري.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الجري خارج القتال."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/93"
+  },
+  {
+    "id": "dd2-colorful-map",
+    "g": "dd2",
+    "n": "Better UI - Colorful Map Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يستبدل أيقونات الخريطة المتشابهة بأيقونات ملونة أوضح.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "افتح الخريطة وتأكد من ظهور الأيقونات الملونة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/76"
+  },
+  {
+    "id": "dd2-content-editor",
+    "g": "dd2",
+    "n": "Content Editor",
+    "cat": "🛠️ أداة",
+    "desc": "أداة عبر REFramework لإضافة وتعديل محتوى ديناميكي غير Replacer.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل Content Editor.",
+      "انسخ الملفات إلى reframework حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تحميل الأداة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1031"
+  },
+  {
+    "id": "dd2-riftspeak",
+    "g": "dd2",
+    "n": "RiftSpeak",
+    "cat": "🤖 Gameplay",
+    "desc": "يعطي الـMain Pawn محادثات وسلوكيات AI إضافية مثل الإرشاد والاستطلاع وجمع الغنائم والمساعدة في القتال.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية في Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر المحادثة وسلوك Pawn خارج القتال وداخله."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1383"
+  },
+  {
+    "id": "dd2-rumination-marker",
+    "g": "dd2",
+    "n": "Riddle of Rumination Marker",
+    "cat": "🗺️ QoL",
+    "desc": "يضع علامة على موقع أول Seeker's Token لتسهيل لغز Finder's Token.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "افتح الخريطة عند وصولك للغز وتحقق من العلامة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/161"
+  },
+  {
+    "id": "dd2-mesh-enabler",
+    "g": "dd2",
+    "n": "Mesh Mod Enabler",
+    "cat": "🛠️ أداة",
+    "desc": "يمكّن مودات Mesh لمعظم أجزاء الشخصيات ويعالج مشاكل GpuCloth التي قد تسبب انهيار أو تشوه النماذج.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "REFramework + Fluffy Mod Manager موصى به.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل Mesh Mod Enabler.",
+      "ثبّته عبر Fluffy Mod Manager أو انسخ مجلد reframework يدويًا.",
+      "فعّل LooseFilesLoader داخل REFramework."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/436"
+  },
+  {
+    "id": "dd2-equipment-stats",
+    "g": "dd2",
+    "n": "ESO - Equipment Stats Overhaul",
+    "cat": "⚔️ Gameplay",
+    "desc": "يعيد موازنة Smithing Styles وإحصائيات المعدات بدون تعديل دائم لبيانات اللعبة.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية في Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر عدة قطع معدات قبل اعتماد التعديل."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1254"
+  },
+  {
+    "id": "dd2-clipping-fix",
+    "g": "dd2",
+    "n": "Shield and Mantle Clipping Fix",
+    "cat": "🛡️ إصلاحات",
+    "desc": "يقلل مشاكل تداخل Mantles مع Shields.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر عدة Mantles مع Shield."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/985"
+  },
+  {
+    "id": "dd2-early-metamorphosis",
+    "g": "dd2",
+    "n": "Early n' Cheap Art of Metamorphosis",
+    "cat": "👤 QoL",
+    "desc": "يضيف Art of Metamorphosis مبكرًا لدى أول تاجر في Melve ولدى Philbert في Vernworth.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "زر التاجر في Melve أو Vernworth وتحقق من العنصر."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/41"
+  },
+  {
+    "id": "dd2-arisen-almanac",
+    "g": "dd2",
+    "n": "Arisen's Almanac",
+    "cat": "🗺️ واجهة",
+    "desc": "يضيف علامات للخريطة لعناصر مثل Seeker's Tokens وGolden Trove Beetles وأنواع مختلفة من الصناديق.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "افتح الخريطة وتحقق من العلامات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/194"
+  },
+  {
+    "id": "dd2-simple-difficulty",
+    "g": "dd2",
+    "n": "Simple Difficulty Tweaks",
+    "cat": "🔥 Gameplay",
+    "desc": "نسخة مبسطة لضبط الصعوبة مع خيارات إضافية ومحدثة لتحديثات 2026.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية في Nexus.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات.",
+      "اضبط الصعوبة تدريجيًا ثم اختبر القتال."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1018"
+  },
+  {
+    "id": "dd2-better-ui-aio",
+    "g": "dd2",
+    "n": "Better UI All-In-One",
+    "cat": "🖥️ واجهة",
+    "desc": "تجميعة لأفضل تعديلات Better UI مع خيارات قريبة من واجهة اللعبة الأصلية.",
+    "compat": "Dragon's Dogma 2 PC.",
+    "req": "راجع المتطلبات الحالية.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وافحص الخريطة والقوائم والواجهة."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/776"
+  },
+  {
+    "id": "hogwarts-bp-apparate",
+    "g": "hogwarts",
+    "n": "Blueprint Apparate Modloader",
+    "cat": "🛠️ أداة",
+    "desc": "Modloader للـBlueprint Mods يقلل تعارض Logic Mods ويتيح تحميل قائمة مودات مخصصة.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "إنشاء مجلد ~mods عند الحاجة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع ملفات PAK/UCAS/UTOC داخل Phoenix/Content/Paks/~mods.",
+      "شغّل اللعبة واستخدم قائمة Modloader حسب اختصار الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/56"
+  },
+  {
+    "id": "hogwarts-mod-merger",
+    "g": "hogwarts",
+    "n": "Hogwarts Mod Merger",
+    "cat": "🛠️ أداة",
+    "desc": "يدمج تعديلات تستخدم قواعد PhoenixShipData وملفات Localisation لتقليل التعارضات.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "استخدم الإصدار الحالي من الأداة.",
+    "install": [
+      "حمّل الأداة.",
+      "استخرجها في مجلد مستقل.",
+      "أضف المودات المراد دمجها واتبع تعليمات الصفحة.",
+      "احتفظ بنسخ أصلية قبل الدمج."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/178"
+  },
+  {
+    "id": "hogwarts-character-editor",
+    "g": "hogwarts",
+    "n": "Character Editor",
+    "cat": "👤 تخصيص",
+    "desc": "يتيح تعديل Presets الشخصية والعصا أثناء اللعب.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع تحديث التوافق الحالي.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وافتح واجهة Character Editor.",
+      "خذ نسخة من الحفظ قبل تغييرات كبيرة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/974"
+  },
+  {
+    "id": "hogwarts-ultra-plus",
+    "g": "hogwarts",
+    "n": "Ultra Plus Best Performance and Visuals",
+    "cat": "⚡ رسومات",
+    "desc": "حزمة إصلاحات وأداء ورسوم مصممة لأجهزة متعددة مع تحسين Stutter وجودة الصورة.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اختر Preset مناسب لجهازك.",
+    "install": [
+      "حمّل الإصدار المناسب.",
+      "خذ نسخة من إعداداتك.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر FPS والثبات في Hogwarts وHogsmeade."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/660"
+  },
+  {
+    "id": "hogwarts-brighter-eyes",
+    "g": "hogwarts",
+    "n": "Brighter Eyes",
+    "cat": "👤 مظهر",
+    "desc": "يضيف خيارات ألوان عيون أوضح وأكثر حيوية.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "لا تستخدم أكثر من خيار متعارض.",
+    "install": [
+      "حمّل اللون المطلوب.",
+      "ضع ملفات المود في المسار المذكور.",
+      "شغّل اللعبة وتحقق من مظهر العينين."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1058"
+  },
+  {
+    "id": "hogwarts-npc-schedule",
+    "g": "hogwarts",
+    "n": "NPC Schedule Enhanced (Better AI)",
+    "cat": "🤖 Gameplay",
+    "desc": "يعيد تصميم جداول NPCs؛ الطلاب والأساتذة يذهبون للفصول والوجبات والغرف المشتركة وتغلق المتاجر ليلًا.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع التعارضات مع مودات NPC.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر يومًا وليلة داخل Hogwarts وHogsmeade."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/907"
+  },
+  {
+    "id": "hogwarts-autohomora",
+    "g": "hogwarts",
+    "n": "AUTOHOMORA",
+    "cat": "🔐 QoL",
+    "desc": "يتجاوز Minigame Alohomora تلقائيًا على جميع الصعوبات.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع متطلبات الإصدار الحالي.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر فتح قفل Alohomora واحد."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/297"
+  },
+  {
+    "id": "hogwarts-pretty-face",
+    "g": "hogwarts",
+    "n": "Pretty Face (Custom Face)",
+    "cat": "👤 مظهر",
+    "desc": "يستبدل أحد نماذج الوجه الأنثوية بنموذج مخصص.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "يعدل Face Preset محدد.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات الوجه حسب الصفحة.",
+      "اختر الـPreset المطابق داخل إنشاء الشخصية."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/648"
+  },
+  {
+    "id": "hogwarts-spells-enhanced",
+    "g": "hogwarts",
+    "n": "Spells Enhanced - With Voice Lines",
+    "cat": "✨ تعاويذ",
+    "desc": "يضيف 9 تعاويذ جديدة بينها Reducto وExpulso مع Voice Lines.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع متطلبات Logic Mods.",
+    "install": [
+      "ثبّت المتطلبات المذكورة.",
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر التعويذات الجديدة داخل القتال."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1325"
+  },
+  {
+    "id": "hogwarts-school-makeup",
+    "g": "hogwarts",
+    "n": "School Makeup",
+    "cat": "👤 مظهر",
+    "desc": "يحسن خامات البشرة والمكياج للشخصية مع ملفات للذكور والإناث.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اختر ملفًا واحدًا مناسبًا.",
+    "install": [
+      "حمّل الخيار المناسب.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة واختبر الوجه في عدة إضاءات."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/162"
+  },
+  {
+    "id": "hogwarts-ue4ss",
+    "g": "hogwarts",
+    "n": "RE-UE4SS for Hogwarts Legacy",
+    "cat": "🛠️ أداة",
+    "desc": "نظام Lua وBlueprint Modloader وDebugger يدعم عددًا كبيرًا من مودات Hogwarts Legacy.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "استخدم الإصدار المطابق للعبة.",
+    "install": [
+      "حمّل UE4SS من Nexus.",
+      "استخرج الملفات للمسار المحدد بجانب ملفات اللعبة.",
+      "شغّل اللعبة مرة للتأكد من التحميل."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/942"
+  },
+  {
+    "id": "hogwarts-achievements",
+    "g": "hogwarts",
+    "n": "Achievements Enabler",
+    "cat": "🏆 QoL",
+    "desc": "يبقي Achievements مفعلة عند استخدام المودات.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع متطلبات الإصدار الحالي.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تحميله قبل متابعة حفظك."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/2402"
+  },
+  {
+    "id": "hogwarts-lsf-redux",
+    "g": "hogwarts",
+    "n": "LSF - Redux",
+    "cat": "⚡ أداء",
+    "desc": "حزمة أداء تقلل Stutter وتحسن Loading وCPU/GPU Utilization وStreaming بدون خفض جودة الصورة بشكل كبير.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اقرأ README للإعدادات.",
+    "install": [
+      "حمّل أحدث إصدار.",
+      "اقرأ README المرفق.",
+      "طبّق الإعدادات حسب الصفحة.",
+      "اختبر الأداء في مناطق كثيفة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/120"
+  },
+  {
+    "id": "hogwarts-stand-straight",
+    "g": "hogwarts",
+    "n": "Stand Up Straight",
+    "cat": "👤 Animation",
+    "desc": "يقلل وضعية الانحناء المبالغ فيها ويجعل الشخصية تقف باستقامة أكثر.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الوقوف والمشي في عدة أماكن."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1756"
+  },
+  {
+    "id": "hogwarts-broom-mouse",
+    "g": "hogwarts",
+    "n": "Mouse Controls for Broom",
+    "cat": "🧹 تحكم",
+    "desc": "يضيف تحكمًا كاملًا بالمكنسة عبر الماوس بما في ذلك الصعود والنزول.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الطيران والصعود والنزول بالماوس."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/61"
+  },
+  {
+    "id": "hogwarts-alohomora-unlocks",
+    "g": "hogwarts",
+    "n": "Alohomora Mod",
+    "cat": "🎁 QoL",
+    "desc": "يفتح من بداية الرحلة مجموعة كبيرة من التعاويذ والترقيات وعناصر Conjuration وFloo Travel.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "يفضل حفظ منفصل إذا أردت تجربة التقدم الطبيعي.",
+    "install": [
+      "خذ نسخة احتياطية من الحفظ.",
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبره على حفظ منفصل أولًا."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/84"
+  },
+  {
+    "id": "hogwarts-emma-face",
+    "g": "hogwarts",
+    "n": "Emma - Edited Female Face 15",
+    "cat": "👤 مظهر",
+    "desc": "يستبدل Female Face #15 بنسخة معدلة مع Eyelashes اختيارية.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "Face Preset 15.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملف الأساسي وخيار Eyelashes إذا رغبت.",
+      "اختر Face 15 داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1359"
+  },
+  {
+    "id": "hogwarts-emotes",
+    "g": "hogwarts",
+    "n": "Emote with any NPC - Social Actions Restored",
+    "cat": "🤝 Gameplay",
+    "desc": "يعيد Social Actions مثل الجلوس والأكل والتحية والرقص والتفاعل مع NPCs وإمكانية Companion.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر Emote مع NPC قريب."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1442"
+  },
+  {
+    "id": "hogwarts-anytime-companion",
+    "g": "hogwarts",
+    "n": "AnyTimeCompanion",
+    "cat": "🤝 Gameplay",
+    "desc": "يتيح استدعاء بعض زملاء المدرسة كـCompanions من قائمة داخل اللعبة.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "راجع متطلبات Logic Mods.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت المتطلبات.",
+      "ثبّت الملفات.",
+      "افتح القائمة واستدعِ Companion واحدًا للاختبار."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/841"
+  },
+  {
+    "id": "hogwarts-vendor-stock",
+    "g": "hogwarts",
+    "n": "Bigger Vendor Stock",
+    "cat": "🛒 QoL",
+    "desc": "يزيد عدد قطع الملابس والموارد التي يمكن أن تظهر لدى التجار.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "زر عدة تجار بعد Refresh للمخزون."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/356"
+  },
+  {
+    "id": "hogwarts-soft-blush",
+    "g": "hogwarts",
+    "n": "Soft Blush - Skin Replacement",
+    "cat": "👤 مظهر",
+    "desc": "حزمة Skin Replacement لعدة Presets مع خيارات Makeup مختلفة.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اختر خيار Skin واحدًا.",
+    "install": [
+      "حمّل الخيار المطلوب.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الوجه في الإضاءة الطبيعية."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/953"
+  },
+  {
+    "id": "hogwarts-dragonogryff",
+    "g": "hogwarts",
+    "n": "DragonOgryff",
+    "cat": "🐉 Creatures",
+    "desc": "يحوّل Hippogryphs إلى تنانين كمظهر بديل.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات Creature Replacement.",
+      "استدعِ Hippogryph واختبر المظهر."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/449"
+  },
+  {
+    "id": "hogwarts-winged-eyeliner",
+    "g": "hogwarts",
+    "n": "My Makeup Collection - Winged Eyeliner",
+    "cat": "👤 مظهر",
+    "desc": "يضيف Skin ناعمة وWinged Eyeliner حادة لعدة Presets.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "اختر ملفًا واحدًا مناسبًا.",
+    "install": [
+      "حمّل خيار Makeup المطلوب.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر الشخصية داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/1358"
+  },
+  {
+    "id": "hogwarts-eluvia-face",
+    "g": "hogwarts",
+    "n": "Eluvia - Edited Female Face 14",
+    "cat": "👤 مظهر",
+    "desc": "يستبدل Female Face #14 بنسخة معدلة من النموذج الأصلي.",
+    "compat": "Hogwarts Legacy PC.",
+    "req": "Face Preset 14.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات.",
+      "اختر Face 14 داخل اللعبة وتحقق من المظهر."
+    ],
+    "url": "https://www.nexusmods.com/hogwartslegacy/mods/858"
+  },
+  {
+    "id": "arkham-batmobile-2022",
+    "g": "arkham",
+    "n": "The Batman Batmobile 2022",
+    "cat": "🚗 Batmobile",
+    "desc": "يضيف Batmobile فيلم The Batman 2022 كخانة مستقلة مع Battle Mode ومدفع وبرج مخصصين.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع مجلد TWENTYTWO داخل DLC/418930.",
+      "شغّل اللعبة واختر المركبة من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/1651"
+  },
+  {
+    "id": "arkham-telltale-batmobile",
+    "g": "arkham",
+    "n": "The TellTale Batmobile",
+    "cat": "🚗 Batmobile",
+    "desc": "يضيف Batmobile من ألعاب Telltale مع Battle Mode.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت مجلد DLC حسب الصفحة.",
+      "اختر Batmobile الجديدة من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/2572"
+  },
+  {
+    "id": "arkham-batpod",
+    "g": "arkham",
+    "n": "The Batpod",
+    "cat": "🏍️ مركبات",
+    "desc": "يضيف Batpod من أفلام The Dark Knight كخانة مستقلة مع Battle Mode.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت مجلد DLC في المسار المحدد.",
+      "اختر Batpod من Showcase واختبرها."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/2223"
+  },
+  {
+    "id": "arkham-evolved-batman",
+    "g": "arkham",
+    "n": "Arkham Evolved Batman",
+    "cat": "🦇 سكن",
+    "desc": "يضيف سكن Batman مستوحى من Suicide Squad: Kill the Justice League.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت مجلد السكن حسب الصفحة.",
+      "اختر السكن من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/1078"
+  },
+  {
+    "id": "arkham-redhood-zero-year",
+    "g": "arkham",
+    "n": "Red Hood - Zero Year",
+    "cat": "🦇 سكن",
+    "desc": "يضيف سكن Red Hood مستوحى من Zero Year كخانة جديدة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختر السكن من قائمة الشخصية."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/1159"
+  },
+  {
+    "id": "arkham-worst-nightmare",
+    "g": "arkham",
+    "n": "Worst Nightmare Batman",
+    "cat": "🦇 سكن",
+    "desc": "يضيف سكن Worst Nightmare من Arkham Origins كخانة جديدة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت مجلد DLC حسب الصفحة.",
+      "اختر Worst Nightmare من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/908"
+  },
+  {
+    "id": "arkham-absolute-batman",
+    "g": "arkham",
+    "n": "Hanni's ABSOLUTE BATMAN",
+    "cat": "🦇 سكن",
+    "desc": "يضيف ABSOLUTE BATMAN كخانة سكن جديدة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات السكن حسب الصفحة.",
+      "اختره من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/2821"
+  },
+  {
+    "id": "arkham-hellbat",
+    "g": "arkham",
+    "n": "Hellbat",
+    "cat": "🦇 سكن",
+    "desc": "يضيف سكن Hellbat كخانة مستقلة لباتمان.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ضع ملفات DLC في المسار المحدد.",
+      "اختر Hellbat من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/1535"
+  },
+  {
+    "id": "arkham-batman-2022",
+    "g": "arkham",
+    "n": "The Batman 2022 - New Suit Slot",
+    "cat": "🦇 سكن",
+    "desc": "يضيف نسخة محسنة من سكن The Batman 2022 كخانة مستقلة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت ملفات السكن.",
+      "اختر The Batman 2022 من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/787"
+  },
+  {
+    "id": "arkham-harley-pack",
+    "g": "arkham",
+    "n": "Harley Quinn Arkham Skin Pack",
+    "cat": "🃏 سكنات",
+    "desc": "يضيف مجموعة من سكنات Harley Quinn من ألعاب Arkham كخانات منفصلة.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الحزمة.",
+      "ثبّت مجلد DLC حسب الصفحة.",
+      "اختر السكن المطلوب من Showcase."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/960"
+  },
+  {
+    "id": "arkham-weather-replacer",
+    "g": "arkham",
+    "n": "Skybox and Weathers Replacer",
+    "cat": "🌧️ رسومات",
+    "desc": "يبدل Skybox والطقس ويوفر خيارات مثل المطر أو الثلج ومظاهر مختلفة لغوثام.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "ثبّت داخل DLC وليس BmGame.",
+    "install": [
+      "حمّل الخيار المطلوب.",
+      "ضع الملفات داخل DLC/418930/Content حسب الصفحة.",
+      "لا تضعها في BmGame.",
+      "شغّل اللعبة واختبر الطقس."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/267"
+  },
+  {
+    "id": "arkham-asylum-replacer",
+    "g": "arkham",
+    "n": "Arkham Asylum Skin Replacer",
+    "cat": "🛠️ QoL",
+    "desc": "يتيح استخدام السكن الذي تختاره في خاتمة Arkham Asylum بدل السكن المفروض.",
+    "compat": "Batman: Arkham Knight PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختر السكن المراد استخدامه قبل الخاتمة."
+    ],
+    "url": "https://www.nexusmods.com/batmanarkhamknight/mods/1897"
+  },
+  {
+    "id": "mafia1-fov-fix",
+    "g": "mafia1",
+    "n": "FOV Fix",
+    "cat": "🎥 كاميرا",
+    "desc": "يوسع مجال الرؤية لتحسين تجربة اللعب على الشاشات الحديثة.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "اختبر القيادة والمشي.",
+      "اضبط القيمة إذا ظهر تشوه على الأطراف."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/45"
+  },
+  {
+    "id": "mafia1-better-rain",
+    "g": "mafia1",
+    "n": "Better Rain",
+    "cat": "🎨 رسومات",
+    "desc": "يحسن مظهر المطر والمؤثرات المرتبطة به.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف.",
+      "ثبّت الخامات حسب الصفحة.",
+      "اختبر مشهدًا ممطرًا داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/64"
+  },
+  {
+    "id": "mafia1-no-film-grain",
+    "g": "mafia1",
+    "n": "No Film Grain",
+    "cat": "🎨 بصري",
+    "desc": "يزيل Film Grain للحصول على صورة أنظف.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود.",
+      "ثبّت الملف حسب التعليمات.",
+      "شغّل اللعبة وقارن الصورة قبل وبعد."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/14"
+  },
+  {
+    "id": "mafia2de-no-film-grain",
+    "g": "mafia2",
+    "n": "No Film Grain",
+    "cat": "🎨 بصري",
+    "desc": "يزيل Film Grain للحصول على صورة أنظف في Mafia II DE.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب الصفحة.",
+      "قارن الصورة قبل وبعد."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/41"
+  },
+  {
+    "id": "mafia2de-hd-hud",
+    "g": "mafia2",
+    "n": "HD HUD",
+    "cat": "🖥️ واجهة",
+    "desc": "يحسن دقة عناصر HUD لتناسب الشاشات الحديثة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت الملفات حسب البنية.",
+      "شغّل اللعبة وتحقق من عناصر الواجهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/52"
+  },
+  {
+    "id": "mafia3-no-blur",
+    "g": "mafia3",
+    "n": "No Blur",
+    "cat": "🎨 بصري",
+    "desc": "يقلل أو يزيل تأثيرات Blur لزيادة وضوح الصورة.",
+    "compat": "Mafia III: Definitive Edition.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "ثبّت حسب التعليمات.",
+      "اختبر القيادة والمشاهد السريعة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/33"
+  },
+  {
+    "id": "re5-pinnacle-dlss5",
+    "g": "re5",
+    "n": "Pinnacle of View DLSS5 - No Color Filter - Hud Toggler",
+    "cat": "⚡ رسومات",
+    "desc": "يجمع DLSS 5 مع إزالة الفلتر اللوني وReShade وخيار تبديل HUD لتحسين الصورة والأداء.",
+    "compat": "Resident Evil 5 Gold Edition. محدث في سبتمبر 2026.",
+    "req": "بطاقة NVIDIA داعمة للتقنيات المطلوبة واتباع متطلبات الصفحة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "اتبع المتطلبات والإصدارات المذكورة في الصفحة.",
+      "خذ نسخة احتياطية قبل استبدال أي ملفات.",
+      "اختبر الأداء وجودة الصورة بعد التثبيت."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/754"
+  },
+  {
+    "id": "re5-truefp-vr",
+    "g": "re5",
+    "n": "TrueFP and VR",
+    "cat": "🥽 Gameplay",
+    "desc": "يضيف منظور أول حقيقي ويدعم Flatscreen وVR بشكل ستيريو.",
+    "compat": "Resident Evil 5 Gold Edition. محدث في سبتمبر 2026.",
+    "req": "راجع متطلبات الصفحة الحالية.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختبر المنظور الأول أولًا على Flatscreen.",
+      "فعّل VR فقط بعد التأكد من الاستقرار."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/757"
+  },
+  {
+    "id": "re6-pinnacle-dlss5",
+    "g": "re6",
+    "n": "Pinnacle of View DLSS5 - No Color Filter",
+    "cat": "⚡ رسومات",
+    "desc": "يضيف DLSS 5 وReShade ويزيل الفلتر اللوني لتحسين الصورة والأداء.",
+    "compat": "Resident Evil 6 PC. محدث في سبتمبر 2026.",
+    "req": "بطاقة NVIDIA داعمة ومتطلبات الصفحة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت المتطلبات المذكورة.",
+      "خذ نسخة احتياطية قبل استبدال الملفات.",
+      "اختبر الأداء والجودة بعد التثبيت."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/650"
+  },
+  {
+    "id": "re6-title-screen",
+    "g": "re6",
+    "n": "Title Screen",
+    "cat": "🖥️ واجهة",
+    "desc": "يستبدل شاشة العنوان بصورة RE6 مخصصة.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من تغير شاشة العنوان."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/616"
+  },
+  {
+    "id": "kcd-better-archery",
+    "g": "kcd",
+    "n": "Better Archery",
+    "cat": "🏹 Gameplay",
+    "desc": "يحسن سرعة الأسهم وضررها وشد القوس بشكل متوازن.",
+    "compat": "Kingdom Come: Deliverance PC.",
+    "req": "PTF.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب تعليمات الصفحة.",
+      "اختبر الرماية في ساحة تدريب."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1837"
+  },
+  {
+    "id": "kcd-toggle-aim-overhaul",
+    "g": "kcd",
+    "n": "ENHANCED Toggle Aim Overhaul v2.0",
+    "cat": "🎯 Gameplay",
+    "desc": "يحسن التصويب بالأسلحة بعيدة المدى ويضيف خيارات Aim أكثر مرونة.",
+    "compat": "Kingdom Come: Deliverance PC.",
+    "req": "راجع متطلبات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختبر القوس والأسلحة بعيدة المدى."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance/mods/1941"
+  },
+  {
+    "id": "kcd2-enhanced-weather",
+    "g": "kcd2",
+    "n": "ENHANCED Realistic Visual and Weather HD Overhaul v3.0",
+    "cat": "🎨 رسومات",
+    "desc": "Overhaul بصري كبير يضيف طقسًا ديناميكيًا وإضاءة ونباتات وParticles محسنة.",
+    "compat": "Kingdom Come: Deliverance II PC.",
+    "req": "راجع متطلبات الإصدار الحالي.",
+    "install": [
+      "حمّل أحدث إصدار من Nexus.",
+      "خذ نسخة احتياطية من ملفات الإعدادات.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر الطقس والإضاءة في أوقات مختلفة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/1558"
+  },
+  {
+    "id": "kcd2-barber-options",
+    "g": "kcd2",
+    "n": "More Barber Options - Hair and Beards",
+    "cat": "👤 شخصيات",
+    "desc": "يضيف تسريحات شعر ولحى إضافية إلى الحلاق.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "PTF.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "افتح الحلاق داخل اللعبة وتحقق من الخيارات الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/247"
+  },
+  {
+    "id": "dd2-better-ui-map-icons",
+    "g": "dd2",
+    "n": "Better UI - Colorful Map Icons",
+    "cat": "🗺️ واجهة",
+    "desc": "يستبدل أيقونات الخريطة الباهتة بأيقونات ملونة أوضح مع Addon اختياري للـMinimap.",
+    "compat": "Dragon's Dogma 2؛ متوافق مع تحديث سبتمبر 2026.",
+    "req": "DD2 Pak Bridge + Fluffy Mod Manager.",
+    "install": [
+      "ثبّت DD2 Pak Bridge وFluffy Mod Manager.",
+      "حمّل Better_Map_Icons.pak من Nexus.",
+      "اسحب الملف إلى Fluffy Mod Manager وفعّله.",
+      "اختياريًا ثبّت Minimap Addon بالطريقة نفسها."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/76"
+  },
+  {
+    "id": "dd2-crowd-density-overhaul",
+    "g": "dd2",
+    "n": "Crowd Density Overhaul - NPC Rendering Fix",
+    "cat": "⚡ أداء",
+    "desc": "يحسن مدى رسم NPCs في المدن مع تقليل كثافة الشخصيات غير المهمة للحفاظ على الأداء.",
+    "compat": "Dragon's Dogma 2 TU3.2.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework.",
+      "ضع ملف Lua داخل reframework/autorun.",
+      "ثبّت نسخة واحدة فقط.",
+      "لا تستخدمه مع مود آخر يغيّر NPC Limit."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1375"
+  },
+  {
+    "id": "dd2-dynamic-menu-overhaul",
+    "g": "dd2",
+    "n": "Dynamic Menu Overhaul",
+    "cat": "🖥️ واجهة",
+    "desc": "يعيد تصميم قوائم الإيقاف مع تخصيص مواضع العناصر وحجمها وشفافية كاملة وخيار استمرار اللعب أثناء فتح القوائم.",
+    "compat": "Dragon's Dogma 2.",
+    "req": "راجع متطلبات الصفحة الحالية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت المتطلبات المذكورة.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر القوائم والحركة قبل الجمع مع UI Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/dragonsdogma2/mods/1641"
+  },
+  {
+    "id": "mafia1-easy-race",
+    "g": "mafia1",
+    "n": "Easy race",
+    "cat": "🏁 Gameplay",
+    "desc": "يجعل سباق المهمة أسهل بغض النظر عن مستوى الصعوبة.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب صفحة المود.",
+      "ابدأ مهمة السباق واختبر التعديل."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/151"
+  },
+  {
+    "id": "mafia1-gameplay-overhaul",
+    "g": "mafia1",
+    "n": "Gameplay Overhaul",
+    "cat": "🔥 Gameplay",
+    "desc": "يعدل عددًا من ميكانيكيات اللعب لجعل التجربة أكثر واقعية وانغماسًا.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "راجع متطلبات صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختبر القتال والقيادة قبل إضافة Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/95"
+  },
+  {
+    "id": "mafia1-scripthook-revamped",
+    "g": "mafia1",
+    "n": "Scripthook Revamped",
+    "cat": "🛠️ أداة",
+    "desc": "يوسع مزايا Nomad Group Scripthook ويضيف وظائف إضافية لمودات Mafia DE.",
+    "compat": "Mafia: Definitive Edition.",
+    "req": "Nomad Group Scripthook.",
+    "install": [
+      "ثبّت Scripthook الأساسي أولًا.",
+      "حمّل Revamped من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وتأكد من عمل الإضافة قبل تركيب مودات تعتمد عليها."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/58"
+  },
+  {
+    "id": "mhw-weakness-icon",
+    "g": "mhw",
+    "n": "Monster Weakness Icon Indicator",
+    "cat": "UI",
+    "desc": "Shows monster elemental weakness on its icon.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "None.",
+    "install": [
+      "Copy nativePC to the game folder."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/1938"
+  },
+  {
+    "id": "mhw-light-pillar",
+    "g": "mhw",
+    "n": "Souvenir's Light Pillar",
+    "cat": "Visual",
+    "desc": "Makes dropped souvenirs easier to see.",
+    "compat": "Monster Hunter World.",
+    "req": "None.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/112"
+  },
+  {
+    "id": "mhw-skippable-cutscenes",
+    "g": "mhw",
+    "n": "Skippable Cutscenes",
+    "cat": "QoL",
+    "desc": "Allows cutscenes to be skipped.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "See source page.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/5540"
+  },
+  {
+    "id": "mhw-dropped-items-efx",
+    "g": "mhw",
+    "n": "Dropped Items efx",
+    "cat": "Visual",
+    "desc": "Adds clearer visual markers above dropped items.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "None.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/2325"
+  },
+  {
+    "id": "mhw-guiding-lands-indicator",
+    "g": "mhw",
+    "n": "Guiding Lands Gathering Indicator",
+    "cat": "UI",
+    "desc": "Shows Guiding Lands gathering spots on the map.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "None.",
+    "install": [
+      "Copy nativePC to the game folder."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/1986"
+  },
+  {
+    "id": "mhw-smarthunter",
+    "g": "mhw",
+    "n": "SmartHunter - Overlay",
+    "cat": "UI",
+    "desc": "Displays monster status, parts, buffs and other hunt information.",
+    "compat": "Monster Hunter World.",
+    "req": "See source page.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/793"
+  },
+  {
+    "id": "mhw-hunterpie",
+    "g": "mhw",
+    "n": "HunterPie - Overlay and Rich Presence",
+    "cat": "UI",
+    "desc": "Overlay with useful hunt information and rich presence.",
+    "compat": "Monster Hunter World.",
+    "req": "See source page.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/2645"
+  },
+  {
+    "id": "mhw-mod-manager",
+    "g": "mhw",
+    "n": "MHW Mod Manager",
+    "cat": "Tool",
+    "desc": "Mod management utility for installed mod files.",
+    "compat": "Monster Hunter World.",
+    "req": "None.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/372"
+  },
+  {
+    "id": "mhw-cuter-handler",
+    "g": "mhw",
+    "n": "Cuter Handler Face Model",
+    "cat": "Visual",
+    "desc": "Alternative Handler face and hair model with costume support.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "None.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/1914"
+  },
+  {
+    "id": "mhw-invisible-mantles",
+    "g": "mhw",
+    "n": "Invisible Mantles",
+    "cat": "Visual",
+    "desc": "Keeps armor visuals visible while mantle effects remain active.",
+    "compat": "Monster Hunter World Iceborne.",
+    "req": "See source page.",
+    "install": [
+      "Follow the Nexus page."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/4191"
+  }
+]
