@@ -5501,5 +5501,116 @@
       "جرّب وصفة معروفة للتأكد من عمل التغيير."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3669"
+  },
+  {
+    "id": "kcd2-keep-your-head",
+    "g": "kcd2",
+    "n": "Keep Your Head - Realistic Camera Angles",
+    "cat": "🎥 كاميرا",
+    "desc": "يبقي الكاميرا على رأس Henry أثناء الأعمال اليومية بدل سحبها للخلف.",
+    "compat": "Kingdom Come: Deliverance II 1.5.x.",
+    "req": "قد يتعارض مع حزم كاميرا/أنيميشن تعدّل نفس الملفات.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "فك مجلد keep_your_head داخل Mods.",
+      "أضفه إلى mod_order.txt إذا كان الملف مستخدمًا.",
+      "اختبر جمع الأعشاب والطبخ والجزارة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3664"
+  },
+  {
+    "id": "kcd2-visual-reshade",
+    "g": "kcd2",
+    "n": "Kcd2VisualReshade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade لتحسين المظهر النهائي والإضاءة والألوان.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "ReShade ومتطلبات الـPreset المذكورة في الصفحة.",
+    "install": [
+      "ثبّت ReShade.",
+      "حمّل الـPreset من Nexus.",
+      "ضع الملفات حسب تعليمات الصفحة.",
+      "فعّل الـPreset واختبر الأداء."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3668"
+  },
+  {
+    "id": "kcd2-autobrew-return",
+    "g": "kcd2",
+    "n": "Alchemy - auto brew return on KCD2",
+    "cat": "⚗️ QoL",
+    "desc": "يفتح AutoBrew للوصفات بعد إتقانها يدويًا ويصنعها بأعلى جودة سبق أن أتقنتها.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "قد يتعارض مع مودات تستبدل defaultProfile.xml أو defaultActionHelp.xml.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع ZIP في Vortex أو استخرجه داخل Mods/autobrew.",
+      "فعّل المود وأعد تشغيل اللعبة.",
+      "استخدم F9 عند طاولة الخيمياء بعد إتقان الوصفة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3681"
+  },
+  {
+    "id": "kcd2-brocade-hood",
+    "g": "kcd2",
+    "n": "Henry's Brocade Hood",
+    "cat": "👕 ملابس",
+    "desc": "يضيف نسخًا معدلة من Brocade Hood تخفي الشعر بشكل أفضل مع ألوان مختلفة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "ثبّت Variant واحد فقط.",
+    "install": [
+      "حمّل اللون/النسخة المطلوبة من Nexus.",
+      "ضع bodyguard_hood داخل مجلد Mods.",
+      "لا تثبّت أكثر من Variant في الوقت نفسه.",
+      "اشترِه من Trosky scribe أو استخدم الطريقة الموضحة في الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3675"
+  },
+  {
+    "id": "kcd2-fearless-warhorse",
+    "g": "kcd2",
+    "n": "Fearless Warhorse",
+    "cat": "🐎 Gameplay",
+    "desc": "يمنع الحصان من رمي اللاعب بسبب الخوف ويقلل الضرر الذي يتلقاه.",
+    "compat": "Kingdom Come: Deliverance II 1.5.x.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "شغّل اللعبة واختبر الحصان قرب مصادر الخوف."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3678"
+  },
+  {
+    "id": "kcd2-janek-jaroslav",
+    "g": "kcd2",
+    "n": "Janek and Jaroslav",
+    "cat": "🤝 رفاق",
+    "desc": "يضيف رفيقين يتبعان Henry ويقاتلان معه ويمكن إدارة معداتهم وسلوكهم.",
+    "compat": "Kingdom Come: Deliverance II build 1.5+ وجميع DLC بحسب الصفحة.",
+    "req": "راجع متطلبات الصفحة واختبره في حفظ احتياطي.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج مجلد المود داخل Mods.",
+      "شغّل اللعبة.",
+      "استخدم أوامر الاستدعاء المذكورة في الصفحة لاستدعاء Janek أو Jaroslav."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3677"
+  },
+  {
+    "id": "kcd2-no-low-vignette",
+    "g": "kcd2",
+    "n": "No Low Stamina And Low Health Vignette",
+    "cat": "🖥️ واجهة",
+    "desc": "يزيل Vignette الخاص بانخفاض الصحة والتحمل مع خيار لإزالة مؤثرات الدم على الشاشة.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "راجع ملاحظات التوافق مع تحديثات اللعبة.",
+    "install": [
+      "حمّل الملف المطلوب من Nexus.",
+      "ثبّت الملفات داخل Mods حسب الصفحة.",
+      "اختر الملف الاختياري لإزالة الدم إن رغبت.",
+      "اختبر انخفاض Stamina وHealth."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/864"
   }
 ]
