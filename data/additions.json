@@ -5688,5 +5688,99 @@
       "شغّل اللعبة وافحص Magdalena في الـForge."
     ],
     "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3315"
+  },
+  {
+    "id": "kcd2-materials-transfer",
+    "g": "kcd2",
+    "n": "Materials Transfer",
+    "cat": "🎒 QoL",
+    "desc": "يضيف اختصارًا لنقل مواد الخيمياء بين المخزن والجرد عند طاولة الخيمياء ومجفف الأعشاب والحدادة.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "لا يغيّر اختصارات Vanilla.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "استخرج المحتويات داخل مجلد Mods.",
+      "شغّل اللعبة واستخدم F عند مواقع التصنيع لنقل المواد."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3015"
+  },
+  {
+    "id": "kcd2-jewish-quarter-restored",
+    "g": "kcd2",
+    "n": "Jewish Quarter Restored",
+    "cat": "🏘️ محتوى",
+    "desc": "يعيد إصلاح الحي اليهودي في Kuttenberg بعد القصة الرئيسية ويعيد معظم NPCs والتجار.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "يتطلب -devmode للتفعيل حسب صفحة المود.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "فك الملفات داخل Mods.",
+      "أضف -devmode إلى Launch Options.",
+      "اتبع خطوة التفعيل المذكورة في صفحة المود بعد نهاية القصة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3038"
+  },
+  {
+    "id": "kcd2-more-noble-bascinet",
+    "g": "kcd2",
+    "n": "More Noble Bascinet",
+    "cat": "🛡️ دروع",
+    "desc": "يضيف Variant جديدًا من Noble Bascinet.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع مجلد المود داخل Mods.",
+      "شغّل اللعبة واحصل على النسخة الجديدة بالطريقة الموضحة في الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3165"
+  },
+  {
+    "id": "kcd2-kcd1-style-items",
+    "g": "kcd2",
+    "n": "PH KCD1 style items",
+    "cat": "⚔️ معدات",
+    "desc": "يضيف أسلحة ودروع وملابس وعناصر مستوحاة من Kingdom Come: Deliverance الأولى.",
+    "compat": "Kingdom Come: Deliverance II؛ اختبر توافق الإصدار الحالي.",
+    "req": "راجع متطلبات صفحة المود.",
+    "install": [
+      "حمّل أحدث ملف من Nexus.",
+      "ثبّت المجلد داخل Mods.",
+      "أضف المود إلى mod_order.txt إذا كان مستخدمًا.",
+      "اختبر العناصر عبر التجار/الصناديق حسب الصفحة."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2265"
+  },
+  {
+    "id": "kcd2-difficult-master-strike",
+    "g": "kcd2",
+    "n": "Difficult Master Strike",
+    "cat": "⚔️ Combat",
+    "desc": "يصعّب توقيت Master Strikes وPerfect Blocks لقتال أكثر تحديًا.",
+    "compat": "Kingdom Come: Deliverance II 1.5.",
+    "req": "اختر الملف المناسب لمستوى الصعوبة المطلوب.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات داخل Mods حسب الصفحة.",
+      "ابدأ بحفظ احتياطي.",
+      "اختبر القتال والمبارزات قبل دمجه مع Combat Overhaul آخر."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2763"
+  },
+  {
+    "id": "kcd2-cfg-reshade-v5",
+    "g": "kcd2",
+    "n": "CFG AND RESHADE PRESET - Definitive Version 5.0",
+    "cat": "🎨 رسومات",
+    "desc": "حزمة CFG وReShade قابلة للتعديل لتحسين جودة الصورة على 4K و2K وHD.",
+    "compat": "Kingdom Come: Deliverance II.",
+    "req": "ReShade ومتطلبات الصفحة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "ثبّت ReShade حسب التعليمات.",
+      "طبّق CFG والـPreset المناسب لدقتك.",
+      "اختبر الأداء وعدّل القيم حسب جهازك."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/2187"
   }
 ]
