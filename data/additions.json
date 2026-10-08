@@ -6753,5 +6753,853 @@
       "اختبر مشاهد النهار والليل."
     ],
     "url": "https://www.nexusmods.com/residentevil5goldedition/mods/269"
+  },
+  {
+    "id": "re5-super-weapon-pack",
+    "g": "re5",
+    "n": "Super Weapon Pack And Sounds",
+    "cat": "🔫 أسلحة",
+    "desc": "حزمة أسلحة متنوعة مع أصوات وحركات مخصصة.",
+    "compat": "Resident Evil 5 Gold Edition.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil5goldedition/mods/572"
+  },
+  {
+    "id": "re6-ultimate-trainer",
+    "g": "re6",
+    "n": "Resident Evil 6 Ultimate Trainer",
+    "cat": "🧰 أدوات",
+    "desc": "Trainer شامل لخيارات وتجارب اللعب الفردي.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/12"
+  },
+  {
+    "id": "re6-mod-menu",
+    "g": "re6",
+    "n": "Mod Menu Trainer",
+    "cat": "🧰 أدوات",
+    "desc": "قائمة أدوات مبنية على Cheat Engine للاستخدام الفردي والتجارب.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "Cheat Engine حسب تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/319"
+  },
+  {
+    "id": "re6-carla-white-biker",
+    "g": "re6",
+    "n": "Carla White Biker",
+    "cat": "👤 شخصيات",
+    "desc": "يستبدل المظهر الافتراضي لـCarla بزي White Biker.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/294"
+  },
+  {
+    "id": "re6-ada-rpd",
+    "g": "re6",
+    "n": "Ada Wong RPD Outfit",
+    "cat": "👗 ملابس",
+    "desc": "زي بديل لشخصية Ada بطابع RPD.",
+    "compat": "Resident Evil 6 PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/residentevil6/mods/260"
+  },
+  {
+    "id": "mhw-strackers-loader",
+    "g": "mhw",
+    "n": "Stracker's Loader",
+    "cat": "🧰 أدوات",
+    "desc": "يعيد دعم nativePC الكامل ويعد أساسًا لعدد كبير من مودات MHW.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/1982"
+  },
+  {
+    "id": "mhw-performance-booster",
+    "g": "mhw",
+    "n": "Performance Booster and Plugin Extender",
+    "cat": "⚡ أداء",
+    "desc": "تحسينات أداء وإزالة أجزاء غير محسنة مع دعم Plugins إضافية.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "Stracker's Loader حسب متطلبات الإصدار.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/3473"
+  },
+  {
+    "id": "mhw-all-items-iceborne",
+    "g": "mhw",
+    "n": "All Items in Shop for Iceborne",
+    "cat": "🛒 QoL",
+    "desc": "يضيف عناصر اللعبة إلى المتجر للاستخدام الفردي.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/1962"
+  },
+  {
+    "id": "mhw-sorted-shop",
+    "g": "mhw",
+    "n": "Sorted Shop (All Items)",
+    "cat": "🛒 QoL",
+    "desc": "يضيف العناصر للمتجر بطريقة مرتبة ومتوافقة مع Iceborne.",
+    "compat": "Monster Hunter: World / Iceborne PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterworld/mods/504"
+  },
+  {
+    "id": "mhr-fluffy",
+    "g": "mhr",
+    "n": "Fluffy Manager 5000",
+    "cat": "🧰 أدوات",
+    "desc": "مدير مودات لملفات PAK ويسهل التفعيل والتعطيل.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/7"
+  },
+  {
+    "id": "mhr-direct2d",
+    "g": "mhr",
+    "n": "REFramework Direct2D",
+    "cat": "🧰 أدوات",
+    "desc": "Plugin يضيف واجهات Direct2D للسكربتات داخل REFramework.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "REFramework 1.5.4 أو أحدث حسب الصفحة.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/134"
+  },
+  {
+    "id": "mhr-weakness-icon",
+    "g": "mhr",
+    "n": "Monster Weakness Icon Indicator",
+    "cat": "🖥️ واجهة",
+    "desc": "يعرض ضعف الوحش العنصري بوضوح.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/54"
+  },
+  {
+    "id": "mhr-firstnatives",
+    "g": "mhr",
+    "n": "FirstNatives",
+    "cat": "🧰 أدوات",
+    "desc": "يعطي أولوية لملفات natives بدل PAK لتسهيل بعض التركيبات.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/848"
+  },
+  {
+    "id": "mhr-physics-enabler",
+    "g": "mhr",
+    "n": "Dytsers Physics Enabler",
+    "cat": "🧰 أدوات",
+    "desc": "مورد يفتح دعم الفيزياء لمودات الدروع والملابس التي تعتمد عليه.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/220"
+  },
+  {
+    "id": "mhr-hunterpie",
+    "g": "mhr",
+    "n": "HunterPie v2 - Overlay and Rich Presence",
+    "cat": "📊 واجهة",
+    "desc": "Overlay حديث ونظيف لعرض معلومات الصيد.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/181"
+  },
+  {
+    "id": "mhr-charm-editor",
+    "g": "mhr",
+    "n": "Charm Editor and Item Cheat",
+    "cat": "🧰 أدوات",
+    "desc": "محرر Charms وعناصر ونقاط للاستخدام الفردي.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/17"
+  },
+  {
+    "id": "mhr-spiritbirds",
+    "g": "mhr",
+    "n": "SpiritBirds",
+    "cat": "🎮 QoL",
+    "desc": "يسمح بظهور Prism Bird في بداية المهمة أو استدعاء SpiritBirds يدويًا.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "REFramework.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/886"
+  },
+  {
+    "id": "mhr-drop-rates",
+    "g": "mhr",
+    "n": "Drop Rates Enhanced",
+    "cat": "🎁 QoL",
+    "desc": "يزيد المكافآت بطريقة متوازنة ويقلل التكرار في التجميع.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/203"
+  },
+  {
+    "id": "mhr-overlay",
+    "g": "mhr",
+    "n": "MHR Overlay - Monster HP - Damage Meter",
+    "cat": "📊 واجهة",
+    "desc": "يعرض بيانات الوحوش والصحة والضرر ومعلومات إضافية.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/50"
+  },
+  {
+    "id": "mhr-menu-api",
+    "g": "mhr",
+    "n": "Custom In-Game Mod Menu API",
+    "cat": "🧰 أدوات",
+    "desc": "API لإنشاء قوائم إعدادات داخل اللعبة لمودات REFramework.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "REFramework.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/1292"
+  },
+  {
+    "id": "mhr-vip-dango",
+    "g": "mhr",
+    "n": "VIP Dango Tickets",
+    "cat": "🍡 QoL",
+    "desc": "يجعل Dango Tickets تمنح معدل تفعيل 100% مع خيارات إضافية.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "REFramework.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/92"
+  },
+  {
+    "id": "mhr-feminine-animations",
+    "g": "mhr",
+    "n": "Feminine Hunter Animations",
+    "cat": "🎞️ حركات",
+    "desc": "يستبدل حركات الوقوف والمشي والجري بحركات بديلة.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/892"
+  },
+  {
+    "id": "mhr-youthful-face",
+    "g": "mhr",
+    "n": "Youthful Female Face Textures",
+    "cat": "🖼️ خامات",
+    "desc": "خامات وجه أعلى دقة وأكثر نعومة للشخصيات النسائية.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/72"
+  },
+  {
+    "id": "mhr-follow-me",
+    "g": "mhr",
+    "n": "Follow Me",
+    "cat": "🎮 Gameplay",
+    "desc": "يتيح اصطحاب Followers في المهام الفردية مع خيارات موازنة.",
+    "compat": "Monster Hunter Rise / Sunbreak PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/1028"
+  },
+  {
+    "id": "dying1-auto-blueprints",
+    "g": "dying1",
+    "n": "Auto-Learn All Blueprints",
+    "cat": "🧰 QoL",
+    "desc": "يتعلم مخططات اللعبة تلقائيًا عند تحميل الحفظ.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/147"
+  },
+  {
+    "id": "dying1-all-items-shop",
+    "g": "dying1",
+    "n": "All Items in Shop",
+    "cat": "🛒 QoL",
+    "desc": "يضيف جميع العناصر إلى المتاجر دون تغيير بقية قيم اللعب.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/93"
+  },
+  {
+    "id": "dying1-unlimited-durability",
+    "g": "dying1",
+    "n": "Unlimited Weapon Durability - Heal Regen - x5XP",
+    "cat": "🎮 Gameplay",
+    "desc": "حزمة خيارات فردية للتحمل والتجدد والخبرة.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/166"
+  },
+  {
+    "id": "dying1-fps-lowend",
+    "g": "dying1",
+    "n": "FPS Tweaks for Low End PCs",
+    "cat": "⚡ أداء",
+    "desc": "إعدادات لتقليل المؤثرات ورفع الأداء على الأجهزة الأضعف.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/307"
+  },
+  {
+    "id": "dying1-merchants-all",
+    "g": "dying1",
+    "n": "Merchants And Quartermasters - All Items",
+    "cat": "🛒 QoL",
+    "desc": "يوسع مخزون التجار والـQuartermasters مع خيارات للأسعار.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/188"
+  },
+  {
+    "id": "dying1-grapple-distance",
+    "g": "dying1",
+    "n": "Infinite Grappling Hook - Longer Distance",
+    "cat": "🪝 Gameplay",
+    "desc": "يزيد مدى Grappling Hook ويزيل وقت الانتظار وفق خيارات المود.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/265"
+  },
+  {
+    "id": "dying1-clm-weapons",
+    "g": "dying1",
+    "n": "CLM Weapon Pack",
+    "cat": "🔫 أسلحة",
+    "desc": "حزمة Blueprints لأسلحة مخصصة ومتنوعة.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/202"
+  },
+  {
+    "id": "dying1-advanced-moves",
+    "g": "dying1",
+    "n": "Advanced Moves",
+    "cat": "🏃 Gameplay",
+    "desc": "يضيف مهارات وحركات جديدة واختصارات استخدام إضافية.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/47"
+  },
+  {
+    "id": "dying1-fps-boost",
+    "g": "dying1",
+    "n": "FPS Boost",
+    "cat": "⚡ أداء",
+    "desc": "Preset يوازن بين الرسومات والأداء لرفع الإطارات.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/904"
+  },
+  {
+    "id": "dying1-dynamic-weather",
+    "g": "dying1",
+    "n": "Dynamic Weather and Extended Time Cycles",
+    "cat": "🌦️ انغماس",
+    "desc": "يغير الطقس ديناميكيًا ويطيل دورات النهار والليل.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/222"
+  },
+  {
+    "id": "dying1-dlc-weapons-overhaul",
+    "g": "dying1",
+    "n": "DLC Weapons Overhaul",
+    "cat": "🔫 أسلحة",
+    "desc": "تعديلات موسعة لأسلحة DLC.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/90"
+  },
+  {
+    "id": "dying1-sweetfx",
+    "g": "dying1",
+    "n": "Dying Light SweetFX",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري يخفف الفلتر الأخضر/الأصفر ويحسن الصورة.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/17"
+  },
+  {
+    "id": "dying1-lockpicking-removal",
+    "g": "dying1",
+    "n": "Lockpicking Removal for Enhanced Edition",
+    "cat": "🔓 QoL",
+    "desc": "يبسط أو يزيل Lockpicking في بعض الصناديق.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/169"
+  },
+  {
+    "id": "dying1-custom-weapon-upgrades",
+    "g": "dying1",
+    "n": "Custom Weapon Upgrades",
+    "cat": "🛠️ أسلحة",
+    "desc": "يضيف عشرات Blueprints لترقيات وتأثيرات أسلحة مخصصة.",
+    "compat": "Dying Light PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight/mods/209"
+  },
+  {
+    "id": "dying2-dev-menu",
+    "g": "dying2",
+    "n": "Dying Light 2 Developer Menu",
+    "cat": "🧰 أدوات",
+    "desc": "يعيد Developer Menu للاستخدام الفردي والاختبار.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/11"
+  },
+  {
+    "id": "dying2-exotic-weapons",
+    "g": "dying2",
+    "n": "Unlock All Exotic Weapons",
+    "cat": "🔫 أسلحة",
+    "desc": "يفتح أسلحة Exotic وفق نسخة اللعبة المدعومة.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/649"
+  },
+  {
+    "id": "dying2-unlimited-durability",
+    "g": "dying2",
+    "n": "Unlimited Weapon Durability",
+    "cat": "🛠️ QoL",
+    "desc": "يجعل الأسلحة غير قابلة للكسر.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/18"
+  },
+  {
+    "id": "dying2-instant-xp",
+    "g": "dying2",
+    "n": "Instant XP - Overnight Legend",
+    "cat": "📈 Gameplay",
+    "desc": "يزيد اكتساب XP وLegend Points مع نسخ بدرجات مختلفة.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/921"
+  },
+  {
+    "id": "dying2-restore-grapple",
+    "g": "dying2",
+    "n": "Restore Grappling Hook",
+    "cat": "🪝 Gameplay",
+    "desc": "يعيد خصائص Grappling Hook القديمة ويلغي بعض Nerfs.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/387"
+  },
+  {
+    "id": "dying2-free-blueprints",
+    "g": "dying2",
+    "n": "Free Blueprints Craft and Upgrade",
+    "cat": "🛠️ QoL",
+    "desc": "يجعل تصنيع وترقية Blueprints مجانية.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/557"
+  },
+  {
+    "id": "dying2-infinite-inhibitors",
+    "g": "dying2",
+    "n": "Infinite Inhibitors",
+    "cat": "📈 Gameplay",
+    "desc": "يوفر Inhibitors بلا حد لتجارب التطوير الفردية.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1145"
+  },
+  {
+    "id": "dying2-easy-lockpick",
+    "g": "dying2",
+    "n": "Easy Lock Picking",
+    "cat": "🔓 QoL",
+    "desc": "يسهل Lockpicking ويقلل كسر أدوات الفتح.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/30"
+  },
+  {
+    "id": "dying2-more-loot",
+    "g": "dying2",
+    "n": "More Loot",
+    "cat": "🎁 Gameplay",
+    "desc": "يزيد كمية Loot من الحاويات والزومبي.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/57"
+  },
+  {
+    "id": "dying2-survivor-sense",
+    "g": "dying2",
+    "n": "Increased Survivor Sense",
+    "cat": "👁️ QoL",
+    "desc": "يزيد مدى ومدة Survivor Sense.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/42"
+  },
+  {
+    "id": "dying2-cheat-table",
+    "g": "dying2",
+    "n": "Synsteric's DL2 Cheat Table",
+    "cat": "🧰 أدوات",
+    "desc": "جدول أدوات واسع للاختبار والتجارب الفردية.",
+    "compat": "Dying Light 2 Stay Human PC.",
+    "req": "Cheat Engine.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/dyinglight2/mods/1551"
+  },
+  {
+    "id": "mafia3-justmy",
+    "g": "mafia3",
+    "n": "JustMyMafiaIII",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade أوضح وأكثر حداثة مع Auto HDR.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "ReShade.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/20"
+  },
+  {
+    "id": "mafia3-fast-launch",
+    "g": "mafia3",
+    "n": "Fast Launch - Skip Startup Videos",
+    "cat": "⚡ QoL",
+    "desc": "يتجاوز شعارات 2K وHangar 13 لتسريع التشغيل.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/53"
+  },
+  {
+    "id": "mafia3-netspider",
+    "g": "mafia3",
+    "n": "Mafia 3 DE Netspider Scripts Set",
+    "cat": "🧰 أدوات",
+    "desc": "مجموعة Scripts محسنة للنسخة Definitive Edition.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/5"
+  },
+  {
+    "id": "mafia3-scaletta-family",
+    "g": "mafia3",
+    "n": "Mafia 3 Scripthook - Scaletta Crime Family",
+    "cat": "🎮 Gameplay",
+    "desc": "Scripthook يضيف تجربة لعب فردية بطابع صراع عائلات المافيا.",
+    "compat": "Mafia III: Definitive Edition PC.",
+    "req": "راجع متطلبات صفحة المود قبل التثبيت.",
+    "install": [
+      "حمّل المود من صفحة Nexus الأصلية.",
+      "اقرأ قسم Requirements وتعليمات الإصدار في الصفحة.",
+      "خذ نسخة احتياطية من الملفات أو الحفظ المتأثر.",
+      "ثبّت الملفات بالمسار المذكور في الصفحة ثم اختبر المود منفردًا قبل دمجه مع تعديلات مشابهة."
+    ],
+    "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/9"
   }
 ]
