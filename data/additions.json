@@ -6500,5 +6500,133 @@
       "اختبر Excella في المشاهد للتأكد من الخامات."
     ],
     "url": "https://www.nexusmods.com/residentevil5goldedition/mods/304"
+  },
+  {
+    "id": "mhr-reframework",
+    "g": "mhr",
+    "n": "REFramework",
+    "cat": "🧰 أدوات",
+    "desc": "إطار أساسي لمودات Monster Hunter Rise يضيف دعم Lua وأدوات مثل FreeCam وFOV وإصلاحات توافق متعددة.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "لا توجد متطلبات إضافية أساسية.",
+    "install": [
+      "حمّل REFramework من Nexus.",
+      "استخرج الملفات داخل مجلد اللعبة بجانب MonsterHunterRise.exe.",
+      "شغّل اللعبة مرة واحدة حتى ينشئ مجلد reframework.",
+      "تأكد من ظهور واجهة REFramework داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/26"
+  },
+  {
+    "id": "mhr-ui-plus-plus",
+    "g": "mhr",
+    "n": "MHR User Interface Plus Plus",
+    "cat": "🖥️ واجهة",
+    "desc": "واجهة قابلة للتخصيص تضيف عدادات محسنة للصحة والتحمل والمؤثرات والوقت وعناصر HUD إضافية.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework أولًا.",
+      "حمّل المود من Nexus.",
+      "ضع ملفات المود في المسارات المذكورة داخل الأرشيف.",
+      "شغّل اللعبة واضبط عناصر الواجهة من REFramework."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/197"
+  },
+  {
+    "id": "mhr-adjustable-ui-scale",
+    "g": "mhr",
+    "n": "Adjustable UI Scale",
+    "cat": "🖥️ واجهة",
+    "desc": "يتيح تصغير أو تكبير معظم عناصر HUD بشكل منفصل لتحسين الرؤية على الدقات المختلفة.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "Custom In-Game Mod Menu API اختياري للتحكم من داخل اللعبة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واضبط حجم عناصر HUD.",
+      "اختبر المؤشرات أثناء مهمة قبل اعتماد الإعدادات."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/207"
+  },
+  {
+    "id": "mhr-high-res-hud-4k",
+    "g": "mhr",
+    "n": "High-res HUD Mod (4K)",
+    "cat": "🖼️ واجهة",
+    "desc": "يرفع دقة خامات HUD وGUI لتبدو أوضح على شاشات 4K والدقات العالية.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "Fluffy Mod Manager موصى به.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "أضفها إلى Fluffy Mod Manager.",
+      "فعّل 4K HUD Mod.",
+      "شغّل اللعبة وتحقق من وضوح عناصر الواجهة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/299"
+  },
+  {
+    "id": "mhr-status-bars",
+    "g": "mhr",
+    "n": "Status Bars",
+    "cat": "📊 واجهة",
+    "desc": "يعرض أشرطة تراكم حالات الوحوش مثل السم والشلل مع خيارات تخصيص متعددة.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "REFramework.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل المود من Nexus.",
+      "ضع السكربت في مجلد reframework/autorun حسب تعليمات الصفحة.",
+      "شغّل مهمة واضبط الأشرطة من واجهة المود."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/113"
+  },
+  {
+    "id": "mhr-rise-tweaks",
+    "g": "mhr",
+    "n": "RiseTweaks",
+    "cat": "⚡ أداء",
+    "desc": "يوفر إعدادات إضافية مثل Frame Limit وImage Quality عبر ملف إعدادات بسيط ويعمل مع تشغيل اللعبة.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "REFramework مطلوب لتجاوز Integrity Check.",
+    "install": [
+      "ثبّت REFramework أولًا.",
+      "استخرج ملفات RiseTweaks داخل مجلد اللعبة الرئيسي.",
+      "افتح RiseTweaks.ini واضبط FrameLimit وImageQuality.",
+      "تجنب وضع القيم على 0 ثم شغّل اللعبة واختبر الاستقرار."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/37"
+  },
+  {
+    "id": "mhr-rise-rehydrated",
+    "g": "mhr",
+    "n": "Rise Rehydrated",
+    "cat": "🎨 رسومات",
+    "desc": "تحكم بصري مباشر عبر REFramework في الألوان والحدة والتعريض والـBloom والضباب والظلال مع Presets جاهزة.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "REFramework؛ Fluffy Mod Manager مناسب للتثبيت.",
+    "install": [
+      "ثبّت REFramework.",
+      "حمّل Rise Rehydrated.",
+      "أضف ZIP إلى Fluffy Mod Manager وفعّله.",
+      "من REFramework افتح Script Generated UI ثم Rise Rehydrated واضبط الإعدادات."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/3993"
+  },
+  {
+    "id": "mhr-nyx-realism-reshade",
+    "g": "mhr",
+    "n": "Nyx Realism Reshade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset بصري حديث يركز على صورة نظيفة وواضحة مع تحسينات إضاءة وظلال وتأثيرات خفيفة على الأداء.",
+    "compat": "Monster Hunter Rise PC.",
+    "req": "ReShade؛ صفحة المود توصي بـCrispy Shadows وDisable Sharpening.",
+    "install": [
+      "راجع متطلبات صفحة المود وثبّتها أولًا.",
+      "ثبّت ReShade للعبة.",
+      "ضع Preset وملفات الشيدر في المسارات المذكورة.",
+      "فعّل الـPreset واختبر الأداء داخل منطقة مفتوحة."
+    ],
+    "url": "https://www.nexusmods.com/monsterhunterrise/mods/3471"
   }
 ]
