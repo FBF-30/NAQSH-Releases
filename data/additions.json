@@ -5252,5 +5252,174 @@
       "ادخل اللعبة واختبر الشاحنة."
     ],
     "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/39"
+  },
+  {
+    "id": "acs-anviltoolkit",
+    "g": "acs",
+    "n": "AnvilToolkit",
+    "cat": "🛠️ أداة",
+    "desc": "مجموعة أدوات لتحرير ملفات ألعاب Anvil وتستخدم كأساس لعدد من مودات Syndicate.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "استخدم أحدث إصدار متوافق.",
+    "install": [
+      "حمّل AnvilToolkit من Nexus.",
+      "استخرج البرنامج إلى مجلد مستقل.",
+      "اختر Assassin's Creed Syndicate داخل الأداة.",
+      "استخدمه فقط للمودات التي تذكره كمتطلب."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/34"
+  },
+  {
+    "id": "acs-syndicate-photorealistic",
+    "g": "acs",
+    "n": "Syndicate Photorealistic ReShade",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يحسن الإضاءة والألوان والحدة مع الحفاظ على أداء مناسب.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade على اللعبة.",
+      "ضع ملف الـPreset داخل مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/161"
+  },
+  {
+    "id": "acs-chameleon-fix",
+    "g": "acs",
+    "n": "Chameleon Ability Fix",
+    "cat": "🛠️ إصلاحات",
+    "desc": "يزيل مؤثر الاختفاء البصري المرتبط بمهارة Chameleon لدى Evie.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "راجع تعليمات الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب تعليمات المؤلف.",
+      "اختبر مهارة Chameleon بعد التثبيت."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/174"
+  },
+  {
+    "id": "acs-hidden-thigh-knife",
+    "g": "acs",
+    "n": "Hidden Thigh Knife",
+    "cat": "👤 مظهر",
+    "desc": "يخفي السكين الظاهر على فخذ Evie لمظهر أنظف.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب الصفحة.",
+      "شغّل اللعبة وافحص مظهر Evie."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/6"
+  },
+  {
+    "id": "acs-simple-realistic-3d",
+    "g": "acs",
+    "n": "Simple Realistic 3D",
+    "cat": "🎨 رسومات",
+    "desc": "Preset ReShade بسيط يرفع واقعية الصورة مع تأثير أداء محدود نسبيًا ويدعم وضع 3D.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "ReShade.",
+    "install": [
+      "ثبّت ReShade.",
+      "ضع ملفات الـPreset والشيدر حسب الصفحة.",
+      "فعّل Simple Realistic 3D داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/12"
+  },
+  {
+    "id": "acs-dualshock4-fix",
+    "g": "acs",
+    "n": "Dualshock 4 PlayStation Controller Fix",
+    "cat": "🎮 تحكم",
+    "desc": "يصلح خلط أيقونات وأزرار يد DualShock 4 داخل اللعبة.",
+    "compat": "Assassin's Creed Syndicate PC + DualShock 4.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملف حسب التعليمات.",
+      "شغّل اللعبة واختبر واجهة التحكم."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/32"
+  },
+  {
+    "id": "acs-lord-cardigan",
+    "g": "acs",
+    "n": "Lord Cardigan Outfit",
+    "cat": "👕 ملابس",
+    "desc": "يمنح Jacob زي Lord Cardigan.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات الزي حسب الصفحة.",
+      "شغّل اللعبة واختر الزي المقابل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/61"
+  },
+  {
+    "id": "acs-modern-evie",
+    "g": "acs",
+    "n": "Modern Day Clothes for Evie Frye",
+    "cat": "👗 ملابس",
+    "desc": "يحوّل ملابس Evie إلى جاكيت دراجة نارية وجينز مع عدة ألوان.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "Resorep.",
+    "install": [
+      "ثبّت Resorep أولًا.",
+      "حمّل لون الزي المطلوب من Nexus.",
+      "اتبع تعليمات الصفحة لتطبيق الخامات.",
+      "اختر Nighthawk Outfit بدون لون داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/7"
+  },
+  {
+    "id": "acs-pop-dagger",
+    "g": "acs",
+    "n": "Prince of Persia Dagger",
+    "cat": "🗡️ سلاح",
+    "desc": "يستبدل Legendary Assassin Kukri بخنجر مستوحى من Prince of Persia.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "AnvilToolkit.",
+    "install": [
+      "ثبّت AnvilToolkit.",
+      "حمّل المود من Nexus.",
+      "طبّق الملفات حسب تعليمات الصفحة.",
+      "اختبر Legendary Assassin Kukri داخل اللعبة."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/105"
+  },
+  {
+    "id": "acs-shaojun-cleanup",
+    "g": "acs",
+    "n": "Shao Jun Outfit Cleanup",
+    "cat": "👗 ملابس",
+    "desc": "يزيل الحقيبة الخلفية من زي Shao Jun ويكمل حزام السلاح.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "راجع طريقة التثبيت في الصفحة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت الملفات حسب التعليمات.",
+      "اختر Shao Jun Outfit داخل اللعبة وتحقق من التعديل."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/201"
+  },
+  {
+    "id": "acs-4k-cutscenes",
+    "g": "acs",
+    "n": "AC Syndicate - 4K Cutscene Remaster",
+    "cat": "🎬 فيديو",
+    "desc": "يعيد معالجة جميع المشاهد السينمائية بدقة 4K و60FPS للشاشات الحديثة.",
+    "compat": "Assassin's Creed Syndicate PC.",
+    "req": "مساحة تخزين كبيرة ويفضّل SSD.",
+    "install": [
+      "خذ نسخة احتياطية من مجلد videos.",
+      "حمّل الحزمة من Nexus.",
+      "استخرج الملفات داخل مجلد videos.",
+      "حافظ على 60FPS ثابت قدر الإمكان لتفادي عدم تزامن بعض المقاطع."
+    ],
+    "url": "https://www.nexusmods.com/assassinscreedsyndicate/mods/66"
   }
 ]
