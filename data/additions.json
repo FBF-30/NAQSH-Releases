@@ -5095,5 +5095,37 @@
       "اختبر الصورة نهارًا وليلًا قبل دمجه مع Preset بصري آخر."
     ],
     "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/129"
+  },
+  {
+    "id": "mafia1-hud-cleaned",
+    "g": "mafia1",
+    "n": "HUD Cleaned",
+    "cat": "🖥️ واجهة",
+    "desc": "ينظف الواجهة بإزالة معظم عناصر HUD غير الضرورية ويقلل مدة ظهور أهداف المهمات ويبسّط مؤشر التصويب.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "لا توجد متطلبات خاصة أساسية.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من ملفات الواجهة الأصلية.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر القتال والقيادة والمهمات."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/115"
+  },
+  {
+    "id": "mafia1-minimal-hud-dot",
+    "g": "mafia1",
+    "n": "Minimal HUD plus Dot Crosshair",
+    "cat": "🖥️ واجهة",
+    "desc": "يبقي العناصر المهمة فقط مثل مؤشر التصويب وعجلة السلاح والتنبيهات الضرورية مع إزالة معظم الواجهة.",
+    "compat": "Mafia: Definitive Edition PC.",
+    "req": "يفضّل ضبط HUD إلى Minimal داخل إعدادات اللعبة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "خذ نسخة احتياطية من game_constant.xml وingame_gui.sds.",
+      "استبدل الملفات حسب المسارات الموضحة في صفحة المود.",
+      "شغّل اللعبة واختبر HUD أثناء القيادة والقتال."
+    ],
+    "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/270"
   }
 ]
