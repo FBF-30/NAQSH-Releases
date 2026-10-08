@@ -5205,5 +5205,36 @@
       "اختبر اللعبة قبل دمجها مع Overhaul بصري آخر."
     ],
     "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/117"
+  },
+  {
+    "id": "mafia2-natural-visuals",
+    "g": "mafia2",
+    "n": "Natural Visuals",
+    "cat": "🎨 رسومات",
+    "desc": "يحسن ألوان اللعبة ويزيل الصبغة الزرقاء القوية للحصول على صورة أكثر طبيعية.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade.",
+    "install": [
+      "حمّل NaturalMafia.ini من Nexus.",
+      "ثبّت ReShade للعبة.",
+      "اختر ملف NaturalMafia.ini كـPreset.",
+      "شغّل اللعبة وتأكد من تطبيق الألوان الجديدة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/113"
+  },
+  {
+    "id": "mafia2-classic-weapons-sounds",
+    "g": "mafia2",
+    "n": "Classic Weapons Sounds",
+    "cat": "🔊 صوت",
+    "desc": "يعيد أصوات الأسلحة وحركات اليد من النسخة الكلاسيكية إلى Definitive Edition.",
+    "compat": "Mafia II: Definitive Edition؛ يدعم جميع اللغات وFriends for Life.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الملف من Nexus.",
+      "انسخ الملفات إلى مجلد اللعبة ووافق على الاستبدال.",
+      "شغّل اللعبة واختبر عدة أسلحة."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/33"
   }
 ]
