@@ -4825,37 +4825,6 @@
     "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/1558"
   },
   {
-    "id": "kcd2-barber-options",
-    "g": "kcd2",
-    "n": "More Barber Options - Hair and Beards",
-    "cat": "👤 شخصيات",
-    "desc": "يضيف تسريحات شعر ولحى إضافية إلى الحلاق.",
-    "compat": "Kingdom Come: Deliverance II.",
-    "req": "PTF.",
-    "install": [
-      "حمّل المود من Nexus.",
-      "ثبّت الملفات حسب الصفحة.",
-      "افتح الحلاق داخل اللعبة وتحقق من الخيارات الجديدة."
-    ],
-    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/247"
-  },
-  {
-    "id": "dd2-better-ui-map-icons",
-    "g": "dd2",
-    "n": "Better UI - Colorful Map Icons",
-    "cat": "🗺️ واجهة",
-    "desc": "يستبدل أيقونات الخريطة الباهتة بأيقونات ملونة أوضح مع Addon اختياري للـMinimap.",
-    "compat": "Dragon's Dogma 2؛ متوافق مع تحديث سبتمبر 2026.",
-    "req": "DD2 Pak Bridge + Fluffy Mod Manager.",
-    "install": [
-      "ثبّت DD2 Pak Bridge وFluffy Mod Manager.",
-      "حمّل Better_Map_Icons.pak من Nexus.",
-      "اسحب الملف إلى Fluffy Mod Manager وفعّله.",
-      "اختياريًا ثبّت Minimap Addon بالطريقة نفسها."
-    ],
-    "url": "https://www.nexusmods.com/dragonsdogma2/mods/76"
-  },
-  {
     "id": "dd2-crowd-density-overhaul",
     "g": "dd2",
     "n": "Crowd Density Overhaul - NPC Rendering Fix",
@@ -8256,5 +8225,21 @@
       "شغّل اللعبة وتحقق من مظهر Lincoln."
     ],
     "url": "https://www.nexusmods.com/mafia3definitiveedition/mods/65"
+  },
+  {
+    "id": "kcd2-clean-pause",
+    "g": "kcd2",
+    "n": "KCD2 Clean Pause",
+    "cat": "🖥️ QoL",
+    "desc": "يوقف اللعبة بدون تغطية مشهد اللعب مع إبقاء HUD والترجمة ظاهرة أثناء التوقف.",
+    "compat": "Kingdom Come: Deliverance II؛ الصفحة تذكر الاختبار على 1.5.",
+    "req": "راجع إصدار اللعبة المدعوم قبل التثبيت.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ضع ملفات المود في مجلد Mods حسب تعليمات الصفحة.",
+      "شغّل اللعبة واختبر Pause.",
+      "عطّل أي تعديل آخر لقائمة Pause عند التعارض."
+    ],
+    "url": "https://www.nexusmods.com/kingdomcomedeliverance2/mods/3561"
   }
 ]
