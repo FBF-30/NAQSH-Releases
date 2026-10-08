@@ -5127,5 +5127,83 @@
       "شغّل اللعبة واختبر HUD أثناء القيادة والقتال."
     ],
     "url": "https://www.nexusmods.com/mafiadefinitiveedition/mods/270"
+  },
+  {
+    "id": "mafia2-language-tool",
+    "g": "mafia2",
+    "n": "Mafia II DE Language Tool",
+    "cat": "🛠️ أداة",
+    "desc": "يسمح بتغيير لغة الصوت والنص والترجمة بشكل مستقل.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل الأداة من Nexus.",
+      "شغّلها حسب تعليمات الصفحة.",
+      "اختر لغة الصوت والنص والترجمة بشكل مستقل.",
+      "شغّل اللعبة وتأكد من تطبيق الإعدادات."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/144"
+  },
+  {
+    "id": "mafia2-fidelityvision",
+    "g": "mafia2",
+    "n": "FidelityVision - RT Preset",
+    "cat": "🎨 رسومات",
+    "desc": "Preset يحسن الإضاءة والظلال مع الحفاظ على الطابع الأصلي للعبة.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "ReShade 6.6.1+ مع TFAA وVolumetricFog shaders.",
+    "install": [
+      "ثبّت ReShade على اللعبة.",
+      "أضف TFAA وVolumetricFog حسب تعليمات الصفحة.",
+      "ضع ملف FidelityVision داخل مجلد اللعبة.",
+      "فعّل الـPreset من قائمة ReShade."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/114"
+  },
+  {
+    "id": "mafia2-script-hook",
+    "g": "mafia2",
+    "n": "Mafia II Definitive Edition Script Hook",
+    "cat": "🛠️ أداة",
+    "desc": "يوفر بيئة Lua لتشغيل مودات وسكربتات إضافية داخل Mafia II DE.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "استخدم الإصدار المطابق للعبة.",
+    "install": [
+      "حمّل Script Hook من Nexus.",
+      "ثبّت الملفات في المسار الموضح بالصفحة.",
+      "شغّل اللعبة وتأكد من عمل السكربتات المطلوبة فقط."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/105"
+  },
+  {
+    "id": "mafia2-joker-2019",
+    "g": "mafia2",
+    "n": "Joker (2019) Mod",
+    "cat": "👤 شخصيات",
+    "desc": "يحوّل مظهر Vito إلى Joker المستوحى من فيلم 2019.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "لا توجد متطلبات خاصة.",
+    "install": [
+      "حمّل المود من Nexus.",
+      "ثبّت ملفات المظهر حسب تعليمات الصفحة.",
+      "شغّل اللعبة وتحقق من نموذج Vito."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/111"
+  },
+  {
+    "id": "mafia2-new-years",
+    "g": "mafia2",
+    "n": "Mafia II New Year's Collection",
+    "cat": "🎄 Gameplay",
+    "desc": "حزمة موسمية تضيف أجواء شتوية ورأس سنة لتغيير طابع Empire Bay.",
+    "compat": "Mafia II: Definitive Edition.",
+    "req": "مساحة إضافية للحزمة.",
+    "install": [
+      "حمّل الحزمة من Nexus.",
+      "خذ نسخة احتياطية.",
+      "ثبّت الملفات حسب تعليمات الصفحة.",
+      "اختبر اللعبة قبل دمجها مع Overhaul بصري آخر."
+    ],
+    "url": "https://www.nexusmods.com/mafia2definitiveedition/mods/117"
   }
 ]
